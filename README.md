@@ -6,9 +6,11 @@ Planned for the future:
 - Scripts and other help for creating sets of files with voices
 - Documentation of directory/file layout
 
-# Note: Custom sound files and filters that use them only work on PC, not console.
+### Note: Custom sound files and filters that use them only work on PC, not console.
 
-# Installation instructions
+### Link to filters: https://www.pathofexile.com/account/view-profile/cdrpoe-1004/item-filters
+
+## Installation instructions
 - Choose and download a voice .zip in Releases, such as "AWSPolly-Matthew.zip"
 - Extract the "sounds" folder in the .zip to your Path of Exile 2 filter folder
   - Leave the "sounds" folder intact.
