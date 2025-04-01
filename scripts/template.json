@@ -1,0 +1,747 @@
+[
+    [
+        "socketable/runes/rebirth rune.mp3",
+        "rebirth rune",
+        "<prosody rate='fast'>rebirth rune</prosody>"
+    ],
+    [
+        "socketable/runes/storm rune.mp3",
+        "storm rune",
+        "<prosody rate='fast'>storm rune</prosody>"
+    ],
+    [
+        "socketable/runes/mind rune.mp3",
+        "mind rune",
+        "<prosody rate='fast'>mind rune</prosody>"
+    ],
+    [
+        "socketable/runes/inspiration rune.mp3",
+        "inspiration rune",
+        "<prosody rate='fast'>inspiration rune</prosody>"
+    ],
+    [
+        "socketable/runes/stone rune.mp3",
+        "stone rune",
+        "<prosody rate='fast'>stone rune</prosody>"
+    ],
+    [
+        "socketable/runes/body rune.mp3",
+        "body rune",
+        "<prosody rate='fast'>body rune</prosody>"
+    ],
+    [
+        "socketable/runes/iron rune.mp3",
+        "iron rune",
+        "<prosody rate='fast'>iron rune</prosody>"
+    ],
+    [
+        "socketable/runes/glacial rune.mp3",
+        "glacial rune",
+        "<prosody rate='fast'>glacial rune</prosody>"
+    ],
+    [
+        "socketable/runes/vision rune.mp3",
+        "vision rune",
+        "<prosody rate='fast'>vision rune</prosody>"
+    ],
+    [
+        "socketable/runes/desert rune.mp3",
+        "desert rune",
+        "<prosody rate='fast'>desert rune</prosody>"
+    ],
+    [
+        "currency/chance shard.mp3",
+        "chance shard",
+        "<prosody rate='fast'>chance shard</prosody>"
+    ],
+    [
+        "currency/artificers shard.mp3",
+        "artificers shard",
+        "<prosody rate='fast'>artificers shard</prosody>"
+    ],
+    [
+        "currency/chaos orb.mp3",
+        "chaos orb",
+        "<prosody rate='fast'>chaos orb</prosody>"
+    ],
+    [
+        "currency/lesser jewellers orb.mp3",
+        "lesser jewellers",
+        "<prosody rate='fast'>lesser jewellers</prosody>"
+    ],
+    [
+        "currency/orb of chance.mp3",
+        "chance",
+        ""
+    ],
+    [
+        "currency/arcanists etcher.mp3",
+        "arcanists etcher",
+        "<prosody rate='fast'>arcanists etcher</prosody>"
+    ],
+    [
+        "currency/scroll of wisdom.mp3",
+        "wisdom",
+        ""
+    ],
+    [
+        "currency/glassblowers bauble.mp3",
+        "glassblowers",
+        ""
+    ],
+    [
+        "currency/orb of augmentation.mp3",
+        "augmentation",
+        ""
+    ],
+    [
+        "currency/gemcutters prism.mp3",
+        "gemcutters",
+        ""
+    ],
+    [
+        "currency/blacksmiths whetstone.mp3",
+        "whetstone",
+        ""
+    ],
+    [
+        "currency/artificers orb.mp3",
+        "artificers",
+        ""
+    ],
+    [
+        "currency/vaal orb.mp3",
+        "vaal",
+        ""
+    ],
+    [
+        "currency/regal orb.mp3",
+        "regal",
+        ""
+    ],
+    [
+        "currency/orb of transmutation.mp3",
+        "transmutation",
+        ""
+    ],
+    [
+        "currency/regal shard.mp3",
+        "regal shard",
+        "<prosody rate='fast'>regal shard</prosody>"
+    ],
+    [
+        "currency/orb of alchemy.mp3",
+        "alchemy",
+        ""
+    ],
+    [
+        "currency/armourers scrap.mp3",
+        "armourers",
+        ""
+    ],
+    [
+        "currency/exalted orb.mp3",
+        "exalted orb",
+        "<prosody rate='fast'>exalted orb</prosody>"
+    ],
+    [
+        "gems/uncut support gem level 1.mp3",
+        "uncut support gem level 1",
+        "<prosody rate='fast'>uncut support gem level 1</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 3.mp3",
+        "uncut spirit gem level 3",
+        "<prosody rate='fast'>uncut spirit gem level 3</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 6.mp3",
+        "uncut spirit gem level 6",
+        "<prosody rate='fast'>uncut spirit gem level 6</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 8.mp3",
+        "uncut spirit gem level 8",
+        "<prosody rate='fast'>uncut spirit gem level 8</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 9.mp3",
+        "uncut spirit gem level 9",
+        "<prosody rate='fast'>uncut spirit gem level 9</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 12.mp3",
+        "uncut skill gem level 12",
+        "<prosody rate='fast'>uncut skill gem level 12</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 1.mp3",
+        "uncut spirit gem level 1",
+        "<prosody rate='fast'>uncut spirit gem level 1</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 11.mp3",
+        "uncut spirit gem level 11",
+        "<prosody rate='fast'>uncut spirit gem level 11</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 2.mp3",
+        "uncut spirit gem level 2",
+        "<prosody rate='fast'>uncut spirit gem level 2</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 5.mp3",
+        "uncut skill gem level 5",
+        "<prosody rate='fast'>uncut skill gem level 5</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 7.mp3",
+        "uncut spirit gem level 7",
+        "<prosody rate='fast'>uncut spirit gem level 7</prosody>"
+    ],
+    [
+        "gems/uncut support gem level 2.mp3",
+        "uncut support gem level 2",
+        "<prosody rate='fast'>uncut support gem level 2</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 11.mp3",
+        "uncut skill gem level 11",
+        "<prosody rate='fast'>uncut skill gem level 11</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 8.mp3",
+        "uncut skill gem level 8",
+        "<prosody rate='fast'>uncut skill gem level 8</prosody>"
+    ],
+    [
+        "gems/uncut support gem level 3.mp3",
+        "uncut support gem level 3",
+        "<prosody rate='fast'>uncut support gem level 3</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 2.mp3",
+        "uncut skill gem level 2",
+        "<prosody rate='fast'>uncut skill gem level 2</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 9.mp3",
+        "uncut skill gem level 9",
+        "<prosody rate='fast'>uncut skill gem level 9</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 12.mp3",
+        "uncut spirit gem level 12",
+        "<prosody rate='fast'>uncut spirit gem level 12</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 4.mp3",
+        "uncut spirit gem level 4",
+        "<prosody rate='fast'>uncut spirit gem level 4</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 10.mp3",
+        "uncut skill gem level 10",
+        "<prosody rate='fast'>uncut skill gem level 10</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 14.mp3",
+        "uncut skill gem level 14",
+        "<prosody rate='fast'>uncut skill gem level 14</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 13.mp3",
+        "uncut spirit gem level 13",
+        "<prosody rate='fast'>uncut spirit gem level 13</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 1.mp3",
+        "uncut skill gem level 1",
+        "<prosody rate='fast'>uncut skill gem level 1</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 15.mp3",
+        "uncut spirit gem level 15",
+        "<prosody rate='fast'>uncut spirit gem level 15</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 7.mp3",
+        "uncut skill gem level 7",
+        "<prosody rate='fast'>uncut skill gem level 7</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 6.mp3",
+        "uncut skill gem level 6",
+        "<prosody rate='fast'>uncut skill gem level 6</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 13.mp3",
+        "uncut skill gem level 13",
+        "<prosody rate='fast'>uncut skill gem level 13</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 10.mp3",
+        "uncut spirit gem level 10",
+        "<prosody rate='fast'>uncut spirit gem level 10</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 4.mp3",
+        "uncut skill gem level 4",
+        "<prosody rate='fast'>uncut skill gem level 4</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 5.mp3",
+        "uncut spirit gem level 5",
+        "<prosody rate='fast'>uncut spirit gem level 5</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 3.mp3",
+        "uncut skill gem level 3",
+        "<prosody rate='fast'>uncut skill gem level 3</prosody>"
+    ],
+    [
+        "gems/uncut spirit gem level 14.mp3",
+        "uncut spirit gem level 14",
+        "<prosody rate='fast'>uncut spirit gem level 14</prosody>"
+    ],
+    [
+        "gems/uncut skill gem level 15.mp3",
+        "uncut skill gem level 15",
+        "<prosody rate='fast'>uncut skill gem level 15</prosody>"
+    ],
+    [
+        "classes/amulet.mp3",
+        "amulet",
+        ""
+    ],
+    [
+        "classes/waystone.mp3",
+        "waystone",
+        ""
+    ],
+    [
+        "classes/dagger rare.mp3",
+        "rare dagger",
+        "<prosody rate='fast'>rare dagger</prosody>"
+    ],
+    [
+        "classes/axe rare.mp3",
+        "rare axe",
+        "<prosody rate='fast'>rare axe</prosody>"
+    ],
+    [
+        "classes/relic.mp3",
+        "relic",
+        ""
+    ],
+    [
+        "classes/buckler rare.mp3",
+        "rare buckler",
+        "<prosody rate='fast'>rare buckler</prosody>"
+    ],
+    [
+        "classes/focus rare.mp3",
+        "rare focus",
+        "<prosody rate='fast'>rare focus</prosody>"
+    ],
+    [
+        "classes/claw rare.mp3",
+        "rare claw",
+        "<prosody rate='fast'>rare claw</prosody>"
+    ],
+    [
+        "classes/jewellery rare.mp3",
+        "rare jewellery",
+        "<prosody rate='fast'>rare jewellery</prosody>"
+    ],
+    [
+        "classes/distilled emotion.mp3",
+        "distilled emotion",
+        "<prosody rate='fast'>distilled emotion</prosody>"
+    ],
+    [
+        "classes/omen.mp3",
+        "omen",
+        ""
+    ],
+    [
+        "classes/staff rare.mp3",
+        "rare staff",
+        "<prosody rate='fast'>rare staff</prosody>"
+    ],
+    [
+        "classes/1h mace rare.mp3",
+        "rare 1h mace",
+        "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    ],
+    [
+        "classes/wand rare.mp3",
+        "rare wand",
+        "<prosody rate='fast'>rare wand</prosody>"
+    ],
+    [
+        "classes/boots rare.mp3",
+        "rare boots",
+        "<prosody rate='fast'>rare boots</prosody>"
+    ],
+    [
+        "classes/jewel.mp3",
+        "jewel",
+        ""
+    ],
+    [
+        "classes/sword rare.mp3",
+        "rare sword",
+        "<prosody rate='fast'>rare sword</prosody>"
+    ],
+    [
+        "classes/catalyst.mp3",
+        "catalyst",
+        ""
+    ],
+    [
+        "classes/mana flask.mp3",
+        "mana flask",
+        "<prosody rate='fast'>mana flask</prosody>"
+    ],
+    [
+        "classes/trap rare.mp3",
+        "rare trap",
+        "<prosody rate='fast'>rare trap</prosody>"
+    ],
+    [
+        "classes/spear rare.mp3",
+        "rare spear",
+        "<prosody rate='fast'>rare spear</prosody>"
+    ],
+    [
+        "classes/quiver rare.mp3",
+        "rare quiver",
+        "<prosody rate='fast'>rare quiver</prosody>"
+    ],
+    [
+        "classes/bow rare.mp3",
+        "rare bow",
+        "<prosody rate='fast'>rare bow</prosody>"
+    ],
+    [
+        "classes/2h mace rare.mp3",
+        "rare 2h mace",
+        "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    ],
+    [
+        "classes/essence.mp3",
+        "essence",
+        ""
+    ],
+    [
+        "classes/soul core.mp3",
+        "soul core",
+        "<prosody rate='fast'>soul core</prosody>"
+    ],
+    [
+        "classes/uncut skill gem.mp3",
+        "uncut skill gem",
+        "<prosody rate='fast'>uncut skill gem</prosody>"
+    ],
+    [
+        "classes/boots magic.mp3",
+        "magic boots",
+        "<prosody rate='fast'>magic boots</prosody>"
+    ],
+    [
+        "classes/sceptre rare.mp3",
+        "rare sceptre",
+        "<prosody rate='fast'>rare sceptre</prosody>"
+    ],
+    [
+        "classes/ring.mp3",
+        "ring",
+        ""
+    ],
+    [
+        "classes/uncut spirit gem.mp3",
+        "uncut spirit gem",
+        "<prosody rate='fast'>uncut spirit gem</prosody>"
+    ],
+    [
+        "classes/quarterstaff rare.mp3",
+        "rare quarterstaff",
+        "<prosody rate='fast'>rare quarterstaff</prosody>"
+    ],
+    [
+        "classes/flail rare.mp3",
+        "rare flail",
+        "<prosody rate='fast'>rare flail</prosody>"
+    ],
+    [
+        "classes/crossbow rare.mp3",
+        "rare crossbow",
+        "<prosody rate='fast'>rare crossbow</prosody>"
+    ],
+    [
+        "classes/uncut support gem.mp3",
+        "uncut support gem",
+        "<prosody rate='fast'>uncut support gem</prosody>"
+    ],
+    [
+        "classes/life flask.mp3",
+        "life flask",
+        "<prosody rate='fast'>life flask</prosody>"
+    ],
+    [
+        "classes/belt.mp3",
+        "belt",
+        ""
+    ],
+    [
+        "classes/shield rare.mp3",
+        "rare shield",
+        "<prosody rate='fast'>rare shield</prosody>"
+    ],
+    [
+        "basetypes/amulets/crimson amulet.mp3",
+        "crimson amulet",
+        "<prosody rate='fast'>crimson amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/azure amulet.mp3",
+        "azure amulet",
+        "<prosody rate='fast'>azure amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/gold amulet.mp3",
+        "gold amulet",
+        "<prosody rate='fast'>gold amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/lapis amulet.mp3",
+        "lapis amulet",
+        "<prosody rate='fast'>lapis amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/stellar amulet.mp3",
+        "stellar amulet",
+        "<prosody rate='fast'>stellar amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/lunar amulet.mp3",
+        "lunar amulet",
+        "<prosody rate='fast'>lunar amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/bloodstone amulet.mp3",
+        "bloodstone amulet",
+        "<prosody rate='fast'>bloodstone amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/jade amulet.mp3",
+        "jade amulet",
+        "<prosody rate='fast'>jade amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/solar amulet.mp3",
+        "solar amulet",
+        "<prosody rate='fast'>solar amulet</prosody>"
+    ],
+    [
+        "basetypes/amulets/amber amulet.mp3",
+        "amber amulet",
+        "<prosody rate='fast'>amber amulet</prosody>"
+    ],
+    [
+        "basetypes/charms/stone charm.mp3",
+        "stone charm",
+        "<prosody rate='fast'>stone charm</prosody>"
+    ],
+    [
+        "basetypes/charms/thawing charm.mp3",
+        "thawing charm",
+        "<prosody rate='fast'>thawing charm</prosody>"
+    ],
+    [
+        "basetypes/charms/amethyst charm.mp3",
+        "amethyst charm",
+        "<prosody rate='fast'>amethyst charm</prosody>"
+    ],
+    [
+        "basetypes/charms/dousing charm.mp3",
+        "dousing charm",
+        "<prosody rate='fast'>dousing charm</prosody>"
+    ],
+    [
+        "basetypes/charms/grounding charm.mp3",
+        "grounding charm",
+        "<prosody rate='fast'>grounding charm</prosody>"
+    ],
+    [
+        "basetypes/charms/antidote charm.mp3",
+        "antidote charm",
+        "<prosody rate='fast'>antidote charm</prosody>"
+    ],
+    [
+        "basetypes/charms/golden charm.mp3",
+        "golden charm",
+        "<prosody rate='fast'>golden charm</prosody>"
+    ],
+    [
+        "basetypes/rings/amethyst ring.mp3",
+        "amethyst ring",
+        "<prosody rate='fast'>amethyst ring</prosody>"
+    ],
+    [
+        "basetypes/rings/prismatic ring.mp3",
+        "prismatic ring",
+        "<prosody rate='fast'>prismatic ring</prosody>"
+    ],
+    [
+        "basetypes/rings/breach ring.mp3",
+        "breach ring",
+        "<prosody rate='fast'>breach ring</prosody>"
+    ],
+    [
+        "basetypes/rings/pearl ring.mp3",
+        "pearl ring",
+        "<prosody rate='fast'>pearl ring</prosody>"
+    ],
+    [
+        "basetypes/rings/gold ring.mp3",
+        "gold ring",
+        "<prosody rate='fast'>gold ring</prosody>"
+    ],
+    [
+        "basetypes/rings/emerald ring.mp3",
+        "emerald ring",
+        "<prosody rate='fast'>emerald ring</prosody>"
+    ],
+    [
+        "basetypes/rings/iron ring.mp3",
+        "iron ring",
+        "<prosody rate='fast'>iron ring</prosody>"
+    ],
+    [
+        "basetypes/rings/unset ring.mp3",
+        "unset ring",
+        "<prosody rate='fast'>unset ring</prosody>"
+    ],
+    [
+        "basetypes/rings/lazuli ring.mp3",
+        "lazuli ring",
+        "<prosody rate='fast'>lazuli ring</prosody>"
+    ],
+    [
+        "basetypes/rings/ruby ring.mp3",
+        "ruby ring",
+        "<prosody rate='fast'>ruby ring</prosody>"
+    ],
+    [
+        "basetypes/rings/sapphire ring.mp3",
+        "sapphire ring",
+        "<prosody rate='fast'>sapphire ring</prosody>"
+    ],
+    [
+        "basetypes/rings/topaz ring.mp3",
+        "topaz ring",
+        "<prosody rate='fast'>topaz ring</prosody>"
+    ],
+    [
+        "basetypes/belts/fine belt.mp3",
+        "fine belt",
+        "<prosody rate='fast'>fine belt</prosody>"
+    ],
+    [
+        "basetypes/belts/long belt.mp3",
+        "long belt",
+        "<prosody rate='fast'>long belt</prosody>"
+    ],
+    [
+        "basetypes/belts/double belt.mp3",
+        "double belt",
+        "<prosody rate='fast'>double belt</prosody>"
+    ],
+    [
+        "basetypes/belts/wide belt.mp3",
+        "wide belt",
+        "<prosody rate='fast'>wide belt</prosody>"
+    ],
+    [
+        "basetypes/belts/ornate belt.mp3",
+        "ornate belt",
+        "<prosody rate='fast'>ornate belt</prosody>"
+    ],
+    [
+        "basetypes/belts/linen belt.mp3",
+        "linen belt",
+        "<prosody rate='fast'>linen belt</prosody>"
+    ],
+    [
+        "basetypes/belts/rawhide belt.mp3",
+        "rawhide belt",
+        "<prosody rate='fast'>rawhide belt</prosody>"
+    ],
+    [
+        "basetypes/belts/plate belt.mp3",
+        "plate belt",
+        "<prosody rate='fast'>plate belt</prosody>"
+    ],
+    [
+        "basetypes/belts/utility belt.mp3",
+        "utility belt",
+        "<prosody rate='fast'>utility belt</prosody>"
+    ],
+    [
+        "basetypes/belts/mail belt.mp3",
+        "mail belt",
+        "<prosody rate='fast'>mail belt</prosody>"
+    ],
+    [
+        "basetypes/belts/heavy belt.mp3",
+        "heavy belt",
+        "<prosody rate='fast'>heavy belt</prosody>"
+    ],
+    [
+        "basetypes/inscribed ultimatum 4 trials.mp3",
+        "inscribed ultimatum 4 trials",
+        "<prosody rate='fast'>inscribed ultimatum 4 trials</prosody>"
+    ],
+    [
+        "basetypes/djinn barya 3 floors.mp3",
+        "djinn barya 3 floors",
+        "<prosody rate='fast'>djinn barya 3 floors</prosody>"
+    ],
+    [
+        "basetypes/djinn barya 2 floors.mp3",
+        "djinn barya 2 floors",
+        "<prosody rate='fast'>djinn barya 2 floors</prosody>"
+    ],
+    [
+        "basetypes/djinn barya 1 floor.mp3",
+        "djinn barya 1 floor",
+        "<prosody rate='fast'>djinn barya 1 floor</prosody>"
+    ],
+    [
+        "basetypes/gold key.mp3",
+        "gold key",
+        "<prosody rate='fast'>gold key</prosody>"
+    ],
+    [
+        "basetypes/inscribed ultimatum 7 trials.mp3",
+        "inscribed ultimatum 7 trials",
+        "<prosody rate='fast'>inscribed ultimatum 7 trials</prosody>"
+    ],
+    [
+        "basetypes/silver key.mp3",
+        "silver key",
+        "<prosody rate='fast'>silver key</prosody>"
+    ],
+    [
+        "basetypes/bronze key.mp3",
+        "bronze key",
+        "<prosody rate='fast'>bronze key</prosody>"
+    ],
+    [
+        "unique.mp3",
+        "unique",
+        ""
+    ]
+]

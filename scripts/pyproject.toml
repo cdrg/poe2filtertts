@@ -1,0 +1,21 @@
+[project]
+name = "poe2filtertts"
+version = "0.1.2"
+description = "Create and manage soundpacks: sets of sound files for Path of Exile 2 and Path of Exile filters"
+authors = [
+    {name = "cdr",email = "58159483+cdrg@users.noreply.github.com"}
+]
+license = {text = "LGPL-3.0-or-later"}
+readme = "README.md"
+requires-python = ">=3.9,<4.0"
+dependencies = [
+    "boto3 (>=1.37.24,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
