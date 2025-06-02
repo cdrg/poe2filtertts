@@ -13,9 +13,10 @@ https://docs.tts.monster/introduction
 
 template item json format: {path, tts_text, ssml_text}
 
-path: the relative file path including all folders, filename, extension (.mp3)
-tts_text: the actual text to be TTS read, in plain text; for in-game clarity, 
-    can be completely different than the filename
+path: the relative file path to the sounds dir including all subfolders, filename, extension (.mp3)
+    file name should start with the full canonical name of the item, class, etc, then any modifiers  
+tts_text: the actual text to be TTS read, in plain text; 
+    for in-game clarity, can be completely different than the filename
 ssml_text: (optional) SSML marked up text, empty string if none
 """
 

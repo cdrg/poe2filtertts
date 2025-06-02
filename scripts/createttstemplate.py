@@ -7,10 +7,10 @@ Template file entires can be improved by hand as necessary after creation of def
 
 template item json format: {path, tts_text, ssml_text}
 
-path: the relative file path including all folders, filename, extension (.mp3)
+path: the relative file path to the sounds dir including all subfolders, filename, extension (.mp3)
     file name should start with the full canonical name of the item, class, etc, then any modifiers  
-tts_text: the actual text to be TTS read, in plain text; for in-game clarity, 
-    can be completely different than the filename
+tts_text: the actual text to be TTS read, in plain text; 
+    for in-game clarity, can be completely different than the filename
 ssml_text: (optional) SSML marked up text, empty string if none
 """
 
@@ -18,6 +18,7 @@ import sys
 import os
 import argparse
 import json
+import re
 
 def main():
     '''
@@ -48,7 +49,9 @@ def main():
 
     created_count: int = 0
     skipped_count: int = 0
-    # create template data structure from existing directory structure
+    # Create template data structure from existing directory structure.
+    # os.walk does not guarantee order, but Windows seems to return files in order, 
+    # while Linux does not, if order matters to you
     for root, _, files in os.walk(args.directory, topdown=False):
         for filename in files:
             # skip non-.mp3 files
@@ -86,6 +89,19 @@ def main():
                         entry_tts_text = entry_tts_text.removeprefix("blacksmiths ")
                     elif entry_tts_text.startswith("armourers scrap"):
                         entry_tts_text = entry_tts_text.replace(" scrap", "")
+                # some models are bad at pronouncing letters, so spell link letters phonetically
+                if "links/" in entry_path:
+                    matches: list = re.findall(r"\d[bgrw]", entry_tts_text)
+                    for match in matches:
+                        if "b" in match:
+                            entry_tts_text = entry_tts_text.replace(match, f"{match[0]} bee ")
+                        elif "g" in match:
+                            entry_tts_text = entry_tts_text.replace(match, f"{match[0]} jee ")
+                        elif "r" in match:
+                            entry_tts_text = entry_tts_text.replace(match, f"{match[0]} arr ")
+                        elif "w" in match:
+                            entry_tts_text = entry_tts_text.replace(match, f"{match[0]} white")
+                    entry_tts_text = entry_tts_text.replace("  ", " ") # charged per char, remove double spaces
 
                 entry_ssml_text: str = ""
                 # if tts text is multiple words or is at least 10 characters, set fast rate prosody ssml
