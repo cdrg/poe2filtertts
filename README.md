@@ -1,14 +1,19 @@
 # poe2filtertts
-Text-To-Speech sound files for Path of Exile 2 filters
+Text-To-Speech sound file packs for Path of Exile 2 item filters
 
-If you want to see particular voice, suggest it! Freely redistributable voices only.
+If you want to see particular voice from [AWS Polly](https://ai-service-demos.go-aws.com/polly), [TTS.Monster](https://tts.monster/), etc suggest it on Discord!
 
-### Note: Custom sound files and filters that use them only work on PC, not console.
+### Note: Custom sound files and item filters that use them only work on PC, not console.
 
 ### Link to filters: https://www.pathofexile.com/account/view-profile/cdrpoe-1004/item-filters
 
+* [AWSPolly-Brian preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/AWSPolly-Brian/sounds/basetypes/amulets/stellar%20amulet.mp3)
+* [AWSPolly-Matthew preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/AWSPolly-Matthew/sounds/basetypes/amulets/stellar%20amulet.mp3)
+* [AWSPolly-Nicole preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/AWSPolly-Nicole/sounds/basetypes/amulets/stellar%20amulet.mp3)
+* [TTSM-Oracle preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/TTSM-Oracle/sounds/basetypes/amulets/stellar%20amulet.mp3)
+
 ## Installation guide:
-- Choose and download a voice .zip in github Releases, such as "AWSPolly-Brian.zip"
+- Choose and download a voice .zip in [github Releases](https://github.com/cdrg/poe2filtertts/releases/latest), such as "AWSPolly-Brian.zip"
 - Extract the "sounds" folder in the .zip to your Path of Exile 2 filter folder
   - Leave the "sounds" folder intact.
   - There's a button in Options > Game to open the filter folder.
