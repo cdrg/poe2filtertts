@@ -7,9 +7,11 @@ authors = [
 ]
 license = {text = "LGPL-3.0-or-later"}
 readme = "README.md"
-requires-python = ">=3.9,<4.0"
+requires-python = ">=3.12,<4.0"
 dependencies = [
-    "boto3 (>=1.37.24,<2.0.0)"
+    "boto3 (>=1.37.24,<2.0.0)",
+    "typed-ffmpeg (>=3.1.1,<4.0.0)",
+    "ttsmapi @ git+https://github.com/cdrg/ttsmapi.git"
 ]
 
 
@@ -19,3 +21,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 package-mode = false
+
+[tool.poetry.dependencies]

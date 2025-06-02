@@ -61,8 +61,8 @@
     ],
     [
         "currency/chaos orb.mp3",
-        "chaos orb",
-        "<prosody rate='fast'>chaos orb</prosody>"
+        "chaos",
+        ""
     ],
     [
         "currency/lesser jewellers orb.mp3",
@@ -141,8 +141,8 @@
     ],
     [
         "currency/exalted orb.mp3",
-        "exalted orb",
-        "<prosody rate='fast'>exalted orb</prosody>"
+        "exalted",
+        "exalted"
     ],
     [
         "gems/uncut support gem level 1.mp3",
@@ -371,7 +371,7 @@
     ],
     [
         "classes/1h mace rare.mp3",
-        "rare 1h mace",
+        "rare 1 h mace",
         "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
     ],
     [
@@ -426,7 +426,7 @@
     ],
     [
         "classes/2h mace rare.mp3",
-        "rare 2h mace",
+        "rare 2 h mace",
         "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
     ],
     [
@@ -455,9 +455,34 @@
         "<prosody rate='fast'>rare sceptre</prosody>"
     ],
     [
+        "classes/rare.mp3",
+        "rare",
+        ""
+    ],
+    [
         "classes/ring.mp3",
         "ring",
         ""
+    ],
+    [
+        "classes/salvage 2 whetstone.mp3",
+        "salvage 2 whetstone",
+        "<prosody rate='fast'>salvage 2 whetstone</prosody>"
+    ],
+    [
+        "classes/salvage 2 etcher.mp3",
+        "salvage 2 etcher",
+        "<prosody rate='fast'>salvage 2 etcher</prosody>"
+    ],
+    [
+        "classes/salvage 2 armourers.mp3",
+        "salvage 2 armourers",
+        "<prosody rate='fast'>salvage 2 armourers</prosody>"
+    ],
+    [
+        "classes/salvage 2 glassblowers.mp3",
+        "salvage 2 glassblowers",
+        "<prosody rate='fast'>salvage 2 glassblowers</prosody>"
     ],
     [
         "classes/uncut spirit gem.mp3",
@@ -553,6 +578,21 @@
         "basetypes/charms/stone charm.mp3",
         "stone charm",
         "<prosody rate='fast'>stone charm</prosody>"
+    ],
+    [
+        "basetypes/charms/ruby charm.mp3",
+        "ruby charm",
+        "<prosody rate='fast'>ruby charm</prosody>"
+    ],
+    [
+        "basetypes/charms/sapphire charm.mp3",
+        "sapphire charm",
+        "<prosody rate='fast'>sapphire charm</prosody>"
+    ],
+    [
+        "basetypes/charms/topaz charm.mp3",
+        "topaz charm",
+        "<prosody rate='fast'>topaz charm</prosody>"
     ],
     [
         "basetypes/charms/thawing charm.mp3",

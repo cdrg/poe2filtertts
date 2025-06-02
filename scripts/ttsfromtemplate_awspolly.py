@@ -25,21 +25,23 @@ import os
 import argparse
 import json
 from json import JSONDecodeError
+import tempfile
 
+import ffmpeg
+from ffmpeg import FFMpegExecuteError
 from contextlib import closing
 from boto3 import Session
 from botocore.exceptions import BotoCoreError, ClientError
+import ttsutil
 
-
-def main():
-    '''
-    Create a soundpack set of TTS mp3 files from a template json file, using AWS Polly.
+def main() -> int:
+    '''Create a soundpack set of TTS mp3 files from a template json file, using AWS Polly.
 
     Returns:
-        exit_val (int): 0 on success, 1 on error
+        (int): 0 on success, 1 on error
     '''
 
-    valid_voices = ["Aditi", "Amy", "Astrid", "Bianca", "Brian", "Camila", "Carla", "Carmen", "Celine", "Chantal",
+    valid_voices: list[str] = ["Aditi", "Amy", "Astrid", "Bianca", "Brian", "Camila", "Carla", "Carmen", "Celine", "Chantal",
                     "Conchita", "Cristiano", "Dora", "Emma", "Enrique", "Ewa", "Filiz", "Gabrielle", "Geraint",
                     "Giorgio", "Gwyneth", "Hans", "Ines", "Ivy", "Jacek", "Jan", "Joanna", "Joey", "Justin", "Karl",
                     "Kendra", "Kevin", "Kimberly", "Lea", "Liv", "Lotte", "Lucia", "Lupe", "Mads", "Maja", "Marlene",
@@ -50,8 +52,8 @@ def main():
                     "Remi", "Adriano", "Thiago", "Ruth", "Stephen", "Kazuha", "Tomoko", "Niamh", "Sofie", "Lisa",
                     "Isabelle", "Zayd", "Danielle", "Gregory", "Burcu", "Jitka", "Sabrina"]
 
-    polly_engine = "standard"
-    polly_outputformat = "mp3"
+    polly_engine: str = "standard"
+    polly_outputformat: str = "mp3"
 
     parser = argparse.ArgumentParser()
     parser.add_argument("voice",
@@ -64,9 +66,9 @@ def main():
                         help="the output directory containing a 'sounds' subdirectory "\
                             "to create the directory structure and tts files in",
                         default=os.getcwd())
-    args = parser.parse_args()
+    args: argparse.Namespace = parser.parse_args()
 
-    sounds_directory = os.path.join(args.directory, "sounds")
+    sounds_directory: str = os.path.join(args.directory, "sounds")
 
     if not os.path.exists(args.file):
         print(f"Error: template file '{args.file}' does not exist.")
@@ -82,63 +84,107 @@ def main():
 
     with open(args.file, encoding="utf-8") as f:
         try:
-            template = json.load(f)
+            template: list[dict[str, str]] = json.load(f)
         except (JSONDecodeError, UnicodeDecodeError) as e:
             print(f"{type(e)}: {e}")
             return 1
 
-    created_count = 0
-    skipped_count = 0
+    created_count: int = 0
+    skipped_count: int = 0
 
     # for each template entry that doesn't already exist as a file, call AWS Polly to create
     # the TTS audio object, then output the returned object to the specified file
+    item: dict[str, str]
     for item in template:
-        file_partialpath = item[0]
-        tts_text = item[1]
-        ssml_text = item[2]
+        file_partialpath: str = item["path"]
+        tts_text: str = item["tts_text"]
+        ssml_text: str = item["ssml_text"]
 
-        file_fullpath = os.path.join(sounds_directory, file_partialpath)
-        if not os.path.exists(file_fullpath):
-            # need to create directory (and intermediate) if they don't exist
-            if not os.path.exists(os.path.dirname(file_fullpath)):
-                os.makedirs(os.path.dirname(file_fullpath), mode=0o755, exist_ok=True)
-
-            # if SSML text exists, set texttype to ssml and use ssml text instead of plain tts text
-            if ssml_text:
-                polly_texttype = "ssml"
-                tts_text = ssml_text
-            else:
-                polly_texttype = "text"
-
-            try:
-                response = polly_client.synthesize_speech(Text=tts_text, VoiceId=args.voice,
-                                                          TextType=polly_texttype, Engine=polly_engine,
-                                                          OutputFormat=polly_outputformat)
-            except (BotoCoreError, ClientError) as e:
-                print(f"{type(e)}: {e}")
-                print(f"Template item: {item}")
-                print(f"Call: synthesize_speech({tts_text}, {args.voice}, {polly_texttype}, "\
-                      f"{polly_engine}, {polly_outputformat})")
-                return 1
-
-            if "AudioStream" in response:
-                # use closing to ensure that the close method of the stream is called after the with finishes
-                with closing(response["AudioStream"]) as stream:
-                    try:
-                        with open(file_fullpath, "wb") as f:
-                            f.write(stream.read())
-                            created_count += 1
-                            if created_count > 1:
-                                print("\033[1A", end="\x1b[2K")
-                            print(f"Created file {created_count}: {file_fullpath}", flush=True)
-                    except IOError as e:
-                        print(f"{type(e)}: {e}")
-                        return 1
-            else:
-                print("Error: No audiostream in AWS Polly response")
-                return 1
-        else:
+        file_fullpath: str = os.path.join(sounds_directory, file_partialpath)
+        # skip if file already exists
+        if os.path.exists(file_fullpath):
             skipped_count += 1
+            continue
+
+        # need to create output directory (and intermediates) if they don't exist
+        if not os.path.exists(os.path.dirname(file_fullpath)):
+            os.makedirs(os.path.dirname(file_fullpath), mode=0o755, exist_ok=True)
+
+        # if SSML text exists, set texttype to ssml and use ssml text instead of plain tts text
+        if ssml_text:
+            polly_texttype: str = "ssml"
+            tts_text: str = ssml_text
+        else:
+            polly_texttype: str = "text"
+
+        try:
+            response: dict = polly_client.synthesize_speech(Text=tts_text, VoiceId=args.voice,
+                                                        TextType=polly_texttype, Engine=polly_engine,
+                                                        OutputFormat=polly_outputformat)
+        except (BotoCoreError, ClientError) as e:
+            print(f"{type(e)}: {e}")
+            print(f"Template item: {item}")
+            print(f"Call: synthesize_speech({tts_text}, {args.voice}, {polly_texttype}, "\
+                    f"{polly_engine}, {polly_outputformat})")
+            return 1
+
+        if "AudioStream" not in response:
+            print("Error: No AudioStream in AWS Polly response")
+            return 1
+        
+        # use closing to ensure that the close method of the stream is called after the with finishes
+        with closing(response["AudioStream"]) as stream:
+            try:
+                # Write the stream to a temporary file so we can postprocess it with ffmpeg.
+                # delete=False so we don't have to worry about staying in the with context
+                with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as f:
+                    f.write(stream.read())
+            except IOError as e:
+                print(f"{type(e)}: {e}")
+                return 1
+            
+        # Get the max db of the audio file with ffmpeg volumedetect so we can increase file volume.
+        try:
+            max_volume: float = ttsutil.get_max_volume(f.name)
+        except (FFMpegExecuteError, ValueError) as e:
+            print(f"{type(e)}: {e}")
+            os.remove(f.name) # cleanup temp file if exiting early
+            return 1     
+
+        # Set ffmpeg input to the the temp file.
+        # ffmpeg will intelligently handle format conversion based on the extension of the output file.
+        input_stream: ffmpeg.AudioStream = ffmpeg.input(f.name)
+
+        #TODO: Check if selected AWS Polly voice supports SSML? Currently only using SSML voices.
+        # If "prosody rate='fast'" is set in SSML text, simulate that with ffmpeg atempo filter.
+        # AWS Polly SSML rate='fast' is ~150% (1.5) per experiments.
+        #if "rate='fast'" in ssml_text:
+        #    input_stream = input_stream.atempo(tempo=1.3)
+
+        # Files must be as loud as possible to be consistently audible in-game.
+        # If previously determined peak db is less than -0.5db, use ffmpeg volume filter 
+        # to increase the file volume by the same amount, resulting in -0.5db peak.
+        # Unfortunately, other ffmpeg filters such as loudnorm or dynaudnorm do not 
+        # work well for our purposes, so we have to do this two-pass method.
+        if max_volume < -0.5:
+            volume_adjustment: float = -max_volume-0.5 # 0.5dB for clipping safety
+            input_stream = input_stream.volume(volume=f"{volume_adjustment}dB")
+
+        # Lastly, set the output file and run ffmpeg.
+        try:
+            input_stream.output(filename=file_fullpath).run(quiet=True)
+        except FFMpegExecuteError as e:
+            print(f"{type(e)}: {e}")
+            os.remove(f.name) # cleanup temp file if exiting early
+            return 1
+        
+        # cleanup temporary file
+        os.remove(f.name)
+        
+        created_count += 1
+        if created_count > 1:
+            print("\033[1A", end="\x1b[2K")
+        print(f"Created file {created_count}/{len(template)}: {file_fullpath}", flush=True)
 
     print(f"Successfully finished. {created_count} file(s) created and {skipped_count} existing file(s) skipped.")
     return 0
