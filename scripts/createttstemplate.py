@@ -85,6 +85,8 @@ def main():
                         entry_tts_text = entry_tts_text.replace(" orb", "")
                     elif entry_tts_text.startswith("scroll of "):
                         entry_tts_text = entry_tts_text.removeprefix("scroll of ")
+                    elif " scroll" in entry_tts_text:
+                        entry_tts_text = entry_tts_text.replace(" scroll", "")
                     elif entry_tts_text.startswith("blacksmiths whetstone"):
                         entry_tts_text = entry_tts_text.removeprefix("blacksmiths ")
                     elif entry_tts_text.startswith("armourers scrap"):
