@@ -36,10 +36,10 @@ def main():
     for soundpackdir in soundpackdirs:
         soundpackdir_path: str = os.path.join(args.inputdir, soundpackdir)
        
-        zip_path: str = os.path.join(args.outputdir, f"{soundpackdir}.zip")
+        zip_path: str = os.path.join(args.outputdir, soundpackdir)
 
         shutil.make_archive(base_name=zip_path, format='zip', root_dir=soundpackdir_path)
-        print(f"Created zip '{zip_path}' from soundpack dir '{soundpackdir_path}'")
+        print(f"Created zip '{zip_path}'.zip from soundpack dir '{soundpackdir_path}'")
 
 if __name__ == "__main__":
     sys.exit(main())
