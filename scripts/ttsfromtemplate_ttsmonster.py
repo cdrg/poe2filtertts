@@ -83,6 +83,10 @@ def main() -> int:
     except (TTSMAPIError, HTTPError) as e:
         print(f"{type(e)}: {e}")
         return 1
+    
+    print(f"TTS.Monster API client initialized. Current plan: \"{ttsm_client.user_info['current_plan']}\", "
+          f"Characters used: {ttsm_client.user_info['character_usage']} / "
+          f"Character allowance: {ttsm_client.user_info['character_allowance']}")   
 
     created_count: int = 0
     skipped_count: int = 0
@@ -156,8 +160,8 @@ def main() -> int:
         created_count += 1
         if created_count > 1:
             print("\033[1A", end="\x1b[2K")
-        print(f"Created file {created_count}/{len(template)}: {file_fullpath}. "
-                f"Used: {response['characterUsage']}/10000c", flush=True)
+        print(f"Created file {created_count}/~{len(template)-skipped_count}: {file_fullpath}. "
+                f"Used: {response['characterUsage']}/{ttsm_client.user_info['character_allowance']}c", flush=True)
 
     print(f"Successfully finished. {created_count} file(s) created and {skipped_count} "
           f"existing file(s) skipped.")

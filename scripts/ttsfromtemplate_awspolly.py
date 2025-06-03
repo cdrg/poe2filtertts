@@ -185,7 +185,7 @@ def main() -> int:
         created_count += 1
         if created_count > 1:
             print("\033[1A", end="\x1b[2K")
-        print(f"Created file {created_count}/{len(template)}: {file_fullpath}", flush=True)
+        print(f"Created file {created_count}/~{len(template)-skipped_count}: {file_fullpath}", flush=True)
 
     print(f"Successfully finished. {created_count} file(s) created and {skipped_count} existing file(s) skipped.")
     return 0
