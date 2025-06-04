@@ -19,8 +19,15 @@ def get_max_volume(filepath: str) -> float:
         FFMpegExecuteError: If ffmpeg command fails to execute.
         ValueError: If max_volume could not be found in ffmpeg output.
     """
-    output_stream: ffmpeg.dag.OutputStream = ffmpeg.input(filepath).volumedetect().output(
-        filename=os.devnull, f="null")
+    if filepath.endswith(".pcm"): 
+        # pcm files have no container with metadata, so we need to specify rate, channels, and format
+        # Polly PCM output is 16000Hz, 1-channel, 16-bit signed little-endian
+        input_stream: ffmpeg.AudioStream = ffmpeg.input(filepath, ar=16000, ac=1, f="s16le")
+    else:
+        input_stream: ffmpeg.AudioStream = ffmpeg.input(filepath)
+
+    output_stream: ffmpeg.dag.OutputStream = input_stream.volumedetect().output(
+                                                                    filename=os.devnull, f="null")
     # for some reason the output is in stderr instead of stdout
     stderr: str = output_stream.run(capture_stderr=True)[1].decode('utf-8')
 
