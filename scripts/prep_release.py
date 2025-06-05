@@ -7,6 +7,8 @@ import sys
 import argparse
 import shutil
 
+import ffmpeg
+
 def main():
     '''
     Make .zip files of TTS soundpack directories for uploading with a github release.
@@ -38,8 +40,14 @@ def main():
        
         zip_path: str = os.path.join(args.outputdir, soundpackdir)
 
+        # Make a zip file of the soundpack directory
         shutil.make_archive(base_name=zip_path, format='zip', root_dir=soundpackdir_path)
         print(f"Created zip '{zip_path}'.zip from soundpack dir '{soundpackdir_path}'")
 
+        # Make a preview audio file of the soundpack.
+        # Github README.md only supports video embeds, so put the audio in a video container.
+        preview_input_path: str = os.path.join(soundpackdir_path, "sounds/currency/chaos orb.mp3")
+        preview_output_path: str = os.path.join(args.outputdir, soundpackdir + ".mp4")
+        ffmpeg.input(preview_input_path).output(filename=preview_output_path).run(quiet=True, overwrite_output=True)
 if __name__ == "__main__":
     sys.exit(main())
