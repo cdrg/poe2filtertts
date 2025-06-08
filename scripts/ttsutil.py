@@ -37,3 +37,41 @@ def get_max_volume(filepath: str) -> float:
         return max_volume
     else:
         raise ValueError("Could not find max_volume in ffmpeg output.")
+    
+def trim_silence(filepath: str, silence_threshold: float = -30.0, min_silence_duration: float = 0.2) -> str:
+    """
+    Trim silence from the beginning and end of an audio file using ffmpeg silenceremove filter.
+    
+    TODO: THIS IS NOT YET TESTED. Should probably input/output AudioStream instead of filepath.
+
+    Args:
+        filepath (str): ffmpeg-compatible audio file path.
+        silence_threshold (float): Silence threshold in dB. Default is -30.0 dB.
+        min_silence_duration (float): Minimum duration of silence to trim in seconds. Default is 0.2 seconds.
+    
+    Returns:
+        str: Path to the trimmed audio file.
+    """
+    output_filepath: str = os.path.splitext(filepath)[0] + "_trimmed" + os.path.splitext(filepath)[1]
+    
+    #ffmpeg -i input.mp3 -af "
+    # silenceremove=start_periods=1:start_duration=1:start_threshold=-30dB:detection=peak,
+    # aformat=dblp,
+    # areverse,
+    # silenceremove=start_periods=1:start_duration=1:start_threshold=-30dB:detection=peak,
+    # aformat=dblp,
+    # areverse" output.mp3
+
+    input_stream: ffmpeg.AudioStream = ffmpeg.input(filepath)
+    input_stream = input_stream.silenceremove(start_periods=1, start_duration=min_silence_duration,
+                                              start_threshold=silence_threshold, detection='peak')
+    input_stream = input_stream.aformat(sample_fmts='dblp')
+    input_stream = input_stream.areverse()
+    input_stream = input_stream.silenceremove(start_periods=1, start_duration=min_silence_duration,
+                                              start_threshold=silence_threshold, detection='peak')
+    input_stream = input_stream.aformat(sample_fmts='dblp')
+    input_stream = input_stream.areverse()
+    
+    input_stream.output(filename=output_filepath).run(quiet=True)
+    
+    return output_filepath

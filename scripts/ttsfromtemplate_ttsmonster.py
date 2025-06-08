@@ -22,13 +22,14 @@ ssml_text: (optional) SSML marked up text, empty string if none
 
 import sys
 import os
+import time
 import argparse
 import json
 from json import JSONDecodeError
 import tempfile
 
 import requests
-from requests.exceptions import HTTPError
+from requests.exceptions import HTTPError, ReadTimeout
 import ffmpeg
 import ttsmapi
 from ttsmapi.exceptions import TTSMAPIError
@@ -90,6 +91,7 @@ def main() -> int:
 
     created_count: int = 0
     skipped_count: int = 0
+    total_elapsed: float = 0.0
 
     # For each template entry that doesn't already exist as a file, call TTS.Monster API to create a TTS file, 
     # then retrieve the TTS file from the URL returned by the API.
@@ -109,13 +111,19 @@ def main() -> int:
         if not os.path.exists(os.path.dirname(file_fullpath)):
             os.makedirs(os.path.dirname(file_fullpath), mode=0o755, exist_ok=True)
 
+        #print(f"Sent Generate(voice_id={args.voiceid}, message={tts_text})...")
+        start_time: float = time.perf_counter()
+
         try:
             response: dict = ttsm_client.generate(voice_id=args.voiceid, message=tts_text)
-        except (TTSMAPIError) as e:
+        except (TTSMAPIError, HTTPError, ReadTimeout) as e:
             print(f"{type(e)}: {e}")
             print(f"Template item: {item}")
             print(f"Call: generate({args.voiceid}, {tts_text})")
             return 1
+        
+        #print(f"Generate() completed in {time.perf_counter() - start_time:.2f}s")
+        total_elapsed += time.perf_counter() - start_time
 
         if "url" in response:
             # Retrieve the audio file with Requests to a tempfile. Unfortunately necessary because of 
@@ -139,6 +147,12 @@ def main() -> int:
                     if "rate='fast'" in ssml_text:
                         input_stream = input_stream.atempo(tempo=1.3)
 
+                    #TODO: trim silence, since TTS.Monster models are unstable and sometimes emit lengthy silence,
+                    # among other issues.
+                    # should probably first try passing an AudioStream to ttsutil.trim_silence(),
+                    # returning the modified AudioStream, and if that doesn't work, write to a file and pass that back.
+                    #ttsutil.trim_silence(input_stream, silence_threshold=-30.0, min_silence_duration=0.2)
+
                     # Files must be as loud as possible to be consistently audible in-game.
                     # If previously determined peak db is less than -0.5db, use ffmpeg volume filter 
                     # to increase the file volume by the same amount, resulting in -0.5db peak.
@@ -150,7 +164,18 @@ def main() -> int:
 
                     # Lastly, set the output file and run ffmpeg.
                     input_stream.output(filename=file_fullpath).run(quiet=True)
-            except (IOError, HTTPError) as e:
+
+                    #TODO: Reject the file if it's too long/too large since that indicates the 
+                    # TTS.Monster model failed to produce reasonable audio output.
+                    # Just delete the file, exiting loop with error not desirable.
+                    # Add warn if the file is > 1KB per character?
+                    if os.path.getsize(file_fullpath) > 2048 * len(tts_text): # >2KB per character
+                        print(f"Error: Output {file_fullpath} is too large: {os.path.getsize(file_fullpath)/1024}KB, "
+                              f"removing it.")
+                        os.remove(file_fullpath)
+                        # implement a retry mechanism?
+                        
+            except (IOError, HTTPError, ReadTimeout) as e:
                 print(f"{type(e)}: {e}")
                 return 1
         else:
@@ -164,7 +189,7 @@ def main() -> int:
                 f"Used: {response['characterUsage']}/{ttsm_client.user_info['character_allowance']}c", flush=True)
 
     print(f"Successfully finished. {created_count} file(s) created and {skipped_count} "
-          f"existing file(s) skipped.")
+          f"existing file(s) skipped in {time.strftime('%Mm:%Ss', time.gmtime(total_elapsed))}.")
     return 0
 
 if __name__ == "__main__":
