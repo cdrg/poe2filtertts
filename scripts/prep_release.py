@@ -89,7 +89,7 @@ def main():
                 # skip if entry path already exists in template list
                 if not any(entry["path"] == entry_path for entry in template):
                     extra_file = True
-                    print(f"Warning: TTS file '{entry_path}' does not exist in template file.")
+                    print(f"Warning: File '{os.path.join(root,filename)}' does not exist in template file.")
 
     if extra_file:
         print("One or more .mp3 files in a soundpack directory do not exist in template file.")
