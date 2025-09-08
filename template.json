@@ -766,12 +766,12 @@
   },
   {
     "path": "currency/greater orb of augmentation.mp3",
-    "tts_text": "greater orb of augmentation",
+    "tts_text": "greater augmentation",
     "ssml_text": "<prosody rate='fast'>greater augmentation</prosody>"
   },
   {
     "path": "currency/greater orb of transmutation.mp3",
-    "tts_text": "greater orb of transmuatation",
+    "tts_text": "greater transmuatation",
     "ssml_text": "<prosody rate='fast'>greater transmutation</prosody>"
   },
   {
@@ -821,12 +821,12 @@
   },
   {
     "path": "currency/perfect orb of augmentation.mp3",
-    "tts_text": "perfect orb of augmentation",
+    "tts_text": "perfect augmentation",
     "ssml_text": "<prosody rate='fast'>perfect augmentation</prosody>"
   },
   {
     "path": "currency/perfect orb of transmutation.mp3",
-    "tts_text": "perfect orb of transmuatation",
+    "tts_text": "perfect transmuatation",
     "ssml_text": "<prosody rate='fast'>perfect transmutation</prosody>"
   },
   {
