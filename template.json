@@ -931,8 +931,8 @@
   },
   {
     "path": "essences/greater essence of thawing.mp3",
-    "tts_text": "greater essence of thawing",
-    "ssml_text": "<prosody rate='fast'>greater essence of thawing</prosody>"
+    "tts_text": "greater thawing essence",
+    "ssml_text": "<prosody rate='fast'>greater thawing essence</prosody>"
   },
   {
     "path": "essences/greater essence of the body.mp3",
@@ -1026,8 +1026,8 @@
   },
   {
     "path": "essences/lesser essence of thawing.mp3",
-    "tts_text": "lesser essence of thawing",
-    "ssml_text": "<prosody rate='fast'>lesser essence of thawing</prosody>"
+    "tts_text": "lesser thawing essence",
+    "ssml_text": "<prosody rate='fast'>lesser thawing essence</prosody>"
   },
   {
     "path": "essences/lesser essence of the body.mp3",
@@ -1171,8 +1171,8 @@
   },
   {
     "path": "essences/essence of delirium.mp3",
-    "tts_text": "command essence",
-    "ssml_text": "<prosody rate='fast'>command essence</prosody>"
+    "tts_text": "delirium essence",
+    "ssml_text": "<prosody rate='fast'>delirium essence</prosody>"
   },
   {
     "path": "essences/essence of flames.mp3",
@@ -1236,8 +1236,8 @@
   },
   {
     "path": "essences/essence of thawing.mp3",
-    "tts_text": "essence of thawing",
-    "ssml_text": "<prosody rate='fast'>essence of thawing</prosody>"
+    "tts_text": "thawing essence",
+    "ssml_text": "<prosody rate='fast'>thawing essence</prosody>"
   },
   {
     "path": "essences/essence of the abyss.mp3",
