@@ -562,42 +562,42 @@
   {
     "path": "classes/unidentified tier 2 magic.mp3",
     "tts_text": "tier 2 magic",
-    "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 2 magic</prosody>"
   },
   {
     "path": "classes/unidentified tier 2 rare.mp3",
     "tts_text": "tier 2 rare",
-    "ssml_text": "<prosody rate='fast'>rare rare</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 2 rare</prosody>"
   },
   {
     "path": "classes/unidentified tier 3 magic.mp3",
     "tts_text": "tier 3 magic",
-    "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 3 magic</prosody>"
   },
   {
     "path": "classes/unidentified tier 3 rare.mp3",
     "tts_text": "tier 3 rare",
-    "ssml_text": "<prosody rate='fast'>rare rare</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 3 rare</prosody>"
   },
   {
     "path": "classes/unidentified tier 4 magic.mp3",
     "tts_text": "tier 4 magic",
-    "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 4 magic</prosody>"
   },
   {
     "path": "classes/unidentified tier 4 rare.mp3",
     "tts_text": "tier 4 rare",
-    "ssml_text": "<prosody rate='fast'>rare rare</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 4 rare</prosody>"
   },
   {
     "path": "classes/unidentified tier 5 magic.mp3",
     "tts_text": "tier 5 magic",
-    "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 5 magic</prosody>"
   },
   {
     "path": "classes/unidentified tier 5 rare.mp3",
     "tts_text": "tier 5 rare",
-    "ssml_text": "<prosody rate='fast'>rare rare</prosody>"
+    "ssml_text": "<prosody rate='fast'>tier 5 rare</prosody>"
   },
   {
     "path": "classes/time lost jewel.mp3",
