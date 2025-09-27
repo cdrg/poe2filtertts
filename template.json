@@ -1485,6 +1485,11 @@
     "ssml_text": "<prosody rate='fast'>support level 5</prosody>"
   },
   {
+    "path": "socketable/runes/greater adept rune.mp3",
+    "tts_text": "greater adept rune",
+    "ssml_text": "<prosody rate='fast'>greater adept rune</prosody>"
+  },
+  {
     "path": "socketable/runes/greater body rune.mp3",
     "tts_text": "greater body rune",
     "ssml_text": "<prosody rate='fast'>greater body rune</prosody>"
@@ -1525,6 +1530,11 @@
     "ssml_text": "<prosody rate='fast'>greater resolve rune</prosody>"
   },
   {
+    "path": "socketable/runes/greater robust rune.mp3",
+    "tts_text": "greater robust rune",
+    "ssml_text": "<prosody rate='fast'>greater robust rune</prosody>"
+  },
+  {
     "path": "socketable/runes/greater stone rune.mp3",
     "tts_text": "greater stone rune",
     "ssml_text": "<prosody rate='fast'>greater stone rune</prosody>"
@@ -1558,6 +1568,11 @@
     "path": "socketable/runes/greater rune of tithing.mp3",
     "tts_text": "greater tithing rune",
     "ssml_text": "<prosody rate='fast'>greater tithing rune</prosody>"
+  },
+  {
+    "path": "socketable/runes/lesser adept rune.mp3",
+    "tts_text": "lesser adept rune",
+    "ssml_text": "<prosody rate='fast'>lesser adept rune</prosody>"
   },
   {
     "path": "socketable/runes/lesser body rune.mp3",
@@ -1600,6 +1615,11 @@
     "ssml_text": "<prosody rate='fast'>lesser resolve rune</prosody>"
   },
   {
+    "path": "socketable/runes/lesser robust rune.mp3",
+    "tts_text": "lesser robust rune",
+    "ssml_text": "<prosody rate='fast'>lesser robust rune</prosody>"
+  },
+  {
     "path": "socketable/runes/lesser stone rune.mp3",
     "tts_text": "lesser stone rune",
     "ssml_text": "<prosody rate='fast'>lesser stone rune</prosody>"
@@ -1613,6 +1633,11 @@
     "path": "socketable/runes/lesser vision rune.mp3",
     "tts_text": "lesser vision rune",
     "ssml_text": "<prosody rate='fast'>lesser vision rune</prosody>"
+  },
+  {
+    "path": "socketable/runes/adept rune.mp3",
+    "tts_text": "adept rune",
+    "ssml_text": "<prosody rate='fast'>adept rune</prosody>"
   },
   {
     "path": "socketable/runes/body rune.mp3",
@@ -1653,6 +1678,11 @@
     "path": "socketable/runes/resolve rune.mp3",
     "tts_text": "resolve rune",
     "ssml_text": "<prosody rate='fast'>resolve rune</prosody>"
+  },
+  {
+    "path": "socketable/runes/robust rune.mp3",
+    "tts_text": "robust rune",
+    "ssml_text": "<prosody rate='fast'>robust rune</prosody>"
   },
   {
     "path": "socketable/runes/stone rune.mp3",
