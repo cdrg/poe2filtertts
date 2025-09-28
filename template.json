@@ -215,6 +215,16 @@
     "ssml_text": "<prosody rate='fast'>heavy belt</prosody>"
   },
   {
+    "path": "basetypes/1h maces/brigand mace.mp3",
+    "tts_text": "brigand mace",
+    "ssml_text": "<prosody rate='fast'>brigand mace</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/temple maul.mp3",
+    "tts_text": "temple maul",
+    "ssml_text": "<prosody rate='fast'>temple maul</prosody>"
+  },
+  {
     "path": "basetypes/bows/dualstring bow.mp3",
     "tts_text": "dualstring bow",
     "ssml_text": "<prosody rate='fast'>dualstring bow</prosody>"
@@ -233,6 +243,21 @@
     "path": "basetypes/crossbows/cannonade crossbow.mp3",
     "tts_text": "cannonade crossbow",
     "ssml_text": "<prosody rate='fast'>cannonade crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/spears/barbed spear.mp3",
+    "tts_text": "barbed spear",
+    "ssml_text": "<prosody rate='fast'>barbed spear</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/steelpoint quarterstaff.mp3",
+    "tts_text": "steelpoint quarterstaff",
+    "ssml_text": "<prosody rate='fast'>steelpoint quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/sceptres/rattling sceptre.mp3",
+    "tts_text": "rattling sceptre",
+    "ssml_text": "<prosody rate='fast'>rattling sceptre</prosody>"
   },
   {
     "path": "basetypes/flasks/medium life flask.mp3",
@@ -1513,6 +1538,11 @@
     "path": "gems/uncut support gem level 5.mp3",
     "tts_text": "support level 5",
     "ssml_text": "<prosody rate='fast'>support level 5</prosody>"
+  },
+  {
+    "path": "ided/boots movespeed.mp3",
+    "tts_text": "movespeed boots",
+    "ssml_text": "<prosody rate='fast'>movespeed boots</prosody>"
   },
   {
     "path": "socketable/runes/greater adept rune.mp3",
