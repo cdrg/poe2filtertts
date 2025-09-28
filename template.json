@@ -440,6 +440,11 @@
     "ssml_text": "<prosody rate='fast'>rare focus</prosody>"
   },
   {
+    "path": "classes/greater essence.mp3",
+    "tts_text": "greater essence",
+    "ssml_text": "<prosody rate='fast'>greater essence</prosody>"
+  },
+  {
     "path": "classes/jewel.mp3",
     "tts_text": "jewel",
     "ssml_text": ""
@@ -448,6 +453,11 @@
     "path": "classes/jewellery rare.mp3",
     "tts_text": "rare jewellery",
     "ssml_text": "<prosody rate='fast'>rare jewellery</prosody>"
+  },
+  {
+    "path": "classes/lesser essence.mp3",
+    "tts_text": "lesser essence",
+    "ssml_text": "<prosody rate='fast'>lesser essence</prosody>"
   },
   {
     "path": "classes/life flask.mp3",
@@ -463,6 +473,11 @@
     "path": "classes/omen.mp3",
     "tts_text": "omen",
     "ssml_text": ""
+  },
+  {
+    "path": "classes/perfect essence.mp3",
+    "tts_text": "perfect essence",
+    "ssml_text": "<prosody rate='fast'>perfect essence</prosody>"
   },
   {
     "path": "classes/quarterstaff rare.mp3",
@@ -760,6 +775,11 @@
     "ssml_text": "<prosody rate='fast'>greater exalted</prosody>"
   },
   {
+    "path": "currency/greater jewellers orb.mp3",
+    "tts_text": "greater jewellers",
+    "ssml_text": "<prosody rate='fast'>greater jewellers</prosody>"
+  },
+  {
     "path": "currency/greater regal orb.mp3",
     "tts_text": "greater regal",
     "ssml_text": "<prosody rate='fast'>greater regal</prosody>"
@@ -795,6 +815,11 @@
     "ssml_text": ""
   },
   {
+    "path": "currency/orb of annulment.mp3",
+    "tts_text": "annulment",
+    "ssml_text": ""
+  },
+  {
     "path": "currency/orb of augmentation.mp3",
     "tts_text": "augmentation",
     "ssml_text": ""
@@ -818,6 +843,11 @@
     "path": "currency/perfect exalted orb.mp3",
     "tts_text": "perfect exalted",
     "ssml_text": "<prosody rate='fast'>perfect exalted</prosody>"
+  },
+  {
+    "path": "currency/perfect jewellers orb.mp3",
+    "tts_text": "perfect jewellers",
+    "ssml_text": "<prosody rate='fast'>perfect jewellers</prosody>"
   },
   {
     "path": "currency/perfect orb of augmentation.mp3",
