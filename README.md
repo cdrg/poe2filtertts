@@ -39,7 +39,7 @@ Git pull requests welcome, like adding items to the template.json.
 
 ## Quest item sound: 
 
-If you don't like the quest item sound (AKA "Progress is literally how you're measured").
+If you don't like the quest item sound (AKA "A quest objective").
 
 Replace the "quest item.mp3" file with a file of your choice, eg one from the [Voicelines](https://github.com/cdrg/poe1filtertts/tree/main/voicelines) folder.
 
