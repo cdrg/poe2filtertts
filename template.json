@@ -215,9 +215,69 @@
     "ssml_text": "<prosody rate='fast'>heavy belt</prosody>"
   },
   {
+    "path": "basetypes/1h maces/wooden club.mp3",
+    "tts_text": "wooden club",
+    "ssml_text": "<prosody rate='fast'>wooden club</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/smithing hammer.mp3",
+    "tts_text": "smithing hammer",
+    "ssml_text": "<prosody rate='fast'>smithing hammer</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/slim mace.mp3",
+    "tts_text": "slim mace",
+    "ssml_text": "<prosody rate='fast'>slim mace</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/spiked club.mp3",
+    "tts_text": "spiked club",
+    "ssml_text": "<prosody rate='fast'>spiked club</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/warpick.mp3",
+    "tts_text": "warpick",
+    "ssml_text": "<prosody rate='fast'>warpick</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/plated mace.mp3",
+    "tts_text": "plated mace",
+    "ssml_text": "<prosody rate='fast'>plated mace</prosody>"
+  },
+  {
     "path": "basetypes/1h maces/brigand mace.mp3",
     "tts_text": "brigand mace",
     "ssml_text": "<prosody rate='fast'>brigand mace</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/construct hammer.mp3",
+    "tts_text": "construct hammer",
+    "ssml_text": "<prosody rate='fast'>construct hammer</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/felled greatclub.mp3",
+    "tts_text": "felled greatclub",
+    "ssml_text": "<prosody rate='fast'>felled greatclub</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/oak greathammer.mp3",
+    "tts_text": "oak greathammer",
+    "ssml_text": "<prosody rate='fast'>oak greathammer</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/forge maul.mp3",
+    "tts_text": "forge maul",
+    "ssml_text": "<prosody rate='fast'>forge maul</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/studded greatclub.mp3",
+    "tts_text": "studded greatclub",
+    "ssml_text": "<prosody rate='fast'>studded greatclub</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/cultist greathammer.mp3",
+    "tts_text": "cultist greathammer",
+    "ssml_text": "<prosody rate='fast'>cultist greathammer</prosody>"
   },
   {
     "path": "basetypes/2h maces/temple maul.mp3",
@@ -225,9 +285,59 @@
     "ssml_text": "<prosody rate='fast'>temple maul</prosody>"
   },
   {
+    "path": "basetypes/2h maces/leaden greathammer.mp3",
+    "tts_text": "leaden greathammer",
+    "ssml_text": "<prosody rate='fast'>leaden greathammer</prosody>"
+  },
+  {
+    "path": "basetypes/bows/crude bow.mp3",
+    "tts_text": "crude bow",
+    "ssml_text": "<prosody rate='fast'>crude bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/shortbow.mp3",
+    "tts_text": "shortbow",
+    "ssml_text": "<prosody rate='fast'>shortbow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/warden bow.mp3",
+    "tts_text": "warden bow",
+    "ssml_text": "<prosody rate='fast'>warden bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/recurve bow.mp3",
+    "tts_text": "recurve bow",
+    "ssml_text": "<prosody rate='fast'>recurve bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/composite bow.mp3",
+    "tts_text": "composite bow",
+    "ssml_text": "<prosody rate='fast'>composite bow</prosody>"
+  },
+  {
     "path": "basetypes/bows/dualstring bow.mp3",
     "tts_text": "dualstring bow",
     "ssml_text": "<prosody rate='fast'>dualstring bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/cultist bow.mp3",
+    "tts_text": "cultist bow",
+    "ssml_text": "<prosody rate='fast'>cultist bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/zealot bow.mp3",
+    "tts_text": "zealot bow",
+    "ssml_text": "<prosody rate='fast'>zealot bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/artillery bow.mp3",
+    "tts_text": "artillery bow",
+    "ssml_text": "<prosody rate='fast'>artillery bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/tribal bow.mp3",
+    "tts_text": "tribal bow",
+    "ssml_text": "<prosody rate='fast'>tribal bow</prosody>"
   },
   {
     "path": "basetypes/bows/twin bow.mp3",
@@ -235,9 +345,74 @@
     "ssml_text": "<prosody rate='fast'>twin bow</prosody>"
   },
   {
+    "path": "basetypes/bows/adherent bow.mp3",
+    "tts_text": "adherent bow",
+    "ssml_text": "<prosody rate='fast'>adherent bow</prosody>"
+  },
+  {
+    "path": "basetypes/bows/militant bow.mp3",
+    "tts_text": "militant bow",
+    "ssml_text": "<prosody rate='fast'>militant bow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/makeshift crossbow.mp3",
+    "tts_text": "makeshift crossbow",
+    "ssml_text": "<prosody rate='fast'>makeshift crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/tense crossbow.mp3",
+    "tts_text": "tense crossbow",
+    "ssml_text": "<prosody rate='fast'>tense crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/sturdy crossbow.mp3",
+    "tts_text": "sturdy crossbow",
+    "ssml_text": "<prosody rate='fast'>sturdy crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/varnished crossbow.mp3",
+    "tts_text": "varnished crossbow",
+    "ssml_text": "<prosody rate='fast'>varnished crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/dyad crossbow.mp3",
+    "tts_text": "dyad crossbow",
+    "ssml_text": "<prosody rate='fast'>dyad crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/alloy crossbow.mp3",
+    "tts_text": "alloy crossbow",
+    "ssml_text": "<prosody rate='fast'>alloy crossbow</prosody>"
+  },
+  {
     "path": "basetypes/crossbows/bombard crossbow.mp3",
     "tts_text": "bombard crossbow",
     "ssml_text": "<prosody rate='fast'>bombard crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/construct crossbow.mp3",
+    "tts_text": "construct crossbow",
+    "ssml_text": "<prosody rate='fast'>construct crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/blackfire crossbow.mp3",
+    "tts_text": "blackfire crossbow",
+    "ssml_text": "<prosody rate='fast'>blackfire crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/robust crossbow.mp3",
+    "tts_text": "robust crossbow",
+    "ssml_text": "<prosody rate='fast'>robust crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/piercing crossbow.mp3",
+    "tts_text": "piercing crossbow",
+    "ssml_text": "<prosody rate='fast'>piercing crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/crossbows/twin crossbow.mp3",
+    "tts_text": "twin crossbow",
+    "ssml_text": "<prosody rate='fast'>twin crossbow</prosody>"
   },
   {
     "path": "basetypes/crossbows/cannonade crossbow.mp3",
@@ -245,9 +420,34 @@
     "ssml_text": "<prosody rate='fast'>cannonade crossbow</prosody>"
   },
   {
-    "path": "basetypes/spears/barbed spear.mp3",
-    "tts_text": "barbed spear",
-    "ssml_text": "<prosody rate='fast'>barbed spear</prosody>"
+    "path": "basetypes/crossbows/bleak crossbow.mp3",
+    "tts_text": "bleak crossbow",
+    "ssml_text": "<prosody rate='fast'>bleak crossbow</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/wrapped quarterstaff.mp3",
+    "tts_text": "wrapped quarterstaff",
+    "ssml_text": "<prosody rate='fast'>wrapped quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/long quarterstaff.mp3",
+    "tts_text": "long quarterstaff",
+    "ssml_text": "<prosody rate='fast'>long quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/gothic quarterstaff.mp3",
+    "tts_text": "gothic quarterstaff",
+    "ssml_text": "<prosody rate='fast'>gothic quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/crackling quarterstaff.mp3",
+    "tts_text": "crackling quarterstaff",
+    "ssml_text": "<prosody rate='fast'>crackling quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/crescent quarterstaff.mp3",
+    "tts_text": "crescent quarterstaff",
+    "ssml_text": "<prosody rate='fast'>crescent quarterstaff</prosody>"
   },
   {
     "path": "basetypes/quarterstaves/steelpoint quarterstaff.mp3",
@@ -255,9 +455,284 @@
     "ssml_text": "<prosody rate='fast'>steelpoint quarterstaff</prosody>"
   },
   {
+    "path": "basetypes/quarterstaves/slicing quarterstaff.mp3",
+    "tts_text": "slicing quarterstaff",
+    "ssml_text": "<prosody rate='fast'>slicing quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/barrier quarterstaff.mp3",
+    "tts_text": "barrier quarterstaff",
+    "ssml_text": "<prosody rate='fast'>barrier quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/hefty quarterstaff.mp3",
+    "tts_text": "hefty quarterstaff",
+    "ssml_text": "<prosody rate='fast'>hefty quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/smooth quarterstaff.mp3",
+    "tts_text": "smooth quarterstaff",
+    "ssml_text": "<prosody rate='fast'>smooth quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/waxing quarterstaff.mp3",
+    "tts_text": "waxing quarterstaff",
+    "ssml_text": "<prosody rate='fast'>waxing quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/bladed quarterstaff.mp3",
+    "tts_text": "bladed quarterstaff",
+    "ssml_text": "<prosody rate='fast'>bladed quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/quarterstaves/guardian quarterstaff.mp3",
+    "tts_text": "guardian quarterstaff",
+    "ssml_text": "<prosody rate='fast'>guardian quarterstaff</prosody>"
+  },
+  {
+    "path": "basetypes/spears/hardwood spear.mp3",
+    "tts_text": "hardwood spear",
+    "ssml_text": "<prosody rate='fast'>hardwood spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/ironhead spear.mp3",
+    "tts_text": "ironhead spear",
+    "ssml_text": "<prosody rate='fast'>ironhead spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/hunting spear.mp3",
+    "tts_text": "hunting spear",
+    "ssml_text": "<prosody rate='fast'>hunting spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/winged spear.mp3",
+    "tts_text": "winged spear",
+    "ssml_text": "<prosody rate='fast'>winged spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/war spear.mp3",
+    "tts_text": "war spear",
+    "ssml_text": "<prosody rate='fast'>war spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/forked spear.mp3",
+    "tts_text": "forked spear",
+    "ssml_text": "<prosody rate='fast'>forked spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/barbed spear.mp3",
+    "tts_text": "barbed spear",
+    "ssml_text": "<prosody rate='fast'>barbed spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/broad spear.mp3",
+    "tts_text": "broad spear",
+    "ssml_text": "<prosody rate='fast'>broad spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/crossblade spear.mp3",
+    "tts_text": "crossblade spear",
+    "ssml_text": "<prosody rate='fast'>crossblade spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/seaglass spear.mp3",
+    "tts_text": "seaglass spear",
+    "ssml_text": "<prosody rate='fast'>seaglass spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/branched spear.mp3",
+    "tts_text": "branched spear",
+    "ssml_text": "<prosody rate='fast'>branched spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/jagged spear.mp3",
+    "tts_text": "jagged spear",
+    "ssml_text": "<prosody rate='fast'>jagged spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/massive spear.mp3",
+    "tts_text": "massive spear",
+    "ssml_text": "<prosody rate='fast'>massive spear</prosody>"
+  },
+  {
+    "path": "basetypes/spears/helix spear.mp3",
+    "tts_text": "helix spear",
+    "ssml_text": "<prosody rate='fast'>helix spear</prosody>"
+  },
+  {
     "path": "basetypes/sceptres/rattling sceptre.mp3",
     "tts_text": "rattling sceptre",
     "ssml_text": "<prosody rate='fast'>rattling sceptre</prosody>"
+  },
+  {
+    "path": "basetypes/sceptres/stoic sceptre.mp3",
+    "tts_text": "stoic sceptre",
+    "ssml_text": "<prosody rate='fast'>stoic sceptre</prosody>"
+  },
+  {
+    "path": "basetypes/sceptres/omen sceptre.mp3",
+    "tts_text": "omen sceptre",
+    "ssml_text": "<prosody rate='fast'>omen sceptre</prosody>"
+  },
+  {
+    "path": "basetypes/sceptres/shrine sceptre.mp3",
+    "tts_text": "shrine sceptre",
+    "ssml_text": "<prosody rate='fast'>shrine sceptre</prosody>"
+  },
+  {
+    "path": "basetypes/sceptres/wrath sceptre.mp3",
+    "tts_text": "wrath sceptre",
+    "ssml_text": "<prosody rate='fast'>wrath sceptre</prosody>"
+  },
+  {
+    "path": "basetypes/shields/splintered tower shield.mp3",
+    "tts_text": "splintered tower shield",
+    "ssml_text": "<prosody rate='fast'>splintered tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/painted tower shield.mp3",
+    "tts_text": "painted tower shield",
+    "ssml_text": "<prosody rate='fast'>painted tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/braced tower shield.mp3",
+    "tts_text": "braced tower shield",
+    "ssml_text": "<prosody rate='fast'>braced tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/barricade tower shield.mp3",
+    "tts_text": "barricade tower shield",
+    "ssml_text": "<prosody rate='fast'>barricade tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/effigial tower shield.mp3",
+    "tts_text": "effigial tower shield",
+    "ssml_text": "<prosody rate='fast'>effigial tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/rampart tower shield.mp3",
+    "tts_text": "rampart tower shield",
+    "ssml_text": "<prosody rate='fast'>rampart tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/heraldric tower shield.mp3",
+    "tts_text": "heraldric tower shield",
+    "ssml_text": "<prosody rate='fast'>heraldric tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/stone tower shield.mp3",
+    "tts_text": "stone tower shield",
+    "ssml_text": "<prosody rate='fast'>stone tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/crucible tower shield.mp3",
+    "tts_text": "crucible tower shield",
+    "ssml_text": "<prosody rate='fast'>crucible tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/ancestor tower shield.mp3",
+    "tts_text": "ancestor tower shield",
+    "ssml_text": "<prosody rate='fast'>ancestor tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/bulwark tower shield.mp3",
+    "tts_text": "bulwark tower shield",
+    "ssml_text": "<prosody rate='fast'>bulwark tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/noble tower shield.mp3",
+    "tts_text": "noble tower shield",
+    "ssml_text": "<prosody rate='fast'>noble tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/goldworked tower shield.mp3",
+    "tts_text": "goldworked tower shield",
+    "ssml_text": "<prosody rate='fast'>goldworked tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/shields/royal tower shield.mp3",
+    "tts_text": "royal tower shield",
+    "ssml_text": "<prosody rate='fast'>royal tower shield</prosody>"
+  },
+  {
+    "path": "basetypes/staves/ashen staff.mp3",
+    "tts_text": "ashen staff",
+    "ssml_text": "<prosody rate='fast'>ashen staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/voltaic staff.mp3",
+    "tts_text": "voltaic staff",
+    "ssml_text": "<prosody rate='fast'>voltaic staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/gelid staff.mp3",
+    "tts_text": "gelid staff",
+    "ssml_text": "<prosody rate='fast'>gelid staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/pyrophyte staff.mp3",
+    "tts_text": "pyrophyte staff",
+    "ssml_text": "<prosody rate='fast'>pyrophyte staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/chiming staff.mp3",
+    "tts_text": "chiming staff",
+    "ssml_text": "<prosody rate='fast'>chiming staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/reaping staff.mp3",
+    "tts_text": "reaping staff",
+    "ssml_text": "<prosody rate='fast'>reaping staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/roaring staff.mp3",
+    "tts_text": "roaring staff",
+    "ssml_text": "<prosody rate='fast'>roaring staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/paralysing staff.mp3",
+    "tts_text": "paralysing staff",
+    "ssml_text": "<prosody rate='fast'>paralysing staff</prosody>"
+  },
+  {
+    "path": "basetypes/staves/sanctified staff.mp3",
+    "tts_text": "sanctified staff",
+    "ssml_text": "<prosody rate='fast'>sanctified staff</prosody>"
+  },
+  {
+    "path": "basetypes/wands/withered wand.mp3",
+    "tts_text": "withered wand",
+    "ssml_text": "<prosody rate='fast'>withered wand</prosody>"
+  },
+  {
+    "path": "basetypes/wands/attuned wand.mp3",
+    "tts_text": "attuned wand",
+    "ssml_text": "<prosody rate='fast'>attuned wand</prosody>"
+  },
+  {
+    "path": "basetypes/wands/bone wand.mp3",
+    "tts_text": "bone wand",
+    "ssml_text": "<prosody rate='fast'>bone wand</prosody>"
+  },
+  {
+    "path": "basetypes/wands/siphoning wand.mp3",
+    "tts_text": "siphoning wand",
+    "ssml_text": "<prosody rate='fast'>siphoning wand</prosody>"
+  },
+  {
+    "path": "basetypes/wands/volatile wand.mp3",
+    "tts_text": "volatile wand",
+    "ssml_text": "<prosody rate='fast'>volatile wand</prosody>"
+  },
+  {
+    "path": "basetypes/wands/galvanic wand.mp3",
+    "tts_text": "galvanic wand",
+    "ssml_text": "<prosody rate='fast'>galvanic wand</prosody>"
+  },
+  {
+    "path": "basetypes/wands/dueling wand.mp3",
+    "tts_text": "dueling wand",
+    "ssml_text": "<prosody rate='fast'>dueling wand</prosody>"
   },
   {
     "path": "basetypes/flasks/medium life flask.mp3",
@@ -380,9 +855,19 @@
     "ssml_text": "<prosody rate='fast'>bronze key</prosody>"
   },
   {
+    "path": "classes/1h mace magic.mp3",
+    "tts_text": "magic 1 h mace",
+    "ssml_text": "<prosody rate='fast'>magic <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+  },
+  {
     "path": "classes/1h mace rare.mp3",
     "tts_text": "rare 1 h mace",
     "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+  },
+  {
+    "path": "classes/2h mace magic.mp3",
+    "tts_text": "magic 2 h mace",
+    "ssml_text": "<prosody rate='fast'>magic <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
   },
   {
     "path": "classes/2h mace rare.mp3",
@@ -393,6 +878,26 @@
     "path": "classes/amulet.mp3",
     "tts_text": "amulet",
     "ssml_text": ""
+  },
+  {
+    "path": "classes/armour rare.mp3",
+    "tts_text": "rare armour",
+    "ssml_text": "<prosody rate='fast'>rare armour</prosody>"
+  },
+  {
+    "path": "classes/armour es rare.mp3",
+    "tts_text": "rare armour e s",
+    "ssml_text": "<prosody rate='fast'>rare armour e s</prosody>"
+  },
+  {
+    "path": "classes/armour evasion rare.mp3",
+    "tts_text": "rare armour evasion",
+    "ssml_text": "<prosody rate='fast'>rare armour evasion</prosody>"
+  },
+  {
+    "path": "classes/axe magic.mp3",
+    "tts_text": "magic axe",
+    "ssml_text": "<prosody rate='fast'>magic axe</prosody>"
   },
   {
     "path": "classes/axe rare.mp3",
@@ -415,6 +920,11 @@
     "ssml_text": "<prosody rate='fast'>rare boots</prosody>"
   },
   {
+    "path": "classes/bow magic.mp3",
+    "tts_text": "magic bow",
+    "ssml_text": "<prosody rate='fast'>magic bow</prosody>"
+  },
+  {
     "path": "classes/bow rare.mp3",
     "tts_text": "rare bow",
     "ssml_text": "<prosody rate='fast'>rare bow</prosody>"
@@ -430,14 +940,29 @@
     "ssml_text": ""
   },
   {
+    "path": "classes/claw magic.mp3",
+    "tts_text": "magic claw",
+    "ssml_text": "<prosody rate='fast'>magic claw</prosody>"
+  },
+  {
     "path": "classes/claw rare.mp3",
     "tts_text": "rare claw",
     "ssml_text": "<prosody rate='fast'>rare claw</prosody>"
   },
   {
+    "path": "classes/crossbow magic.mp3",
+    "tts_text": "magic crossbow",
+    "ssml_text": "<prosody rate='fast'>magic crossbow</prosody>"
+  },
+  {
     "path": "classes/crossbow rare.mp3",
     "tts_text": "rare crossbow",
     "ssml_text": "<prosody rate='fast'>rare crossbow</prosody>"
+  },
+  {
+    "path": "classes/dagger magic.mp3",
+    "tts_text": "magic dagger",
+    "ssml_text": "<prosody rate='fast'>magic dagger</prosody>"
   },
   {
     "path": "classes/dagger rare.mp3",
@@ -450,9 +975,29 @@
     "ssml_text": "<prosody rate='fast'>distilled emotion</prosody>"
   },
   {
+    "path": "classes/energy shield rare.mp3",
+    "tts_text": "rare e s",
+    "ssml_text": "<prosody rate='fast'>rare e s</prosody>"
+  },
+  {
     "path": "classes/essence.mp3",
     "tts_text": "essence",
     "ssml_text": ""
+  },
+  {
+    "path": "classes/evasion rare.mp3",
+    "tts_text": "rare evasion",
+    "ssml_text": "<prosody rate='fast'>rare evasion</prosody>"
+  },
+  {
+    "path": "classes/evasion es rare.mp3",
+    "tts_text": "rare evasion e s",
+    "ssml_text": "<prosody rate='fast'>rare evasion e s</prosody>"
+  },
+  {
+    "path": "classes/flail magic.mp3",
+    "tts_text": "magic flail",
+    "ssml_text": "<prosody rate='fast'>magic flail</prosody>"
   },
   {
     "path": "classes/flail rare.mp3",
@@ -505,9 +1050,19 @@
     "ssml_text": "<prosody rate='fast'>perfect essence</prosody>"
   },
   {
+    "path": "classes/quarterstaff magic.mp3",
+    "tts_text": "magic quarterstaff",
+    "ssml_text": "<prosody rate='fast'>magic quarterstaff</prosody>"
+  },
+  {
     "path": "classes/quarterstaff rare.mp3",
     "tts_text": "rare quarterstaff",
     "ssml_text": "<prosody rate='fast'>rare quarterstaff</prosody>"
+  },
+  {
+    "path": "classes/quiver magic.mp3",
+    "tts_text": "magic quiver",
+    "ssml_text": "<prosody rate='fast'>magic quiver</prosody>"
   },
   {
     "path": "classes/quiver rare.mp3",
@@ -570,6 +1125,11 @@
     "ssml_text": "<prosody rate='fast'>3 whetstone salvage</prosody>"
   },
   {
+    "path": "classes/sceptre magic.mp3",
+    "tts_text": "magic sceptre",
+    "ssml_text": "<prosody rate='fast'>magic sceptre</prosody>"
+  },
+  {
     "path": "classes/sceptre rare.mp3",
     "tts_text": "rare sceptre",
     "ssml_text": "<prosody rate='fast'>rare sceptre</prosody>"
@@ -585,9 +1145,19 @@
     "ssml_text": "<prosody rate='fast'>soul core</prosody>"
   },
   {
+    "path": "classes/spear magic.mp3",
+    "tts_text": "magic spear",
+    "ssml_text": "<prosody rate='fast'>magic spear</prosody>"
+  },
+  {
     "path": "classes/spear rare.mp3",
     "tts_text": "rare spear",
     "ssml_text": "<prosody rate='fast'>rare spear</prosody>"
+  },
+  {
+    "path": "classes/staff magic.mp3",
+    "tts_text": "magic staff",
+    "ssml_text": "<prosody rate='fast'>magic staff</prosody>"
   },
   {
     "path": "classes/staff rare.mp3",
@@ -595,9 +1165,24 @@
     "ssml_text": "<prosody rate='fast'>rare staff</prosody>"
   },
   {
+    "path": "classes/sword magic.mp3",
+    "tts_text": "magic sword",
+    "ssml_text": "<prosody rate='fast'>magic sword</prosody>"
+  },
+  {
     "path": "classes/sword rare.mp3",
     "tts_text": "rare sword",
     "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
+  },
+  {
+    "path": "classes/tower shield magic.mp3",
+    "tts_text": "magic tower shield",
+    "ssml_text": "<prosody rate='fast'>magic tower shield</prosody>"
+  },
+  {
+    "path": "classes/tower shield rare.mp3",
+    "tts_text": "rare tower shield",
+    "ssml_text": "<prosody rate='fast'>rare tower shield</prosody>"
   },
   {
     "path": "classes/unidentified tier 2 magic.mp3",
@@ -645,6 +1230,11 @@
     "ssml_text": "<prosody rate='fast'>time lost jewel</prosody>"
   },
   {
+    "path": "classes/trap magic.mp3",
+    "tts_text": "magic trap",
+    "ssml_text": "<prosody rate='fast'>magic trap</prosody>"
+  },
+  {
     "path": "classes/trap rare.mp3",
     "tts_text": "rare trap",
     "ssml_text": "<prosody rate='fast'>rare trap</prosody>"
@@ -663,6 +1253,11 @@
     "path": "classes/uncut support gem.mp3",
     "tts_text": "uncut support gem",
     "ssml_text": "<prosody rate='fast'>uncut support gem</prosody>"
+  },
+  {
+    "path": "classes/wand magic.mp3",
+    "tts_text": "magic wand",
+    "ssml_text": "<prosody rate='fast'>magic wand</prosody>"
   },
   {
     "path": "classes/wand rare.mp3",

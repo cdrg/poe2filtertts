@@ -27,15 +27,16 @@ Text-To-Speech sound file packs for Path of Exile 2 item filters
   - Leave the "sounds" folder intact.
   - There's a button in Options > Game to open the filter folder.
 
-![image](https://github.com/user-attachments/assets/ca125eb2-eaaf-4fdf-8204-7b7926d732b1)
-
-![image](https://github.com/user-attachments/assets/96ee9b29-bcd3-424b-8971-44eeb0ecd6b1)
+Your folder should look like this:  
+![image](https://github.com/user-attachments/assets/ca125eb2-eaaf-4fdf-8204-7b7926d732b1)  
+Location in game options:  
+![image](https://github.com/user-attachments/assets/96ee9b29-bcd3-424b-8971-44eeb0ecd6b1)  
 
 ## Bug reports or suggestions:
 
-Make suggestions or bug reports on [Discord](https://discord.gg/gRMjT5gVms) or the reddit thread. Also if you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.Monster](https://tts.monster/), etc.
+Make suggestions or bug reports on [Discord](https://discord.gg/gRMjT5gVms) or the reddit thread. If you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.Monster](https://tts.monster/), etc suggest it.
 
-Git pull requests welcome, like adding items to the template.json.
+Git pull requests welcome, such as adding items to the template.json.
 
 ## Quest item sound: 
 
