@@ -286,7 +286,7 @@
   },
   {
     "path": "basetypes/2h maces/oak greathammer.mp3",
-    "tts_text": "oak greathammer",
+    "tts_text": "oak great hammer",
     "ssml_text": "<prosody rate='fast'>oak greathammer</prosody>"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "path": "basetypes/2h maces/cultist greathammer.mp3",
-    "tts_text": "cultist greathammer",
+    "tts_text": "cultist great hammer",
     "ssml_text": "<prosody rate='fast'>cultist greathammer</prosody>"
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "path": "basetypes/2h maces/heavy greathammer.mp3",
-    "tts_text": "heavy greathammer",
+    "tts_text": "heavy great hammer",
     "ssml_text": "<prosody rate='fast'>heavy greathammer</prosody>"
   },
   {
@@ -341,72 +341,72 @@
   },
   {
     "path": "basetypes/2h maces/leaden greathammer.mp3",
-    "tts_text": "leaden greathammer",
+    "tts_text": "leaden great hammer",
     "ssml_text": "<prosody rate='fast'>leaden greathammer</prosody>"
   },
   {
     "path": "basetypes/bows/crude bow.mp3",
-    "tts_text": "crude bow",
+    "tts_text": "crude boe",
     "ssml_text": "<prosody rate='fast'>crude bow</prosody>"
   },
   {
     "path": "basetypes/bows/shortbow.mp3",
-    "tts_text": "shortbow",
+    "tts_text": "short boe",
     "ssml_text": "<prosody rate='fast'>shortbow</prosody>"
   },
   {
     "path": "basetypes/bows/warden bow.mp3",
-    "tts_text": "warden bow",
+    "tts_text": "warden boe",
     "ssml_text": "<prosody rate='fast'>warden bow</prosody>"
   },
   {
     "path": "basetypes/bows/recurve bow.mp3",
-    "tts_text": "recurve bow",
+    "tts_text": "recurve boe",
     "ssml_text": "<prosody rate='fast'>recurve bow</prosody>"
   },
   {
     "path": "basetypes/bows/composite bow.mp3",
-    "tts_text": "composite bow",
+    "tts_text": "composite boe",
     "ssml_text": "<prosody rate='fast'>composite bow</prosody>"
   },
   {
     "path": "basetypes/bows/dualstring bow.mp3",
-    "tts_text": "dualstring bow",
+    "tts_text": "dualstring boe",
     "ssml_text": "<prosody rate='fast'>dualstring bow</prosody>"
   },
   {
     "path": "basetypes/bows/cultist bow.mp3",
-    "tts_text": "cultist bow",
+    "tts_text": "cultist boe",
     "ssml_text": "<prosody rate='fast'>cultist bow</prosody>"
   },
   {
     "path": "basetypes/bows/zealot bow.mp3",
-    "tts_text": "zealot bow",
+    "tts_text": "zealot boe",
     "ssml_text": "<prosody rate='fast'>zealot bow</prosody>"
   },
   {
     "path": "basetypes/bows/artillery bow.mp3",
-    "tts_text": "artillery bow",
+    "tts_text": "artillery boe",
     "ssml_text": "<prosody rate='fast'>artillery bow</prosody>"
   },
   {
     "path": "basetypes/bows/tribal bow.mp3",
-    "tts_text": "tribal bow",
+    "tts_text": "tribal boe",
     "ssml_text": "<prosody rate='fast'>tribal bow</prosody>"
   },
   {
     "path": "basetypes/bows/twin bow.mp3",
-    "tts_text": "twin bow",
+    "tts_text": "twin boe",
     "ssml_text": "<prosody rate='fast'>twin bow</prosody>"
   },
   {
     "path": "basetypes/bows/adherent bow.mp3",
-    "tts_text": "adherent bow",
+    "tts_text": "adherent boe",
     "ssml_text": "<prosody rate='fast'>adherent bow</prosody>"
   },
   {
     "path": "basetypes/bows/militant bow.mp3",
-    "tts_text": "militant bow",
+    "tts_text": "militant boe",
     "ssml_text": "<prosody rate='fast'>militant bow</prosody>"
   },
   {
@@ -1031,12 +1031,12 @@
   },
   {
     "path": "classes/bow magic.mp3",
-    "tts_text": "magic bow",
+    "tts_text": "magic boe",
     "ssml_text": "<prosody rate='fast'>magic bow</prosody>"
   },
   {
     "path": "classes/bow rare.mp3",
-    "tts_text": "rare bow",
+    "tts_text": "rare boe",
     "ssml_text": "<prosody rate='fast'>rare bow</prosody>"
   },
   {
