@@ -545,6 +545,61 @@
     "ssml_text": "<prosody rate='fast'>guardian quarterstaff</prosody>"
   },
   {
+    "path": "basetypes/quivers/broadhead quiver.mp3",
+    "tts_text": "broadhead quiver",
+    "ssml_text": "<prosody rate='fast'>broadhead quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/fire quiver.mp3",
+    "tts_text": "fire quiver",
+    "ssml_text": "<prosody rate='fast'>fire quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/sacral quiver.mp3",
+    "tts_text": "sacral quiver",
+    "ssml_text": "<prosody rate='fast'>sacral quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/two-point quiver.mp3",
+    "tts_text": "two-point quiver",
+    "ssml_text": "<prosody rate='fast'>two-point quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/blunt quiver.mp3",
+    "tts_text": "blunt quiver",
+    "ssml_text": "<prosody rate='fast'>blunt quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/toxic quiver.mp3",
+    "tts_text": "toxic quiver",
+    "ssml_text": "<prosody rate='fast'>toxic quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/serrated quiver.mp3",
+    "tts_text": "serrated quiver",
+    "ssml_text": "<prosody rate='fast'>serrated quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/primed quiver.mp3",
+    "tts_text": "primed quiver",
+    "ssml_text": "<prosody rate='fast'>primed quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/penetrating quiver.mp3",
+    "tts_text": "penetrating quiver",
+    "ssml_text": "<prosody rate='fast'>penetrating quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/volant quiver.mp3",
+    "tts_text": "volant quiver",
+    "ssml_text": "<prosody rate='fast'>volant quiver</prosody>"
+  },
+  {
+    "path": "basetypes/quivers/visceral quiver.mp3",
+    "tts_text": "visceral quiver",
+    "ssml_text": "<prosody rate='fast'>visceral quiver</prosody>"
+  },
+  {
     "path": "basetypes/spears/hardwood spear.mp3",
     "tts_text": "hardwood spear",
     "ssml_text": "<prosody rate='fast'>hardwood spear</prosody>"
