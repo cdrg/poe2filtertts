@@ -255,6 +255,31 @@
     "ssml_text": "<prosody rate='fast'>construct hammer</prosody>"
   },
   {
+    "path": "basetypes/1h maces/morning star.mp3",
+    "tts_text": "morning star",
+    "ssml_text": "<prosody rate='fast'>morning star</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/jade club.mp3",
+    "tts_text": "jade club",
+    "ssml_text": "<prosody rate='fast'>jade club</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/marching mace.mp3",
+    "tts_text": "marching mace",
+    "ssml_text": "<prosody rate='fast'>marching mace</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/bandit mace.mp3",
+    "tts_text": "bandit mace",
+    "ssml_text": "<prosody rate='fast'>bandit mace</prosody>"
+  },
+  {
+    "path": "basetypes/1h maces/structured hammer.mp3",
+    "tts_text": "structured hammer",
+    "ssml_text": "<prosody rate='fast'>structured hammer</prosody>"
+  },
+  {
     "path": "basetypes/2h maces/felled greatclub.mp3",
     "tts_text": "felled greatclub",
     "ssml_text": "<prosody rate='fast'>felled greatclub</prosody>"
@@ -283,6 +308,36 @@
     "path": "basetypes/2h maces/temple maul.mp3",
     "tts_text": "temple maul",
     "ssml_text": "<prosody rate='fast'>temple maul</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/crumbling maul.mp3",
+    "tts_text": "crumbling maul",
+    "ssml_text": "<prosody rate='fast'>crumbling maul</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/disintegrating maul.mp3",
+    "tts_text": "disintegrating maul",
+    "ssml_text": "<prosody rate='fast'>disintegrating maul</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/heavy greathammer.mp3",
+    "tts_text": "heavy greathammer",
+    "ssml_text": "<prosody rate='fast'>heavy greathammer</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/solemn maul.mp3",
+    "tts_text": "solemn maul",
+    "ssml_text": "<prosody rate='fast'>solemn maul</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/totemic greatclub.mp3",
+    "tts_text": "totemic greatclub",
+    "ssml_text": "<prosody rate='fast'>totemic greatclub</prosody>"
+  },
+  {
+    "path": "basetypes/2h maces/pointed maul.mp3",
+    "tts_text": "pointed maul",
+    "ssml_text": "<prosody rate='fast'>pointed maul</prosody>"
   },
   {
     "path": "basetypes/2h maces/leaden greathammer.mp3",
