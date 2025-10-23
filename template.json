@@ -2250,6 +2250,16 @@
     "ssml_text": "<prosody rate='fast'>movespeed boots</prosody>"
   },
   {
+    "path": "ided/flask life instant.mp3",
+    "tts_text": "instant life flask",
+    "ssml_text": "<prosody rate='fast'>instant life flask</prosody>"
+  },
+  {
+    "path": "ided/flask mana instant.mp3",
+    "tts_text": "instant mana flask",
+    "ssml_text": "<prosody rate='fast'>instant mana flask</prosody>"
+  },
+  {
     "path": "socketable/runes/greater adept rune.mp3",
     "tts_text": "greater adept rune",
     "ssml_text": "<prosody rate='fast'>greater adept rune</prosody>"
