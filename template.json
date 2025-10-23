@@ -1,2537 +1,2537 @@
 [
-  {
-    "path": "basetypes/amulets/crimson amulet.mp3",
-    "tts_text": "crimson amulet",
-    "ssml_text": "<prosody rate='fast'>crimson amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/azure amulet.mp3",
-    "tts_text": "azure amulet",
-    "ssml_text": "<prosody rate='fast'>azure amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/gold amulet.mp3",
-    "tts_text": "gold amulet",
-    "ssml_text": "<prosody rate='fast'>gold amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/lapis amulet.mp3",
-    "tts_text": "lapis amulet",
-    "ssml_text": "<prosody rate='fast'>lapis amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/stellar amulet.mp3",
-    "tts_text": "stellar amulet",
-    "ssml_text": "<prosody rate='fast'>stellar amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/lunar amulet.mp3",
-    "tts_text": "lunar amulet",
-    "ssml_text": "<prosody rate='fast'>lunar amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/bloodstone amulet.mp3",
-    "tts_text": "bloodstone amulet",
-    "ssml_text": "<prosody rate='fast'>bloodstone amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/jade amulet.mp3",
-    "tts_text": "jade amulet",
-    "ssml_text": "<prosody rate='fast'>jade amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/solar amulet.mp3",
-    "tts_text": "solar amulet",
-    "ssml_text": "<prosody rate='fast'>solar amulet</prosody>"
-  },
-  {
-    "path": "basetypes/amulets/amber amulet.mp3",
-    "tts_text": "amber amulet",
-    "ssml_text": "<prosody rate='fast'>amber amulet</prosody>"
-  },
-  {
-    "path": "basetypes/charms/stone charm.mp3",
-    "tts_text": "stone charm",
-    "ssml_text": "<prosody rate='fast'>stone charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/ruby charm.mp3",
-    "tts_text": "ruby charm",
-    "ssml_text": "<prosody rate='fast'>ruby charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/sapphire charm.mp3",
-    "tts_text": "sapphire charm",
-    "ssml_text": "<prosody rate='fast'>sapphire charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/topaz charm.mp3",
-    "tts_text": "topaz charm",
-    "ssml_text": "<prosody rate='fast'>topaz charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/thawing charm.mp3",
-    "tts_text": "thawing charm",
-    "ssml_text": "<prosody rate='fast'>thawing charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/amethyst charm.mp3",
-    "tts_text": "amethyst charm",
-    "ssml_text": "<prosody rate='fast'>amethyst charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/dousing charm.mp3",
-    "tts_text": "dousing charm",
-    "ssml_text": "<prosody rate='fast'>dousing charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/grounding charm.mp3",
-    "tts_text": "grounding charm",
-    "ssml_text": "<prosody rate='fast'>grounding charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/antidote charm.mp3",
-    "tts_text": "antidote charm",
-    "ssml_text": "<prosody rate='fast'>antidote charm</prosody>"
-  },
-  {
-    "path": "basetypes/charms/golden charm.mp3",
-    "tts_text": "golden charm",
-    "ssml_text": "<prosody rate='fast'>golden charm</prosody>"
-  },
-  {
-    "path": "basetypes/rings/amethyst ring.mp3",
-    "tts_text": "amethyst ring",
-    "ssml_text": "<prosody rate='fast'>amethyst ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/prismatic ring.mp3",
-    "tts_text": "prismatic ring",
-    "ssml_text": "<prosody rate='fast'>prismatic ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/breach ring.mp3",
-    "tts_text": "breach ring",
-    "ssml_text": "<prosody rate='fast'>breach ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/pearl ring.mp3",
-    "tts_text": "pearl ring",
-    "ssml_text": "<prosody rate='fast'>pearl ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/gold ring.mp3",
-    "tts_text": "gold ring",
-    "ssml_text": "<prosody rate='fast'>gold ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/emerald ring.mp3",
-    "tts_text": "emerald ring",
-    "ssml_text": "<prosody rate='fast'>emerald ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/iron ring.mp3",
-    "tts_text": "iron ring",
-    "ssml_text": "<prosody rate='fast'>iron ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/unset ring.mp3",
-    "tts_text": "unset ring",
-    "ssml_text": "<prosody rate='fast'>unset ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/lazuli ring.mp3",
-    "tts_text": "lazuli ring",
-    "ssml_text": "<prosody rate='fast'>lazuli ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/ruby ring.mp3",
-    "tts_text": "ruby ring",
-    "ssml_text": "<prosody rate='fast'>ruby ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/sapphire ring.mp3",
-    "tts_text": "sapphire ring",
-    "ssml_text": "<prosody rate='fast'>sapphire ring</prosody>"
-  },
-  {
-    "path": "basetypes/rings/topaz ring.mp3",
-    "tts_text": "topaz ring",
-    "ssml_text": "<prosody rate='fast'>topaz ring</prosody>"
-  },
-  {
-    "path": "basetypes/belts/fine belt.mp3",
-    "tts_text": "fine belt",
-    "ssml_text": "<prosody rate='fast'>fine belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/long belt.mp3",
-    "tts_text": "long belt",
-    "ssml_text": "<prosody rate='fast'>long belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/double belt.mp3",
-    "tts_text": "double belt",
-    "ssml_text": "<prosody rate='fast'>double belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/wide belt.mp3",
-    "tts_text": "wide belt",
-    "ssml_text": "<prosody rate='fast'>wide belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/ornate belt.mp3",
-    "tts_text": "ornate belt",
-    "ssml_text": "<prosody rate='fast'>ornate belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/linen belt.mp3",
-    "tts_text": "linen belt",
-    "ssml_text": "<prosody rate='fast'>linen belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/rawhide belt.mp3",
-    "tts_text": "rawhide belt",
-    "ssml_text": "<prosody rate='fast'>rawhide belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/plate belt.mp3",
-    "tts_text": "plate belt",
-    "ssml_text": "<prosody rate='fast'>plate belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/utility belt.mp3",
-    "tts_text": "utility belt",
-    "ssml_text": "<prosody rate='fast'>utility belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/mail belt.mp3",
-    "tts_text": "mail belt",
-    "ssml_text": "<prosody rate='fast'>mail belt</prosody>"
-  },
-  {
-    "path": "basetypes/belts/heavy belt.mp3",
-    "tts_text": "heavy belt",
-    "ssml_text": "<prosody rate='fast'>heavy belt</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/wooden club.mp3",
-    "tts_text": "wooden club",
-    "ssml_text": "<prosody rate='fast'>wooden club</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/smithing hammer.mp3",
-    "tts_text": "smithing hammer",
-    "ssml_text": "<prosody rate='fast'>smithing hammer</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/slim mace.mp3",
-    "tts_text": "slim mace",
-    "ssml_text": "<prosody rate='fast'>slim mace</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/spiked club.mp3",
-    "tts_text": "spiked club",
-    "ssml_text": "<prosody rate='fast'>spiked club</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/warpick.mp3",
-    "tts_text": "warpick",
-    "ssml_text": "<prosody rate='fast'>warpick</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/plated mace.mp3",
-    "tts_text": "plated mace",
-    "ssml_text": "<prosody rate='fast'>plated mace</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/brigand mace.mp3",
-    "tts_text": "brigand mace",
-    "ssml_text": "<prosody rate='fast'>brigand mace</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/construct hammer.mp3",
-    "tts_text": "construct hammer",
-    "ssml_text": "<prosody rate='fast'>construct hammer</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/morning star.mp3",
-    "tts_text": "morning star",
-    "ssml_text": "<prosody rate='fast'>morning star</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/jade club.mp3",
-    "tts_text": "jade club",
-    "ssml_text": "<prosody rate='fast'>jade club</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/marching mace.mp3",
-    "tts_text": "marching mace",
-    "ssml_text": "<prosody rate='fast'>marching mace</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/bandit mace.mp3",
-    "tts_text": "bandit mace",
-    "ssml_text": "<prosody rate='fast'>bandit mace</prosody>"
-  },
-  {
-    "path": "basetypes/1h maces/structured hammer.mp3",
-    "tts_text": "structured hammer",
-    "ssml_text": "<prosody rate='fast'>structured hammer</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/felled greatclub.mp3",
-    "tts_text": "felled greatclub",
-    "ssml_text": "<prosody rate='fast'>felled greatclub</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/oak greathammer.mp3",
-    "tts_text": "oak great hammer",
-    "ssml_text": "<prosody rate='fast'>oak greathammer</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/forge maul.mp3",
-    "tts_text": "forge maul",
-    "ssml_text": "<prosody rate='fast'>forge maul</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/studded greatclub.mp3",
-    "tts_text": "studded greatclub",
-    "ssml_text": "<prosody rate='fast'>studded greatclub</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/cultist greathammer.mp3",
-    "tts_text": "cultist great hammer",
-    "ssml_text": "<prosody rate='fast'>cultist greathammer</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/temple maul.mp3",
-    "tts_text": "temple maul",
-    "ssml_text": "<prosody rate='fast'>temple maul</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/crumbling maul.mp3",
-    "tts_text": "crumbling maul",
-    "ssml_text": "<prosody rate='fast'>crumbling maul</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/disintegrating maul.mp3",
-    "tts_text": "disintegrating maul",
-    "ssml_text": "<prosody rate='fast'>disintegrating maul</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/heavy greathammer.mp3",
-    "tts_text": "heavy great hammer",
-    "ssml_text": "<prosody rate='fast'>heavy greathammer</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/solemn maul.mp3",
-    "tts_text": "solemn maul",
-    "ssml_text": "<prosody rate='fast'>solemn maul</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/totemic greatclub.mp3",
-    "tts_text": "totemic greatclub",
-    "ssml_text": "<prosody rate='fast'>totemic greatclub</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/pointed maul.mp3",
-    "tts_text": "pointed maul",
-    "ssml_text": "<prosody rate='fast'>pointed maul</prosody>"
-  },
-  {
-    "path": "basetypes/2h maces/leaden greathammer.mp3",
-    "tts_text": "leaden great hammer",
-    "ssml_text": "<prosody rate='fast'>leaden greathammer</prosody>"
-  },
-  {
-    "path": "basetypes/bows/crude bow.mp3",
-    "tts_text": "crude boe",
-    "ssml_text": "<prosody rate='fast'>crude bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/shortbow.mp3",
-    "tts_text": "short boe",
-    "ssml_text": "<prosody rate='fast'>shortbow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/warden bow.mp3",
-    "tts_text": "warden boe",
-    "ssml_text": "<prosody rate='fast'>warden bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/recurve bow.mp3",
-    "tts_text": "recurve boe",
-    "ssml_text": "<prosody rate='fast'>recurve bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/composite bow.mp3",
-    "tts_text": "composite boe",
-    "ssml_text": "<prosody rate='fast'>composite bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/dualstring bow.mp3",
-    "tts_text": "dualstring boe",
-    "ssml_text": "<prosody rate='fast'>dualstring bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/cultist bow.mp3",
-    "tts_text": "cultist boe",
-    "ssml_text": "<prosody rate='fast'>cultist bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/zealot bow.mp3",
-    "tts_text": "zealot boe",
-    "ssml_text": "<prosody rate='fast'>zealot bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/artillery bow.mp3",
-    "tts_text": "artillery boe",
-    "ssml_text": "<prosody rate='fast'>artillery bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/tribal bow.mp3",
-    "tts_text": "tribal boe",
-    "ssml_text": "<prosody rate='fast'>tribal bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/twin bow.mp3",
-    "tts_text": "twin boe",
-    "ssml_text": "<prosody rate='fast'>twin bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/adherent bow.mp3",
-    "tts_text": "adherent boe",
-    "ssml_text": "<prosody rate='fast'>adherent bow</prosody>"
-  },
-  {
-    "path": "basetypes/bows/militant bow.mp3",
-    "tts_text": "militant boe",
-    "ssml_text": "<prosody rate='fast'>militant bow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/makeshift crossbow.mp3",
-    "tts_text": "makeshift crossbow",
-    "ssml_text": "<prosody rate='fast'>makeshift crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/tense crossbow.mp3",
-    "tts_text": "tense crossbow",
-    "ssml_text": "<prosody rate='fast'>tense crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/sturdy crossbow.mp3",
-    "tts_text": "sturdy crossbow",
-    "ssml_text": "<prosody rate='fast'>sturdy crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/varnished crossbow.mp3",
-    "tts_text": "varnished crossbow",
-    "ssml_text": "<prosody rate='fast'>varnished crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/dyad crossbow.mp3",
-    "tts_text": "dyad crossbow",
-    "ssml_text": "<prosody rate='fast'>dyad crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/alloy crossbow.mp3",
-    "tts_text": "alloy crossbow",
-    "ssml_text": "<prosody rate='fast'>alloy crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/bombard crossbow.mp3",
-    "tts_text": "bombard crossbow",
-    "ssml_text": "<prosody rate='fast'>bombard crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/construct crossbow.mp3",
-    "tts_text": "construct crossbow",
-    "ssml_text": "<prosody rate='fast'>construct crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/blackfire crossbow.mp3",
-    "tts_text": "blackfire crossbow",
-    "ssml_text": "<prosody rate='fast'>blackfire crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/robust crossbow.mp3",
-    "tts_text": "robust crossbow",
-    "ssml_text": "<prosody rate='fast'>robust crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/piercing crossbow.mp3",
-    "tts_text": "piercing crossbow",
-    "ssml_text": "<prosody rate='fast'>piercing crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/twin crossbow.mp3",
-    "tts_text": "twin crossbow",
-    "ssml_text": "<prosody rate='fast'>twin crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/cannonade crossbow.mp3",
-    "tts_text": "cannonade crossbow",
-    "ssml_text": "<prosody rate='fast'>cannonade crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/crossbows/bleak crossbow.mp3",
-    "tts_text": "bleak crossbow",
-    "ssml_text": "<prosody rate='fast'>bleak crossbow</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/wrapped quarterstaff.mp3",
-    "tts_text": "wrapped quarterstaff",
-    "ssml_text": "<prosody rate='fast'>wrapped quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/long quarterstaff.mp3",
-    "tts_text": "long quarterstaff",
-    "ssml_text": "<prosody rate='fast'>long quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/gothic quarterstaff.mp3",
-    "tts_text": "gothic quarterstaff",
-    "ssml_text": "<prosody rate='fast'>gothic quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/crackling quarterstaff.mp3",
-    "tts_text": "crackling quarterstaff",
-    "ssml_text": "<prosody rate='fast'>crackling quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/crescent quarterstaff.mp3",
-    "tts_text": "crescent quarterstaff",
-    "ssml_text": "<prosody rate='fast'>crescent quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/steelpoint quarterstaff.mp3",
-    "tts_text": "steelpoint quarterstaff",
-    "ssml_text": "<prosody rate='fast'>steelpoint quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/slicing quarterstaff.mp3",
-    "tts_text": "slicing quarterstaff",
-    "ssml_text": "<prosody rate='fast'>slicing quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/barrier quarterstaff.mp3",
-    "tts_text": "barrier quarterstaff",
-    "ssml_text": "<prosody rate='fast'>barrier quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/hefty quarterstaff.mp3",
-    "tts_text": "hefty quarterstaff",
-    "ssml_text": "<prosody rate='fast'>hefty quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/smooth quarterstaff.mp3",
-    "tts_text": "smooth quarterstaff",
-    "ssml_text": "<prosody rate='fast'>smooth quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/waxing quarterstaff.mp3",
-    "tts_text": "waxing quarterstaff",
-    "ssml_text": "<prosody rate='fast'>waxing quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/bladed quarterstaff.mp3",
-    "tts_text": "bladed quarterstaff",
-    "ssml_text": "<prosody rate='fast'>bladed quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quarterstaves/guardian quarterstaff.mp3",
-    "tts_text": "guardian quarterstaff",
-    "ssml_text": "<prosody rate='fast'>guardian quarterstaff</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/broadhead quiver.mp3",
-    "tts_text": "broadhead quiver",
-    "ssml_text": "<prosody rate='fast'>broadhead quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/fire quiver.mp3",
-    "tts_text": "fire quiver",
-    "ssml_text": "<prosody rate='fast'>fire quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/sacral quiver.mp3",
-    "tts_text": "sacral quiver",
-    "ssml_text": "<prosody rate='fast'>sacral quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/two-point quiver.mp3",
-    "tts_text": "two-point quiver",
-    "ssml_text": "<prosody rate='fast'>two-point quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/blunt quiver.mp3",
-    "tts_text": "blunt quiver",
-    "ssml_text": "<prosody rate='fast'>blunt quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/toxic quiver.mp3",
-    "tts_text": "toxic quiver",
-    "ssml_text": "<prosody rate='fast'>toxic quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/serrated quiver.mp3",
-    "tts_text": "serrated quiver",
-    "ssml_text": "<prosody rate='fast'>serrated quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/primed quiver.mp3",
-    "tts_text": "primed quiver",
-    "ssml_text": "<prosody rate='fast'>primed quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/penetrating quiver.mp3",
-    "tts_text": "penetrating quiver",
-    "ssml_text": "<prosody rate='fast'>penetrating quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/volant quiver.mp3",
-    "tts_text": "volant quiver",
-    "ssml_text": "<prosody rate='fast'>volant quiver</prosody>"
-  },
-  {
-    "path": "basetypes/quivers/visceral quiver.mp3",
-    "tts_text": "visceral quiver",
-    "ssml_text": "<prosody rate='fast'>visceral quiver</prosody>"
-  },
-  {
-    "path": "basetypes/spears/hardwood spear.mp3",
-    "tts_text": "hardwood spear",
-    "ssml_text": "<prosody rate='fast'>hardwood spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/ironhead spear.mp3",
-    "tts_text": "ironhead spear",
-    "ssml_text": "<prosody rate='fast'>ironhead spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/hunting spear.mp3",
-    "tts_text": "hunting spear",
-    "ssml_text": "<prosody rate='fast'>hunting spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/winged spear.mp3",
-    "tts_text": "winged spear",
-    "ssml_text": "<prosody rate='fast'>winged spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/war spear.mp3",
-    "tts_text": "war spear",
-    "ssml_text": "<prosody rate='fast'>war spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/forked spear.mp3",
-    "tts_text": "forked spear",
-    "ssml_text": "<prosody rate='fast'>forked spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/barbed spear.mp3",
-    "tts_text": "barbed spear",
-    "ssml_text": "<prosody rate='fast'>barbed spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/broad spear.mp3",
-    "tts_text": "broad spear",
-    "ssml_text": "<prosody rate='fast'>broad spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/crossblade spear.mp3",
-    "tts_text": "crossblade spear",
-    "ssml_text": "<prosody rate='fast'>crossblade spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/seaglass spear.mp3",
-    "tts_text": "seaglass spear",
-    "ssml_text": "<prosody rate='fast'>seaglass spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/branched spear.mp3",
-    "tts_text": "branched spear",
-    "ssml_text": "<prosody rate='fast'>branched spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/jagged spear.mp3",
-    "tts_text": "jagged spear",
-    "ssml_text": "<prosody rate='fast'>jagged spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/massive spear.mp3",
-    "tts_text": "massive spear",
-    "ssml_text": "<prosody rate='fast'>massive spear</prosody>"
-  },
-  {
-    "path": "basetypes/spears/helix spear.mp3",
-    "tts_text": "helix spear",
-    "ssml_text": "<prosody rate='fast'>helix spear</prosody>"
-  },
-  {
-    "path": "basetypes/sceptres/rattling sceptre.mp3",
-    "tts_text": "rattling sceptre",
-    "ssml_text": "<prosody rate='fast'>rattling sceptre</prosody>"
-  },
-  {
-    "path": "basetypes/sceptres/stoic sceptre.mp3",
-    "tts_text": "stoic sceptre",
-    "ssml_text": "<prosody rate='fast'>stoic sceptre</prosody>"
-  },
-  {
-    "path": "basetypes/sceptres/omen sceptre.mp3",
-    "tts_text": "omen sceptre",
-    "ssml_text": "<prosody rate='fast'>omen sceptre</prosody>"
-  },
-  {
-    "path": "basetypes/sceptres/shrine sceptre.mp3",
-    "tts_text": "shrine sceptre",
-    "ssml_text": "<prosody rate='fast'>shrine sceptre</prosody>"
-  },
-  {
-    "path": "basetypes/sceptres/wrath sceptre.mp3",
-    "tts_text": "wrath sceptre",
-    "ssml_text": "<prosody rate='fast'>wrath sceptre</prosody>"
-  },
-  {
-    "path": "basetypes/shields/splintered tower shield.mp3",
-    "tts_text": "splintered tower shield",
-    "ssml_text": "<prosody rate='fast'>splintered tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/painted tower shield.mp3",
-    "tts_text": "painted tower shield",
-    "ssml_text": "<prosody rate='fast'>painted tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/braced tower shield.mp3",
-    "tts_text": "braced tower shield",
-    "ssml_text": "<prosody rate='fast'>braced tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/barricade tower shield.mp3",
-    "tts_text": "barricade tower shield",
-    "ssml_text": "<prosody rate='fast'>barricade tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/effigial tower shield.mp3",
-    "tts_text": "effigial tower shield",
-    "ssml_text": "<prosody rate='fast'>effigial tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/rampart tower shield.mp3",
-    "tts_text": "rampart tower shield",
-    "ssml_text": "<prosody rate='fast'>rampart tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/heraldric tower shield.mp3",
-    "tts_text": "heraldric tower shield",
-    "ssml_text": "<prosody rate='fast'>heraldric tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/stone tower shield.mp3",
-    "tts_text": "stone tower shield",
-    "ssml_text": "<prosody rate='fast'>stone tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/crucible tower shield.mp3",
-    "tts_text": "crucible tower shield",
-    "ssml_text": "<prosody rate='fast'>crucible tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/ancestor tower shield.mp3",
-    "tts_text": "ancestor tower shield",
-    "ssml_text": "<prosody rate='fast'>ancestor tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/bulwark tower shield.mp3",
-    "tts_text": "bulwark tower shield",
-    "ssml_text": "<prosody rate='fast'>bulwark tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/noble tower shield.mp3",
-    "tts_text": "noble tower shield",
-    "ssml_text": "<prosody rate='fast'>noble tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/goldworked tower shield.mp3",
-    "tts_text": "goldworked tower shield",
-    "ssml_text": "<prosody rate='fast'>goldworked tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/shields/royal tower shield.mp3",
-    "tts_text": "royal tower shield",
-    "ssml_text": "<prosody rate='fast'>royal tower shield</prosody>"
-  },
-  {
-    "path": "basetypes/staves/ashen staff.mp3",
-    "tts_text": "ashen staff",
-    "ssml_text": "<prosody rate='fast'>ashen staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/voltaic staff.mp3",
-    "tts_text": "voltaic staff",
-    "ssml_text": "<prosody rate='fast'>voltaic staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/gelid staff.mp3",
-    "tts_text": "gelid staff",
-    "ssml_text": "<prosody rate='fast'>gelid staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/pyrophyte staff.mp3",
-    "tts_text": "pyrophyte staff",
-    "ssml_text": "<prosody rate='fast'>pyrophyte staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/chiming staff.mp3",
-    "tts_text": "chiming staff",
-    "ssml_text": "<prosody rate='fast'>chiming staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/reaping staff.mp3",
-    "tts_text": "reaping staff",
-    "ssml_text": "<prosody rate='fast'>reaping staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/roaring staff.mp3",
-    "tts_text": "roaring staff",
-    "ssml_text": "<prosody rate='fast'>roaring staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/paralysing staff.mp3",
-    "tts_text": "paralysing staff",
-    "ssml_text": "<prosody rate='fast'>paralysing staff</prosody>"
-  },
-  {
-    "path": "basetypes/staves/sanctified staff.mp3",
-    "tts_text": "sanctified staff",
-    "ssml_text": "<prosody rate='fast'>sanctified staff</prosody>"
-  },
-  {
-    "path": "basetypes/wands/withered wand.mp3",
-    "tts_text": "withered wand",
-    "ssml_text": "<prosody rate='fast'>withered wand</prosody>"
-  },
-  {
-    "path": "basetypes/wands/attuned wand.mp3",
-    "tts_text": "attuned wand",
-    "ssml_text": "<prosody rate='fast'>attuned wand</prosody>"
-  },
-  {
-    "path": "basetypes/wands/bone wand.mp3",
-    "tts_text": "bone wand",
-    "ssml_text": "<prosody rate='fast'>bone wand</prosody>"
-  },
-  {
-    "path": "basetypes/wands/siphoning wand.mp3",
-    "tts_text": "siphoning wand",
-    "ssml_text": "<prosody rate='fast'>siphoning wand</prosody>"
-  },
-  {
-    "path": "basetypes/wands/volatile wand.mp3",
-    "tts_text": "volatile wand",
-    "ssml_text": "<prosody rate='fast'>volatile wand</prosody>"
-  },
-  {
-    "path": "basetypes/wands/galvanic wand.mp3",
-    "tts_text": "galvanic wand",
-    "ssml_text": "<prosody rate='fast'>galvanic wand</prosody>"
-  },
-  {
-    "path": "basetypes/wands/dueling wand.mp3",
-    "tts_text": "dueling wand",
-    "ssml_text": "<prosody rate='fast'>dueling wand</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/medium life flask.mp3",
-    "tts_text": "medium life flask",
-    "ssml_text": "<prosody rate='fast'>medium life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/greater life flask.mp3",
-    "tts_text": "greater life flask",
-    "ssml_text": "<prosody rate='fast'>greater life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/grand life flask.mp3",
-    "tts_text": "grand life flask",
-    "ssml_text": "<prosody rate='fast'>grand life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/giant life flask.mp3",
-    "tts_text": "giant life flask",
-    "ssml_text": "<prosody rate='fast'>giant life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/colossal life flask.mp3",
-    "tts_text": "colossal life flask",
-    "ssml_text": "<prosody rate='fast'>colossal life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/gargantuan life flask.mp3",
-    "tts_text": "gargantuan life flask",
-    "ssml_text": "<prosody rate='fast'>gargantuan life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/transcendent life flask.mp3",
-    "tts_text": "transcendent life flask",
-    "ssml_text": "<prosody rate='fast'>transcendent life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/ultimate life flask.mp3",
-    "tts_text": "ultimate life flask",
-    "ssml_text": "<prosody rate='fast'>ultimate life flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/medium mana flask.mp3",
-    "tts_text": "medium mana flask",
-    "ssml_text": "<prosody rate='fast'>medium mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/greater mana flask.mp3",
-    "tts_text": "greater mana flask",
-    "ssml_text": "<prosody rate='fast'>greater mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/grand mana flask.mp3",
-    "tts_text": "grand mana flask",
-    "ssml_text": "<prosody rate='fast'>grand mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/giant mana flask.mp3",
-    "tts_text": "giant mana flask",
-    "ssml_text": "<prosody rate='fast'>giant mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/colossal mana flask.mp3",
-    "tts_text": "colossal mana flask",
-    "ssml_text": "<prosody rate='fast'>colossal mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/gargantuan mana flask.mp3",
-    "tts_text": "gargantuan mana flask",
-    "ssml_text": "<prosody rate='fast'>gargantuan mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/transcendent mana flask.mp3",
-    "tts_text": "transcendent mana flask",
-    "ssml_text": "<prosody rate='fast'>transcendent mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/flasks/ultimate mana flask.mp3",
-    "tts_text": "ultimate mana flask",
-    "ssml_text": "<prosody rate='fast'>ultimate mana flask</prosody>"
-  },
-  {
-    "path": "basetypes/inscribed ultimatum 4 trials.mp3",
-    "tts_text": "inscribed ultimatum 4 trials",
-    "ssml_text": "<prosody rate='fast'>inscribed ultimatum 4 trials</prosody>"
-  },
-  {
-    "path": "basetypes/djinn barya 3 floors.mp3",
-    "tts_text": "djinn barya 3 floors",
-    "ssml_text": "<prosody rate='fast'>djinn barya 3 floors</prosody>"
-  },
-  {
-    "path": "basetypes/djinn barya 2 floors.mp3",
-    "tts_text": "djinn barya 2 floors",
-    "ssml_text": "<prosody rate='fast'>djinn barya 2 floors</prosody>"
-  },
-  {
-    "path": "basetypes/djinn barya 1 floor.mp3",
-    "tts_text": "djinn barya 1 floor",
-    "ssml_text": "<prosody rate='fast'>djinn barya 1 floor</prosody>"
-  },
-  {
-    "path": "basetypes/gold key.mp3",
-    "tts_text": "gold key",
-    "ssml_text": "<prosody rate='fast'>gold key</prosody>"
-  },
-  {
-    "path": "basetypes/inscribed ultimatum 7 trials.mp3",
-    "tts_text": "inscribed ultimatum 7 trials",
-    "ssml_text": "<prosody rate='fast'>inscribed ultimatum 7 trials</prosody>"
-  },
-  {
-    "path": "basetypes/silver key.mp3",
-    "tts_text": "silver key",
-    "ssml_text": "<prosody rate='fast'>silver key</prosody>"
-  },
-  {
-    "path": "basetypes/bronze key.mp3",
-    "tts_text": "bronze key",
-    "ssml_text": "<prosody rate='fast'>bronze key</prosody>"
-  },
-  {
-    "path": "classes/1h mace magic.mp3",
-    "tts_text": "magic 1 h mace",
-    "ssml_text": "<prosody rate='fast'>magic <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
-  },
-  {
-    "path": "classes/1h mace rare.mp3",
-    "tts_text": "rare 1 h mace",
-    "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
-  },
-  {
-    "path": "classes/2h mace magic.mp3",
-    "tts_text": "magic 2 h mace",
-    "ssml_text": "<prosody rate='fast'>magic <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
-  },
-  {
-    "path": "classes/2h mace rare.mp3",
-    "tts_text": "rare 2 h mace",
-    "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
-  },
-  {
-    "path": "classes/amulet.mp3",
-    "tts_text": "amulet",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/armour rare.mp3",
-    "tts_text": "rare armour",
-    "ssml_text": "<prosody rate='fast'>rare armour</prosody>"
-  },
-  {
-    "path": "classes/armour es rare.mp3",
-    "tts_text": "rare armour e s",
-    "ssml_text": "<prosody rate='fast'>rare armour e s</prosody>"
-  },
-  {
-    "path": "classes/armour evasion rare.mp3",
-    "tts_text": "rare armour evasion",
-    "ssml_text": "<prosody rate='fast'>rare armour evasion</prosody>"
-  },
-  {
-    "path": "classes/axe magic.mp3",
-    "tts_text": "magic axe",
-    "ssml_text": "<prosody rate='fast'>magic axe</prosody>"
-  },
-  {
-    "path": "classes/axe rare.mp3",
-    "tts_text": "rare axe",
-    "ssml_text": "<prosody rate='fast'>rare axe</prosody>"
-  },
-  {
-    "path": "classes/belt.mp3",
-    "tts_text": "belt",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/boots magic.mp3",
-    "tts_text": "magic boots",
-    "ssml_text": "<prosody rate='fast'>magic boots</prosody>"
-  },
-  {
-    "path": "classes/boots rare.mp3",
-    "tts_text": "rare boots",
-    "ssml_text": "<prosody rate='fast'>rare boots</prosody>"
-  },
-  {
-    "path": "classes/bow magic.mp3",
-    "tts_text": "magic boe",
-    "ssml_text": "<prosody rate='fast'>magic bow</prosody>"
-  },
-  {
-    "path": "classes/bow rare.mp3",
-    "tts_text": "rare boe",
-    "ssml_text": "<prosody rate='fast'>rare bow</prosody>"
-  },
-  {
-    "path": "classes/buckler rare.mp3",
-    "tts_text": "rare buckler",
-    "ssml_text": "<prosody rate='fast'>rare buckler</prosody>"
-  },
-  {
-    "path": "classes/catalyst.mp3",
-    "tts_text": "catalyst",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/claw magic.mp3",
-    "tts_text": "magic claw",
-    "ssml_text": "<prosody rate='fast'>magic claw</prosody>"
-  },
-  {
-    "path": "classes/claw rare.mp3",
-    "tts_text": "rare claw",
-    "ssml_text": "<prosody rate='fast'>rare claw</prosody>"
-  },
-  {
-    "path": "classes/crossbow magic.mp3",
-    "tts_text": "magic crossbow",
-    "ssml_text": "<prosody rate='fast'>magic crossbow</prosody>"
-  },
-  {
-    "path": "classes/crossbow rare.mp3",
-    "tts_text": "rare crossbow",
-    "ssml_text": "<prosody rate='fast'>rare crossbow</prosody>"
-  },
-  {
-    "path": "classes/dagger magic.mp3",
-    "tts_text": "magic dagger",
-    "ssml_text": "<prosody rate='fast'>magic dagger</prosody>"
-  },
-  {
-    "path": "classes/dagger rare.mp3",
-    "tts_text": "rare dagger",
-    "ssml_text": "<prosody rate='fast'>rare dagger</prosody>"
-  },
-  {
-    "path": "classes/distilled emotion.mp3",
-    "tts_text": "distilled emotion",
-    "ssml_text": "<prosody rate='fast'>distilled emotion</prosody>"
-  },
-  {
-    "path": "classes/energy shield rare.mp3",
-    "tts_text": "rare e s",
-    "ssml_text": "<prosody rate='fast'>rare e s</prosody>"
-  },
-  {
-    "path": "classes/essence.mp3",
-    "tts_text": "essence",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/evasion rare.mp3",
-    "tts_text": "rare evasion",
-    "ssml_text": "<prosody rate='fast'>rare evasion</prosody>"
-  },
-  {
-    "path": "classes/evasion es rare.mp3",
-    "tts_text": "rare evasion e s",
-    "ssml_text": "<prosody rate='fast'>rare evasion e s</prosody>"
-  },
-  {
-    "path": "classes/flail magic.mp3",
-    "tts_text": "magic flail",
-    "ssml_text": "<prosody rate='fast'>magic flail</prosody>"
-  },
-  {
-    "path": "classes/flail rare.mp3",
-    "tts_text": "rare flail",
-    "ssml_text": "<prosody rate='fast'>rare flail</prosody>"
-  },
-  {
-    "path": "classes/focus rare.mp3",
-    "tts_text": "rare focus",
-    "ssml_text": "<prosody rate='fast'>rare focus</prosody>"
-  },
-  {
-    "path": "classes/greater essence.mp3",
-    "tts_text": "greater essence",
-    "ssml_text": "<prosody rate='fast'>greater essence</prosody>"
-  },
-  {
-    "path": "classes/jewel.mp3",
-    "tts_text": "jewel",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/jewellery rare.mp3",
-    "tts_text": "rare jewellery",
-    "ssml_text": "<prosody rate='fast'>rare jewellery</prosody>"
-  },
-  {
-    "path": "classes/lesser essence.mp3",
-    "tts_text": "lesser essence",
-    "ssml_text": "<prosody rate='fast'>lesser essence</prosody>"
-  },
-  {
-    "path": "classes/life flask.mp3",
-    "tts_text": "life flask",
-    "ssml_text": "<prosody rate='fast'>life flask</prosody>"
-  },
-  {
-    "path": "classes/mana flask.mp3",
-    "tts_text": "mana flask",
-    "ssml_text": "<prosody rate='fast'>mana flask</prosody>"
-  },
-  {
-    "path": "classes/omen.mp3",
-    "tts_text": "omen",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/perfect essence.mp3",
-    "tts_text": "perfect essence",
-    "ssml_text": "<prosody rate='fast'>perfect essence</prosody>"
-  },
-  {
-    "path": "classes/quarterstaff magic.mp3",
-    "tts_text": "magic quarterstaff",
-    "ssml_text": "<prosody rate='fast'>magic quarterstaff</prosody>"
-  },
-  {
-    "path": "classes/quarterstaff rare.mp3",
-    "tts_text": "rare quarterstaff",
-    "ssml_text": "<prosody rate='fast'>rare quarterstaff</prosody>"
-  },
-  {
-    "path": "classes/quiver magic.mp3",
-    "tts_text": "magic quiver",
-    "ssml_text": "<prosody rate='fast'>magic quiver</prosody>"
-  },
-  {
-    "path": "classes/quiver rare.mp3",
-    "tts_text": "rare quiver",
-    "ssml_text": "<prosody rate='fast'>rare quiver</prosody>"
-  },
-  {
-    "path": "classes/rare.mp3",
-    "tts_text": "rare",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/relic.mp3",
-    "tts_text": "relic",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/ring.mp3",
-    "tts_text": "ring",
-    "ssml_text": ""
-  },
-  {
-    "path": "classes/salvage 2 armourers.mp3",
-    "tts_text": "2 armourers salvage",
-    "ssml_text": "<prosody rate='fast'>2 armourers salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 2 etcher.mp3",
-    "tts_text": "2 etcher salvage",
-    "ssml_text": "<prosody rate='fast'>2 etcher salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 2 glassblowers.mp3",
-    "tts_text": "2 glassblowers salvage",
-    "ssml_text": "<prosody rate='fast'>2 glassblowers salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 2 whetstone.mp3",
-    "tts_text": "2 whetstone salvage",
-    "ssml_text": "<prosody rate='fast'>2 whetstone salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 3 armourers.mp3",
-    "tts_text": "3 armourers salvage",
-    "ssml_text": "<prosody rate='fast'>3 armourers salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 3 etcher.mp3",
-    "tts_text": "3 etcher salvage",
-    "ssml_text": "<prosody rate='fast'>3 etcher salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 3 glassblowers.mp3",
-    "tts_text": "3 glassblowers salvage",
-    "ssml_text": "<prosody rate='fast'>3 glassblowers salvage</prosody>"
-  },
-  {
-    "path": "classes/salvage 3 whetstone.mp3",
-    "tts_text": "3 whetstone salvage",
-    "ssml_text": "<prosody rate='fast'>3 whetstone salvage</prosody>"
-  },
-  {
-    "path": "classes/sceptre magic.mp3",
-    "tts_text": "magic sceptre",
-    "ssml_text": "<prosody rate='fast'>magic sceptre</prosody>"
-  },
-  {
-    "path": "classes/sceptre rare.mp3",
-    "tts_text": "rare sceptre",
-    "ssml_text": "<prosody rate='fast'>rare sceptre</prosody>"
-  },
-  {
-    "path": "classes/shield rare.mp3",
-    "tts_text": "rare shield",
-    "ssml_text": "<prosody rate='fast'>rare shield</prosody>"
-  },
-  {
-    "path": "classes/soul core.mp3",
-    "tts_text": "soul core",
-    "ssml_text": "<prosody rate='fast'>soul core</prosody>"
-  },
-  {
-    "path": "classes/spear magic.mp3",
-    "tts_text": "magic spear",
-    "ssml_text": "<prosody rate='fast'>magic spear</prosody>"
-  },
-  {
-    "path": "classes/spear rare.mp3",
-    "tts_text": "rare spear",
-    "ssml_text": "<prosody rate='fast'>rare spear</prosody>"
-  },
-  {
-    "path": "classes/staff magic.mp3",
-    "tts_text": "magic staff",
-    "ssml_text": "<prosody rate='fast'>magic staff</prosody>"
-  },
-  {
-    "path": "classes/staff rare.mp3",
-    "tts_text": "rare staff",
-    "ssml_text": "<prosody rate='fast'>rare staff</prosody>"
-  },
-  {
-    "path": "classes/sword magic.mp3",
-    "tts_text": "magic sword",
-    "ssml_text": "<prosody rate='fast'>magic sword</prosody>"
-  },
-  {
-    "path": "classes/sword rare.mp3",
-    "tts_text": "rare sword",
-    "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
-  },
-  {
-    "path": "classes/tower shield magic.mp3",
-    "tts_text": "magic tower shield",
-    "ssml_text": "<prosody rate='fast'>magic tower shield</prosody>"
-  },
-  {
-    "path": "classes/tower shield rare.mp3",
-    "tts_text": "rare tower shield",
-    "ssml_text": "<prosody rate='fast'>rare tower shield</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 2 magic.mp3",
-    "tts_text": "tier 2 magic",
-    "ssml_text": "<prosody rate='fast'>tier 2 magic</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 2 rare.mp3",
-    "tts_text": "tier 2 rare",
-    "ssml_text": "<prosody rate='fast'>tier 2 rare</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 3 magic.mp3",
-    "tts_text": "tier 3 magic",
-    "ssml_text": "<prosody rate='fast'>tier 3 magic</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 3 rare.mp3",
-    "tts_text": "tier 3 rare",
-    "ssml_text": "<prosody rate='fast'>tier 3 rare</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 4 magic.mp3",
-    "tts_text": "tier 4 magic",
-    "ssml_text": "<prosody rate='fast'>tier 4 magic</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 4 rare.mp3",
-    "tts_text": "tier 4 rare",
-    "ssml_text": "<prosody rate='fast'>tier 4 rare</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 5 magic.mp3",
-    "tts_text": "tier 5 magic",
-    "ssml_text": "<prosody rate='fast'>tier 5 magic</prosody>"
-  },
-  {
-    "path": "classes/unidentified tier 5 rare.mp3",
-    "tts_text": "tier 5 rare",
-    "ssml_text": "<prosody rate='fast'>tier 5 rare</prosody>"
-  },
-  {
-    "path": "classes/time lost jewel.mp3",
-    "tts_text": "time lost jewel",
-    "ssml_text": "<prosody rate='fast'>time lost jewel</prosody>"
-  },
-  {
-    "path": "classes/trap magic.mp3",
-    "tts_text": "magic trap",
-    "ssml_text": "<prosody rate='fast'>magic trap</prosody>"
-  },
-  {
-    "path": "classes/trap rare.mp3",
-    "tts_text": "rare trap",
-    "ssml_text": "<prosody rate='fast'>rare trap</prosody>"
-  },
-  {
-    "path": "classes/uncut skill gem.mp3",
-    "tts_text": "uncut skill gem",
-    "ssml_text": "<prosody rate='fast'>uncut skill gem</prosody>"
-  },
-  {
-    "path": "classes/uncut spirit gem.mp3",
-    "tts_text": "uncut spirit gem",
-    "ssml_text": "<prosody rate='fast'>uncut spirit gem</prosody>"
-  },
-  {
-    "path": "classes/uncut support gem.mp3",
-    "tts_text": "uncut support gem",
-    "ssml_text": "<prosody rate='fast'>uncut support gem</prosody>"
-  },
-  {
-    "path": "classes/wand magic.mp3",
-    "tts_text": "magic wand",
-    "ssml_text": "<prosody rate='fast'>magic wand</prosody>"
-  },
-  {
-    "path": "classes/wand rare.mp3",
-    "tts_text": "rare wand",
-    "ssml_text": "<prosody rate='fast'>rare wand</prosody>"
-  },
-  {
-    "path": "classes/waystone.mp3",
-    "tts_text": "waystone",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/abyss/ancient collarbone.mp3",
-    "tts_text": "ancient collarbone",
-    "ssml_text": "<prosody rate='fast'>ancient collarbone</prosody>"
-  },
-  {
-    "path": "currency/abyss/ancient jawbone.mp3",
-    "tts_text": "ancient jawbone",
-    "ssml_text": "<prosody rate='fast'>ancient jawbone</prosody>"
-  },
-  {
-    "path": "currency/abyss/ancient rib.mp3",
-    "tts_text": "ancient rib",
-    "ssml_text": "<prosody rate='fast'>ancient rib</prosody>"
-  },
-  {
-    "path": "currency/abyss/gnawed collarbone.mp3",
-    "tts_text": "gnawed collarbone",
-    "ssml_text": "<prosody rate='fast'>gnawed collarbone</prosody>"
-  },
-  {
-    "path": "currency/abyss/gnawed jawbone.mp3",
-    "tts_text": "gnawed jawbone",
-    "ssml_text": "<prosody rate='fast'>gnawed jawbone</prosody>"
-  },
-  {
-    "path": "currency/abyss/gnawed rib.mp3",
-    "tts_text": "gnawed rib",
-    "ssml_text": "<prosody rate='fast'>gnawed rib</prosody>"
-  },
-  {
-    "path": "currency/abyss/preserved collarbone.mp3",
-    "tts_text": "preserved collarbone",
-    "ssml_text": "<prosody rate='fast'>preserved collarbone</prosody>"
-  },
-  {
-    "path": "currency/abyss/preserved cranium.mp3",
-    "tts_text": "preserved cranium",
-    "ssml_text": "<prosody rate='fast'>preserved cranium</prosody>"
-  },
-  {
-    "path": "currency/abyss/preserved jawbone.mp3",
-    "tts_text": "preserved jawbone",
-    "ssml_text": "<prosody rate='fast'>preserved jawbone</prosody>"
-  },
-  {
-    "path": "currency/abyss/preserved rib.mp3",
-    "tts_text": "preserved rib",
-    "ssml_text": "<prosody rate='fast'>preserved rib</prosody>"
-  },
-  {
-    "path": "currency/abyss/preserved vertebrae.mp3",
-    "tts_text": "preserved vertebrae",
-    "ssml_text": "<prosody rate='fast'>preserved vertebrae</prosody>"
-  },
-  {
-    "path": "currency/arcanists etcher.mp3",
-    "tts_text": "arcanists etcher",
-    "ssml_text": "<prosody rate='fast'>arcanists etcher</prosody>"
-  },
-  {
-    "path": "currency/armourers scrap.mp3",
-    "tts_text": "armourers",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/artificers orb.mp3",
-    "tts_text": "artificers",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/artificers shard.mp3",
-    "tts_text": "artificers shard",
-    "ssml_text": "<prosody rate='fast'>artificers shard</prosody>"
-  },
-  {
-    "path": "currency/blacksmiths whetstone.mp3",
-    "tts_text": "whetstone",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/chance shard.mp3",
-    "tts_text": "chance shard",
-    "ssml_text": "<prosody rate='fast'>chance shard</prosody>"
-  },
-  {
-    "path": "currency/chaos orb.mp3",
-    "tts_text": "chaos",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/divine orb.mp3",
-    "tts_text": "divine",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/exalted orb.mp3",
-    "tts_text": "exalted",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/fracturing orb.mp3",
-    "tts_text": "fracturing",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/gemcutters prism.mp3",
-    "tts_text": "gemcutters",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/glassblowers bauble.mp3",
-    "tts_text": "glassblowers",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/greater chaos orb.mp3",
-    "tts_text": "greater chaos",
-    "ssml_text": "<prosody rate='fast'>greater chaos</prosody>"
-  },
-  {
-    "path": "currency/greater exalted orb.mp3",
-    "tts_text": "greater exalted",
-    "ssml_text": "<prosody rate='fast'>greater exalted</prosody>"
-  },
-  {
-    "path": "currency/greater jewellers orb.mp3",
-    "tts_text": "greater jewellers",
-    "ssml_text": "<prosody rate='fast'>greater jewellers</prosody>"
-  },
-  {
-    "path": "currency/greater regal orb.mp3",
-    "tts_text": "greater regal",
-    "ssml_text": "<prosody rate='fast'>greater regal</prosody>"
-  },
-  {
-    "path": "currency/greater orb of augmentation.mp3",
-    "tts_text": "greater augmentation",
-    "ssml_text": "<prosody rate='fast'>greater augmentation</prosody>"
-  },
-  {
-    "path": "currency/greater orb of transmutation.mp3",
-    "tts_text": "greater transmuatation",
-    "ssml_text": "<prosody rate='fast'>greater transmutation</prosody>"
-  },
-  {
-    "path": "currency/hinekoras lock.mp3",
-    "tts_text": "hinekoras lock",
-    "ssml_text": "<prosody rate='fast'>hinekoras lock</prosody>"
-  },
-  {
-    "path": "currency/lesser jewellers orb.mp3",
-    "tts_text": "lesser jewellers",
-    "ssml_text": "<prosody rate='fast'>lesser jewellers</prosody>"
-  },
-  {
-    "path": "currency/mirror of kalandra.mp3",
-    "tts_text": "mirror of kalandra",
-    "ssml_text": "<prosody rate='fast'>mirror of kalandra</prosody>"
-  },
-  {
-    "path": "currency/orb of alchemy.mp3",
-    "tts_text": "alchemy",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/orb of annulment.mp3",
-    "tts_text": "annulment",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/orb of augmentation.mp3",
-    "tts_text": "augmentation",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/orb of chance.mp3",
-    "tts_text": "chance",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/orb of transmutation.mp3",
-    "tts_text": "transmutation",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/perfect chaos orb.mp3",
-    "tts_text": "perfect chaos",
-    "ssml_text": "<prosody rate='fast'>perfect chaos</prosody>"
-  },
-  {
-    "path": "currency/perfect exalted orb.mp3",
-    "tts_text": "perfect exalted",
-    "ssml_text": "<prosody rate='fast'>perfect exalted</prosody>"
-  },
-  {
-    "path": "currency/perfect jewellers orb.mp3",
-    "tts_text": "perfect jewellers",
-    "ssml_text": "<prosody rate='fast'>perfect jewellers</prosody>"
-  },
-  {
-    "path": "currency/perfect orb of augmentation.mp3",
-    "tts_text": "perfect augmentation",
-    "ssml_text": "<prosody rate='fast'>perfect augmentation</prosody>"
-  },
-  {
-    "path": "currency/perfect orb of transmutation.mp3",
-    "tts_text": "perfect transmuatation",
-    "ssml_text": "<prosody rate='fast'>perfect transmutation</prosody>"
-  },
-  {
-    "path": "currency/perfect regal orb.mp3",
-    "tts_text": "perfect regal",
-    "ssml_text": "<prosody rate='fast'>perfect regal</prosody>"
-  },
-  {
-    "path": "currency/regal orb.mp3",
-    "tts_text": "regal",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/regal shard.mp3",
-    "tts_text": "regal shard",
-    "ssml_text": "<prosody rate='fast'>regal shard</prosody>"
-  },
-  {
-    "path": "currency/scroll of wisdom.mp3",
-    "tts_text": "wisdom",
-    "ssml_text": ""
-  },
-  {
-    "path": "currency/vaal orb.mp3",
-    "tts_text": "vaal",
-    "ssml_text": ""
-  },
-  {
-    "path": "essences/greater essence of abrasion.mp3",
-    "tts_text": "greater abrasion essence",
-    "ssml_text": "<prosody rate='fast'>greater abrasion essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of alacrity.mp3",
-    "tts_text": "greater alacrity essence",
-    "ssml_text": "<prosody rate='fast'>greater alacrity essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of battle.mp3",
-    "tts_text": "greater battle essence",
-    "ssml_text": "<prosody rate='fast'>greater battle essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of command.mp3",
-    "tts_text": "greater command essence",
-    "ssml_text": "<prosody rate='fast'>greater command essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of electricity.mp3",
-    "tts_text": "greater electricity essence",
-    "ssml_text": "<prosody rate='fast'>greater electricity essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of enhancement.mp3",
-    "tts_text": "greater enhancement essence",
-    "ssml_text": "<prosody rate='fast'>greater enhancement essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of flames.mp3",
-    "tts_text": "greater flames essence",
-    "ssml_text": "<prosody rate='fast'>greater flames essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of grounding.mp3",
-    "tts_text": "greater grounding essence",
-    "ssml_text": "<prosody rate='fast'>greater grounding essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of haste.mp3",
-    "tts_text": "greater haste essence",
-    "ssml_text": "<prosody rate='fast'>greater haste essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of ice.mp3",
-    "tts_text": "greater ice essence",
-    "ssml_text": "<prosody rate='fast'>greater ice essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of insulation.mp3",
-    "tts_text": "greater insulation essence",
-    "ssml_text": "<prosody rate='fast'>greater insulation essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of opulence.mp3",
-    "tts_text": "greater opulence essence",
-    "ssml_text": "<prosody rate='fast'>greater opulence essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of ruin.mp3",
-    "tts_text": "greater ruin essence",
-    "ssml_text": "<prosody rate='fast'>greater ruin essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of seeking.mp3",
-    "tts_text": "greater seeking essence",
-    "ssml_text": "<prosody rate='fast'>greater seeking essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of sorcery.mp3",
-    "tts_text": "greater sorcery essence",
-    "ssml_text": "<prosody rate='fast'>greater sorcery essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of thawing.mp3",
-    "tts_text": "greater thawing essence",
-    "ssml_text": "<prosody rate='fast'>greater thawing essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of the body.mp3",
-    "tts_text": "greater body essence",
-    "ssml_text": "<prosody rate='fast'>greater body essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of the infinite.mp3",
-    "tts_text": "greater infinite essence",
-    "ssml_text": "<prosody rate='fast'>greater infinite essence</prosody>"
-  },
-  {
-    "path": "essences/greater essence of the mind.mp3",
-    "tts_text": "greater mind essence",
-    "ssml_text": "<prosody rate='fast'>greater mind essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of abrasion.mp3",
-    "tts_text": "lesser abrasion essence",
-    "ssml_text": "<prosody rate='fast'>lesser abrasion essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of alacrity.mp3",
-    "tts_text": "lesser alacrity essence",
-    "ssml_text": "<prosody rate='fast'>lesser alacrity essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of battle.mp3",
-    "tts_text": "lesser battle essence",
-    "ssml_text": "<prosody rate='fast'>lesser battle essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of command.mp3",
-    "tts_text": "lesser command essence",
-    "ssml_text": "<prosody rate='fast'>lesser command essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of electricity.mp3",
-    "tts_text": "lesser electricity essence",
-    "ssml_text": "<prosody rate='fast'>lesser electricity essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of enhancement.mp3",
-    "tts_text": "lesser enhancement essence",
-    "ssml_text": "<prosody rate='fast'>lesser enhancement essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of flames.mp3",
-    "tts_text": "lesser flames essence",
-    "ssml_text": "<prosody rate='fast'>lesser flames essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of grounding.mp3",
-    "tts_text": "lesser grounding essence",
-    "ssml_text": "<prosody rate='fast'>lesser grounding essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of haste.mp3",
-    "tts_text": "lesser haste essence",
-    "ssml_text": "<prosody rate='fast'>lesser haste essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of ice.mp3",
-    "tts_text": "lesser ice essence",
-    "ssml_text": "<prosody rate='fast'>lesser ice essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of insulation.mp3",
-    "tts_text": "lesser insulation essence",
-    "ssml_text": "<prosody rate='fast'>lesser insulation essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of opulence.mp3",
-    "tts_text": "lesser opulence essence",
-    "ssml_text": "<prosody rate='fast'>lesser opulence essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of ruin.mp3",
-    "tts_text": "lesser ruin essence",
-    "ssml_text": "<prosody rate='fast'>lesser ruin essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of seeking.mp3",
-    "tts_text": "lesser seeking essence",
-    "ssml_text": "<prosody rate='fast'>lesser seeking essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of sorcery.mp3",
-    "tts_text": "lesser sorcery essence",
-    "ssml_text": "<prosody rate='fast'>lesser sorcery essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of thawing.mp3",
-    "tts_text": "lesser thawing essence",
-    "ssml_text": "<prosody rate='fast'>lesser thawing essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of the body.mp3",
-    "tts_text": "lesser body essence",
-    "ssml_text": "<prosody rate='fast'>lesser body essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of the infinite.mp3",
-    "tts_text": "lesser infinite essence",
-    "ssml_text": "<prosody rate='fast'>lesser infinite essence</prosody>"
-  },
-  {
-    "path": "essences/lesser essence of the mind.mp3",
-    "tts_text": "lesser mind essence",
-    "ssml_text": "<prosody rate='fast'>lesser mind essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of abrasion.mp3",
-    "tts_text": "perfect abrasion essence",
-    "ssml_text": "<prosody rate='fast'>perfect abrasion essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of alacrity.mp3",
-    "tts_text": "perfect alacrity essence",
-    "ssml_text": "<prosody rate='fast'>perfect alacrity essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of battle.mp3",
-    "tts_text": "perfect battle essence",
-    "ssml_text": "<prosody rate='fast'>perfect battle essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of command.mp3",
-    "tts_text": "perfect command essence",
-    "ssml_text": "<prosody rate='fast'>perfect command essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of electricity.mp3",
-    "tts_text": "perfect electricity essence",
-    "ssml_text": "<prosody rate='fast'>perfect electricity essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of enhancement.mp3",
-    "tts_text": "perfect enhancement essence",
-    "ssml_text": "<prosody rate='fast'>perfect enhancement essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of flames.mp3",
-    "tts_text": "perfect flames essence",
-    "ssml_text": "<prosody rate='fast'>perfect flames essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of grounding.mp3",
-    "tts_text": "perfect grounding essence",
-    "ssml_text": "<prosody rate='fast'>perfect grounding essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of haste.mp3",
-    "tts_text": "perfect haste essence",
-    "ssml_text": "<prosody rate='fast'>perfect haste essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of ice.mp3",
-    "tts_text": "perfect ice essence",
-    "ssml_text": "<prosody rate='fast'>perfect ice essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of insulation.mp3",
-    "tts_text": "perfect insulation essence",
-    "ssml_text": "<prosody rate='fast'>perfect insulation essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of opulence.mp3",
-    "tts_text": "perfect opulence essence",
-    "ssml_text": "<prosody rate='fast'>perfect opulence essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of ruin.mp3",
-    "tts_text": "perfect ruin essence",
-    "ssml_text": "<prosody rate='fast'>perfect ruin essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of seeking.mp3",
-    "tts_text": "perfect seeking essence",
-    "ssml_text": "<prosody rate='fast'>perfect seeking essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of sorcery.mp3",
-    "tts_text": "perfect sorcery essence",
-    "ssml_text": "<prosody rate='fast'>perfect sorcery essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of thawing.mp3",
-    "tts_text": "perfect thawing essence",
-    "ssml_text": "<prosody rate='fast'>perfect thawing essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of the body.mp3",
-    "tts_text": "perfect body essence",
-    "ssml_text": "<prosody rate='fast'>perfect body essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of the infinite.mp3",
-    "tts_text": "perfect infinite essence",
-    "ssml_text": "<prosody rate='fast'>perfect infinite essence</prosody>"
-  },
-  {
-    "path": "essences/perfect essence of the mind.mp3",
-    "tts_text": "perfect mind essence",
-    "ssml_text": "<prosody rate='fast'>perfect mind essence</prosody>"
-  },
-  {
-    "path": "essences/essence of abrasion.mp3",
-    "tts_text": "abrasion essence",
-    "ssml_text": "<prosody rate='fast'>abrasion essence</prosody>"
-  },
-  {
-    "path": "essences/essence of alacrity.mp3",
-    "tts_text": "alacrity essence",
-    "ssml_text": "<prosody rate='fast'>alacrity essence</prosody>"
-  },
-  {
-    "path": "essences/essence of battle.mp3",
-    "tts_text": "battle essence",
-    "ssml_text": "<prosody rate='fast'>battle essence</prosody>"
-  },
-  {
-    "path": "essences/essence of command.mp3",
-    "tts_text": "command essence",
-    "ssml_text": "<prosody rate='fast'>command essence</prosody>"
-  },
-  {
-    "path": "essences/essence of electricity.mp3",
-    "tts_text": "electricity essence",
-    "ssml_text": "<prosody rate='fast'>electricity essence</prosody>"
-  },
-  {
-    "path": "essences/essence of enhancement.mp3",
-    "tts_text": "enhancement essence",
-    "ssml_text": "<prosody rate='fast'>enhancement essence</prosody>"
-  },
-  {
-    "path": "essences/essence of delirium.mp3",
-    "tts_text": "delirium essence",
-    "ssml_text": "<prosody rate='fast'>delirium essence</prosody>"
-  },
-  {
-    "path": "essences/essence of flames.mp3",
-    "tts_text": "flames essence",
-    "ssml_text": "<prosody rate='fast'>flames essence</prosody>"
-  },
-  {
-    "path": "essences/essence of grounding.mp3",
-    "tts_text": "grounding essence",
-    "ssml_text": "<prosody rate='fast'>grounding essence</prosody>"
-  },
-  {
-    "path": "essences/essence of haste.mp3",
-    "tts_text": "haste essence",
-    "ssml_text": "<prosody rate='fast'>haste essence</prosody>"
-  },
-  {
-    "path": "essences/essence of horror.mp3",
-    "tts_text": "horror essence",
-    "ssml_text": "<prosody rate='fast'>horror essence</prosody>"
-  },
-  {
-    "path": "essences/essence of hysteria.mp3",
-    "tts_text": "hysteria essence",
-    "ssml_text": "<prosody rate='fast'>hysteria essence</prosody>"
-  },
-  {
-    "path": "essences/essence of ice.mp3",
-    "tts_text": "ice essence",
-    "ssml_text": "<prosody rate='fast'>ice essence</prosody>"
-  },
-  {
-    "path": "essences/essence of insanity.mp3",
-    "tts_text": "insanity essence",
-    "ssml_text": "<prosody rate='fast'>insanity essence</prosody>"
-  },
-  {
-    "path": "essences/essence of insulation.mp3",
-    "tts_text": "insulation essence",
-    "ssml_text": "<prosody rate='fast'>insulation essence</prosody>"
-  },
-  {
-    "path": "essences/essence of opulence.mp3",
-    "tts_text": "opulence essence",
-    "ssml_text": "<prosody rate='fast'>opulence essence</prosody>"
-  },
-  {
-    "path": "essences/essence of ruin.mp3",
-    "tts_text": "ruin essence",
-    "ssml_text": "<prosody rate='fast'>ruin essence</prosody>"
-  },
-  {
-    "path": "essences/essence of seeking.mp3",
-    "tts_text": "seeking essence",
-    "ssml_text": "<prosody rate='fast'>seeking essence</prosody>"
-  },
-  {
-    "path": "essences/essence of sorcery.mp3",
-    "tts_text": "sorcery essence",
-    "ssml_text": "<prosody rate='fast'>sorcery essence</prosody>"
-  },
-  {
-    "path": "essences/essence of thawing.mp3",
-    "tts_text": "thawing essence",
-    "ssml_text": "<prosody rate='fast'>thawing essence</prosody>"
-  },
-  {
-    "path": "essences/essence of the abyss.mp3",
-    "tts_text": "abyss essence",
-    "ssml_text": "<prosody rate='fast'>abyss essence</prosody>"
-  },
-  {
-    "path": "essences/essence of the body.mp3",
-    "tts_text": "body essence",
-    "ssml_text": "<prosody rate='fast'>body essence</prosody>"
-  },
-  {
-    "path": "essences/essence of the infinite.mp3",
-    "tts_text": "infinite essence",
-    "ssml_text": "<prosody rate='fast'>infinite essence</prosody>"
-  },
-  {
-    "path": "essences/essence of the mind.mp3",
-    "tts_text": "mind essence",
-    "ssml_text": "<prosody rate='fast'>mind essence</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 1.mp3",
-    "tts_text": "skill level 1",
-    "ssml_text": "<prosody rate='fast'>skill level 1</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 2.mp3",
-    "tts_text": "skill level 2",
-    "ssml_text": "<prosody rate='fast'>skill level 2</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 3.mp3",
-    "tts_text": "skill level 3",
-    "ssml_text": "<prosody rate='fast'>skill level 3</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 4.mp3",
-    "tts_text": "skill level 4",
-    "ssml_text": "<prosody rate='fast'>skill level 4</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 5.mp3",
-    "tts_text": "skill level 5",
-    "ssml_text": "<prosody rate='fast'>skill level 5</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 6.mp3",
-    "tts_text": "skill level 6",
-    "ssml_text": "<prosody rate='fast'>skill level 6</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 7.mp3",
-    "tts_text": "skill level 7",
-    "ssml_text": "<prosody rate='fast'>skill level 7</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 8.mp3",
-    "tts_text": "skill level 8",
-    "ssml_text": "<prosody rate='fast'>skill level 8</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 9.mp3",
-    "tts_text": "skill level 9",
-    "ssml_text": "<prosody rate='fast'>skill level 9</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 10.mp3",
-    "tts_text": "skill level 10",
-    "ssml_text": "<prosody rate='fast'>skill level 10</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 11.mp3",
-    "tts_text": "skill level 11",
-    "ssml_text": "<prosody rate='fast'>skill level 11</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 12.mp3",
-    "tts_text": "skill level 12",
-    "ssml_text": "<prosody rate='fast'>skill level 12</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 13.mp3",
-    "tts_text": "skill level 13",
-    "ssml_text": "<prosody rate='fast'>skill level 13</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 14.mp3",
-    "tts_text": "skill level 14",
-    "ssml_text": "<prosody rate='fast'>skill level 14</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 15.mp3",
-    "tts_text": "skill level 15",
-    "ssml_text": "<prosody rate='fast'>skill level 15</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 16.mp3",
-    "tts_text": "skill level 16",
-    "ssml_text": "<prosody rate='fast'>skill level 16</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 17.mp3",
-    "tts_text": "skill level 17",
-    "ssml_text": "<prosody rate='fast'>skill level 17</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 18.mp3",
-    "tts_text": "skill level 18",
-    "ssml_text": "<prosody rate='fast'>skill level 18</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 19.mp3",
-    "tts_text": "skill level 19",
-    "ssml_text": "<prosody rate='fast'>skill level 19</prosody>"
-  },
-  {
-    "path": "gems/uncut skill gem level 20.mp3",
-    "tts_text": "skill level 20",
-    "ssml_text": "<prosody rate='fast'>skill level 20</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 1.mp3",
-    "tts_text": "spirit level 1",
-    "ssml_text": "<prosody rate='fast'>spirit level 1</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 2.mp3",
-    "tts_text": "spirit level 2",
-    "ssml_text": "<prosody rate='fast'>spirit level 2</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 3.mp3",
-    "tts_text": "spirit level 3",
-    "ssml_text": "<prosody rate='fast'>spirit level 3</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 4.mp3",
-    "tts_text": "spirit level 4",
-    "ssml_text": "<prosody rate='fast'>spirit level 4</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 5.mp3",
-    "tts_text": "spirit level 5",
-    "ssml_text": "<prosody rate='fast'>spirit level 5</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 6.mp3",
-    "tts_text": "spirit level 6",
-    "ssml_text": "<prosody rate='fast'>spirit level 6</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 7.mp3",
-    "tts_text": "spirit level 7",
-    "ssml_text": "<prosody rate='fast'>spirit level 7</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 8.mp3",
-    "tts_text": "spirit level 8",
-    "ssml_text": "<prosody rate='fast'>spirit level 8</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 9.mp3",
-    "tts_text": "spirit level 9",
-    "ssml_text": "<prosody rate='fast'>spirit level 9</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 10.mp3",
-    "tts_text": "spirit level 10",
-    "ssml_text": "<prosody rate='fast'>spirit level 10</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 11.mp3",
-    "tts_text": "spirit level 11",
-    "ssml_text": "<prosody rate='fast'>spirit level 11</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 12.mp3",
-    "tts_text": "spirit level 12",
-    "ssml_text": "<prosody rate='fast'>spirit level 12</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 13.mp3",
-    "tts_text": "spirit level 13",
-    "ssml_text": "<prosody rate='fast'>spirit level 13</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 14.mp3",
-    "tts_text": "spirit level 14",
-    "ssml_text": "<prosody rate='fast'>spirit level 14</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 15.mp3",
-    "tts_text": "spirit level 15",
-    "ssml_text": "<prosody rate='fast'>spirit level 15</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 16.mp3",
-    "tts_text": "spirit level 16",
-    "ssml_text": "<prosody rate='fast'>spirit level 16</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 17.mp3",
-    "tts_text": "spirit level 17",
-    "ssml_text": "<prosody rate='fast'>spirit level 17</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 18.mp3",
-    "tts_text": "spirit level 18",
-    "ssml_text": "<prosody rate='fast'>spirit level 18</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 19.mp3",
-    "tts_text": "spirit level 19",
-    "ssml_text": "<prosody rate='fast'>spirit level 19</prosody>"
-  },
-  {
-    "path": "gems/uncut spirit gem level 20.mp3",
-    "tts_text": "spirit level 20",
-    "ssml_text": "<prosody rate='fast'>spirit level 20</prosody>"
-  },
-  {
-    "path": "gems/uncut support gem level 1.mp3",
-    "tts_text": "support level 1",
-    "ssml_text": "<prosody rate='fast'>support level 1</prosody>"
-  },
-  {
-    "path": "gems/uncut support gem level 2.mp3",
-    "tts_text": "support level 2",
-    "ssml_text": "<prosody rate='fast'>support level 2</prosody>"
-  },
-  {
-    "path": "gems/uncut support gem level 3.mp3",
-    "tts_text": "support level 3",
-    "ssml_text": "<prosody rate='fast'>support level 3</prosody>"
-  },
-  {
-    "path": "gems/uncut support gem level 4.mp3",
-    "tts_text": "support level 4",
-    "ssml_text": "<prosody rate='fast'>support level 4</prosody>"
-  },
-  {
-    "path": "gems/uncut support gem level 5.mp3",
-    "tts_text": "support level 5",
-    "ssml_text": "<prosody rate='fast'>support level 5</prosody>"
-  },
-  {
-    "path": "ided/boots movespeed.mp3",
-    "tts_text": "movespeed boots",
-    "ssml_text": "<prosody rate='fast'>movespeed boots</prosody>"
-  },
-  {
-    "path": "ided/flask life instant.mp3",
-    "tts_text": "instant life flask",
-    "ssml_text": "<prosody rate='fast'>instant life flask</prosody>"
-  },
-  {
-    "path": "ided/flask mana instant.mp3",
-    "tts_text": "instant mana flask",
-    "ssml_text": "<prosody rate='fast'>instant mana flask</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater adept rune.mp3",
-    "tts_text": "greater adept rune",
-    "ssml_text": "<prosody rate='fast'>greater adept rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater body rune.mp3",
-    "tts_text": "greater body rune",
-    "ssml_text": "<prosody rate='fast'>greater body rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater desert rune.mp3",
-    "tts_text": "greater desert rune",
-    "ssml_text": "<prosody rate='fast'>greater desert rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater glacial rune.mp3",
-    "tts_text": "greater glacial rune",
-    "ssml_text": "<prosody rate='fast'>greater glacial rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater inspiration rune.mp3",
-    "tts_text": "greater inspiration rune",
-    "ssml_text": "<prosody rate='fast'>greater inspiration rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater iron rune.mp3",
-    "tts_text": "greater iron rune",
-    "ssml_text": "<prosody rate='fast'>greater iron rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater mind rune.mp3",
-    "tts_text": "greater mind rune",
-    "ssml_text": "<prosody rate='fast'>greater mind rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater rebirth rune.mp3",
-    "tts_text": "greater rebirth rune",
-    "ssml_text": "<prosody rate='fast'>greater rebirth rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater resolve rune.mp3",
-    "tts_text": "greater resolve rune",
-    "ssml_text": "<prosody rate='fast'>greater resolve rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater robust rune.mp3",
-    "tts_text": "greater robust rune",
-    "ssml_text": "<prosody rate='fast'>greater robust rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater stone rune.mp3",
-    "tts_text": "greater stone rune",
-    "ssml_text": "<prosody rate='fast'>greater stone rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater storm rune.mp3",
-    "tts_text": "greater storm rune",
-    "ssml_text": "<prosody rate='fast'>greater storm rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater vision rune.mp3",
-    "tts_text": "greater vision rune",
-    "ssml_text": "<prosody rate='fast'>greater vision rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater rune of alacrity.mp3",
-    "tts_text": "greater alacrity rune",
-    "ssml_text": "<prosody rate='fast'>greater alacrity rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater rune of leadership.mp3",
-    "tts_text": "greater leadership rune",
-    "ssml_text": "<prosody rate='fast'>greater leadership rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater rune of nobility.mp3",
-    "tts_text": "greater nobility rune",
-    "ssml_text": "<prosody rate='fast'>greater nobility rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/greater rune of tithing.mp3",
-    "tts_text": "greater tithing rune",
-    "ssml_text": "<prosody rate='fast'>greater tithing rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser adept rune.mp3",
-    "tts_text": "lesser adept rune",
-    "ssml_text": "<prosody rate='fast'>lesser adept rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser body rune.mp3",
-    "tts_text": "lesser body rune",
-    "ssml_text": "<prosody rate='fast'>lesser body rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser desert rune.mp3",
-    "tts_text": "lesser desert rune",
-    "ssml_text": "<prosody rate='fast'>lesser desert rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser glacial rune.mp3",
-    "tts_text": "lesser glacial rune",
-    "ssml_text": "<prosody rate='fast'>lesser glacial rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser inspiration rune.mp3",
-    "tts_text": "lesser inspiration rune",
-    "ssml_text": "<prosody rate='fast'>lesser inspiration rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser iron rune.mp3",
-    "tts_text": "lesser iron rune",
-    "ssml_text": "<prosody rate='fast'>lesser iron rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser mind rune.mp3",
-    "tts_text": "lesser mind rune",
-    "ssml_text": "<prosody rate='fast'>lesser mind rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser rebirth rune.mp3",
-    "tts_text": "lesser rebirth rune",
-    "ssml_text": "<prosody rate='fast'>lesser rebirth rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser resolve rune.mp3",
-    "tts_text": "lesser resolve rune",
-    "ssml_text": "<prosody rate='fast'>lesser resolve rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser robust rune.mp3",
-    "tts_text": "lesser robust rune",
-    "ssml_text": "<prosody rate='fast'>lesser robust rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser stone rune.mp3",
-    "tts_text": "lesser stone rune",
-    "ssml_text": "<prosody rate='fast'>lesser stone rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser storm rune.mp3",
-    "tts_text": "lesser storm rune",
-    "ssml_text": "<prosody rate='fast'>lesser storm rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/lesser vision rune.mp3",
-    "tts_text": "lesser vision rune",
-    "ssml_text": "<prosody rate='fast'>lesser vision rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/adept rune.mp3",
-    "tts_text": "adept rune",
-    "ssml_text": "<prosody rate='fast'>adept rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/body rune.mp3",
-    "tts_text": "body rune",
-    "ssml_text": "<prosody rate='fast'>body rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/desert rune.mp3",
-    "tts_text": "desert rune",
-    "ssml_text": "<prosody rate='fast'>desert rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/glacial rune.mp3",
-    "tts_text": "glacial rune",
-    "ssml_text": "<prosody rate='fast'>glacial rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/inspiration rune.mp3",
-    "tts_text": "inspiration rune",
-    "ssml_text": "<prosody rate='fast'>inspiration rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/iron rune.mp3",
-    "tts_text": "iron rune",
-    "ssml_text": "<prosody rate='fast'>iron rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/mind rune.mp3",
-    "tts_text": "mind rune",
-    "ssml_text": "<prosody rate='fast'>mind rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/rebirth rune.mp3",
-    "tts_text": "rebirth rune",
-    "ssml_text": "<prosody rate='fast'>rebirth rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/resolve rune.mp3",
-    "tts_text": "resolve rune",
-    "ssml_text": "<prosody rate='fast'>resolve rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/robust rune.mp3",
-    "tts_text": "robust rune",
-    "ssml_text": "<prosody rate='fast'>robust rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/stone rune.mp3",
-    "tts_text": "stone rune",
-    "ssml_text": "<prosody rate='fast'>stone rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/storm rune.mp3",
-    "tts_text": "storm rune",
-    "ssml_text": "<prosody rate='fast'>storm rune</prosody>"
-  },
-  {
-    "path": "socketable/runes/vision rune.mp3",
-    "tts_text": "vision rune",
-    "ssml_text": "<prosody rate='fast'>vision rune</prosody>"
-  },
-  {
-    "path": "socketable/talismans/bear talisman.mp3",
-    "tts_text": "bear talisman",
-    "ssml_text": "<prosody rate='fast'>bear talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/boar talisman.mp3",
-    "tts_text": "boar talisman",
-    "ssml_text": "<prosody rate='fast'>boar talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/cat talisman.mp3",
-    "tts_text": "cat talisman",
-    "ssml_text": "<prosody rate='fast'>cat talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/fox talisman.mp3",
-    "tts_text": "fox talisman",
-    "ssml_text": "<prosody rate='fast'>fox talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/owl talisman.mp3",
-    "tts_text": "owl talisman",
-    "ssml_text": "<prosody rate='fast'>owl talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/ox talisman.mp3",
-    "tts_text": "ox talisman",
-    "ssml_text": "<prosody rate='fast'>ox talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/primate talisman.mp3",
-    "tts_text": "primate talisman",
-    "ssml_text": "<prosody rate='fast'>primate talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/rabbit talisman.mp3",
-    "tts_text": "rabbit talisman",
-    "ssml_text": "<prosody rate='fast'>rabbit talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/serpent talisman.mp3",
-    "tts_text": "serpent talisman",
-    "ssml_text": "<prosody rate='fast'>serpent talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/stag talisman.mp3",
-    "tts_text": "stag talisman",
-    "ssml_text": "<prosody rate='fast'>stag talisman</prosody>"
-  },
-  {
-    "path": "socketable/talismans/wolf talisman.mp3",
-    "tts_text": "wolf talisman",
-    "ssml_text": "<prosody rate='fast'>wolf talisman</prosody>"
-  },
-  {
-    "path": "unique.mp3",
-    "tts_text": "unique",
-    "ssml_text": ""
-  }
+    {
+        "path": "basetypes/1h maces/bandit mace.mp3",
+        "tts_text": "bandit mace",
+        "ssml_text": "<prosody rate='fast'>bandit mace</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/brigand mace.mp3",
+        "tts_text": "brigand mace",
+        "ssml_text": "<prosody rate='fast'>brigand mace</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/construct hammer.mp3",
+        "tts_text": "construct hammer",
+        "ssml_text": "<prosody rate='fast'>construct hammer</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/jade club.mp3",
+        "tts_text": "jade club",
+        "ssml_text": "<prosody rate='fast'>jade club</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/marching mace.mp3",
+        "tts_text": "marching mace",
+        "ssml_text": "<prosody rate='fast'>marching mace</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/morning star.mp3",
+        "tts_text": "morning star",
+        "ssml_text": "<prosody rate='fast'>morning star</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/plated mace.mp3",
+        "tts_text": "plated mace",
+        "ssml_text": "<prosody rate='fast'>plated mace</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/slim mace.mp3",
+        "tts_text": "slim mace",
+        "ssml_text": "<prosody rate='fast'>slim mace</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/smithing hammer.mp3",
+        "tts_text": "smithing hammer",
+        "ssml_text": "<prosody rate='fast'>smithing hammer</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/spiked club.mp3",
+        "tts_text": "spiked club",
+        "ssml_text": "<prosody rate='fast'>spiked club</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/structured hammer.mp3",
+        "tts_text": "structured hammer",
+        "ssml_text": "<prosody rate='fast'>structured hammer</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/warpick.mp3",
+        "tts_text": "warpick",
+        "ssml_text": "<prosody rate='fast'>warpick</prosody>"
+    },
+    {
+        "path": "basetypes/1h maces/wooden club.mp3",
+        "tts_text": "wooden club",
+        "ssml_text": "<prosody rate='fast'>wooden club</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/crumbling maul.mp3",
+        "tts_text": "crumbling maul",
+        "ssml_text": "<prosody rate='fast'>crumbling maul</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/cultist greathammer.mp3",
+        "tts_text": "cultist great hammer",
+        "ssml_text": "<prosody rate='fast'>cultist greathammer</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/disintegrating maul.mp3",
+        "tts_text": "disintegrating maul",
+        "ssml_text": "<prosody rate='fast'>disintegrating maul</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/felled greatclub.mp3",
+        "tts_text": "felled greatclub",
+        "ssml_text": "<prosody rate='fast'>felled greatclub</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/forge maul.mp3",
+        "tts_text": "forge maul",
+        "ssml_text": "<prosody rate='fast'>forge maul</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/heavy greathammer.mp3",
+        "tts_text": "heavy great hammer",
+        "ssml_text": "<prosody rate='fast'>heavy greathammer</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/leaden greathammer.mp3",
+        "tts_text": "leaden great hammer",
+        "ssml_text": "<prosody rate='fast'>leaden greathammer</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/oak greathammer.mp3",
+        "tts_text": "oak great hammer",
+        "ssml_text": "<prosody rate='fast'>oak greathammer</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/pointed maul.mp3",
+        "tts_text": "pointed maul",
+        "ssml_text": "<prosody rate='fast'>pointed maul</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/solemn maul.mp3",
+        "tts_text": "solemn maul",
+        "ssml_text": "<prosody rate='fast'>solemn maul</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/studded greatclub.mp3",
+        "tts_text": "studded greatclub",
+        "ssml_text": "<prosody rate='fast'>studded greatclub</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/temple maul.mp3",
+        "tts_text": "temple maul",
+        "ssml_text": "<prosody rate='fast'>temple maul</prosody>"
+    },
+    {
+        "path": "basetypes/2h maces/totemic greatclub.mp3",
+        "tts_text": "totemic greatclub",
+        "ssml_text": "<prosody rate='fast'>totemic greatclub</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/amber amulet.mp3",
+        "tts_text": "amber amulet",
+        "ssml_text": "<prosody rate='fast'>amber amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/azure amulet.mp3",
+        "tts_text": "azure amulet",
+        "ssml_text": "<prosody rate='fast'>azure amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/bloodstone amulet.mp3",
+        "tts_text": "bloodstone amulet",
+        "ssml_text": "<prosody rate='fast'>bloodstone amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/crimson amulet.mp3",
+        "tts_text": "crimson amulet",
+        "ssml_text": "<prosody rate='fast'>crimson amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/gold amulet.mp3",
+        "tts_text": "gold amulet",
+        "ssml_text": "<prosody rate='fast'>gold amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/jade amulet.mp3",
+        "tts_text": "jade amulet",
+        "ssml_text": "<prosody rate='fast'>jade amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/lapis amulet.mp3",
+        "tts_text": "lapis amulet",
+        "ssml_text": "<prosody rate='fast'>lapis amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/lunar amulet.mp3",
+        "tts_text": "lunar amulet",
+        "ssml_text": "<prosody rate='fast'>lunar amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/solar amulet.mp3",
+        "tts_text": "solar amulet",
+        "ssml_text": "<prosody rate='fast'>solar amulet</prosody>"
+    },
+    {
+        "path": "basetypes/amulets/stellar amulet.mp3",
+        "tts_text": "stellar amulet",
+        "ssml_text": "<prosody rate='fast'>stellar amulet</prosody>"
+    },
+    {
+        "path": "basetypes/belts/double belt.mp3",
+        "tts_text": "double belt",
+        "ssml_text": "<prosody rate='fast'>double belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/fine belt.mp3",
+        "tts_text": "fine belt",
+        "ssml_text": "<prosody rate='fast'>fine belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/heavy belt.mp3",
+        "tts_text": "heavy belt",
+        "ssml_text": "<prosody rate='fast'>heavy belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/linen belt.mp3",
+        "tts_text": "linen belt",
+        "ssml_text": "<prosody rate='fast'>linen belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/long belt.mp3",
+        "tts_text": "long belt",
+        "ssml_text": "<prosody rate='fast'>long belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/mail belt.mp3",
+        "tts_text": "mail belt",
+        "ssml_text": "<prosody rate='fast'>mail belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/ornate belt.mp3",
+        "tts_text": "ornate belt",
+        "ssml_text": "<prosody rate='fast'>ornate belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/plate belt.mp3",
+        "tts_text": "plate belt",
+        "ssml_text": "<prosody rate='fast'>plate belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/rawhide belt.mp3",
+        "tts_text": "rawhide belt",
+        "ssml_text": "<prosody rate='fast'>rawhide belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/utility belt.mp3",
+        "tts_text": "utility belt",
+        "ssml_text": "<prosody rate='fast'>utility belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/wide belt.mp3",
+        "tts_text": "wide belt",
+        "ssml_text": "<prosody rate='fast'>wide belt</prosody>"
+    },
+    {
+        "path": "basetypes/bows/adherent bow.mp3",
+        "tts_text": "adherent boe",
+        "ssml_text": "<prosody rate='fast'>adherent bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/artillery bow.mp3",
+        "tts_text": "artillery boe",
+        "ssml_text": "<prosody rate='fast'>artillery bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/composite bow.mp3",
+        "tts_text": "composite boe",
+        "ssml_text": "<prosody rate='fast'>composite bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/crude bow.mp3",
+        "tts_text": "crude boe",
+        "ssml_text": "<prosody rate='fast'>crude bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/cultist bow.mp3",
+        "tts_text": "cultist boe",
+        "ssml_text": "<prosody rate='fast'>cultist bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/dualstring bow.mp3",
+        "tts_text": "dualstring boe",
+        "ssml_text": "<prosody rate='fast'>dualstring bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/militant bow.mp3",
+        "tts_text": "militant boe",
+        "ssml_text": "<prosody rate='fast'>militant bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/recurve bow.mp3",
+        "tts_text": "recurve boe",
+        "ssml_text": "<prosody rate='fast'>recurve bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/shortbow.mp3",
+        "tts_text": "short boe",
+        "ssml_text": "<prosody rate='fast'>shortbow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/tribal bow.mp3",
+        "tts_text": "tribal boe",
+        "ssml_text": "<prosody rate='fast'>tribal bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/twin bow.mp3",
+        "tts_text": "twin boe",
+        "ssml_text": "<prosody rate='fast'>twin bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/warden bow.mp3",
+        "tts_text": "warden boe",
+        "ssml_text": "<prosody rate='fast'>warden bow</prosody>"
+    },
+    {
+        "path": "basetypes/bows/zealot bow.mp3",
+        "tts_text": "zealot boe",
+        "ssml_text": "<prosody rate='fast'>zealot bow</prosody>"
+    },
+    {
+        "path": "basetypes/bronze key.mp3",
+        "tts_text": "bronze key",
+        "ssml_text": "<prosody rate='fast'>bronze key</prosody>"
+    },
+    {
+        "path": "basetypes/charms/amethyst charm.mp3",
+        "tts_text": "amethyst charm",
+        "ssml_text": "<prosody rate='fast'>amethyst charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/antidote charm.mp3",
+        "tts_text": "antidote charm",
+        "ssml_text": "<prosody rate='fast'>antidote charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/dousing charm.mp3",
+        "tts_text": "dousing charm",
+        "ssml_text": "<prosody rate='fast'>dousing charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/golden charm.mp3",
+        "tts_text": "golden charm",
+        "ssml_text": "<prosody rate='fast'>golden charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/grounding charm.mp3",
+        "tts_text": "grounding charm",
+        "ssml_text": "<prosody rate='fast'>grounding charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/ruby charm.mp3",
+        "tts_text": "ruby charm",
+        "ssml_text": "<prosody rate='fast'>ruby charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/sapphire charm.mp3",
+        "tts_text": "sapphire charm",
+        "ssml_text": "<prosody rate='fast'>sapphire charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/stone charm.mp3",
+        "tts_text": "stone charm",
+        "ssml_text": "<prosody rate='fast'>stone charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/thawing charm.mp3",
+        "tts_text": "thawing charm",
+        "ssml_text": "<prosody rate='fast'>thawing charm</prosody>"
+    },
+    {
+        "path": "basetypes/charms/topaz charm.mp3",
+        "tts_text": "topaz charm",
+        "ssml_text": "<prosody rate='fast'>topaz charm</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/alloy crossbow.mp3",
+        "tts_text": "alloy crossbow",
+        "ssml_text": "<prosody rate='fast'>alloy crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/blackfire crossbow.mp3",
+        "tts_text": "blackfire crossbow",
+        "ssml_text": "<prosody rate='fast'>blackfire crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/bleak crossbow.mp3",
+        "tts_text": "bleak crossbow",
+        "ssml_text": "<prosody rate='fast'>bleak crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/bombard crossbow.mp3",
+        "tts_text": "bombard crossbow",
+        "ssml_text": "<prosody rate='fast'>bombard crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/cannonade crossbow.mp3",
+        "tts_text": "cannonade crossbow",
+        "ssml_text": "<prosody rate='fast'>cannonade crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/construct crossbow.mp3",
+        "tts_text": "construct crossbow",
+        "ssml_text": "<prosody rate='fast'>construct crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/dyad crossbow.mp3",
+        "tts_text": "dyad crossbow",
+        "ssml_text": "<prosody rate='fast'>dyad crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/makeshift crossbow.mp3",
+        "tts_text": "makeshift crossbow",
+        "ssml_text": "<prosody rate='fast'>makeshift crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/piercing crossbow.mp3",
+        "tts_text": "piercing crossbow",
+        "ssml_text": "<prosody rate='fast'>piercing crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/robust crossbow.mp3",
+        "tts_text": "robust crossbow",
+        "ssml_text": "<prosody rate='fast'>robust crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/sturdy crossbow.mp3",
+        "tts_text": "sturdy crossbow",
+        "ssml_text": "<prosody rate='fast'>sturdy crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/tense crossbow.mp3",
+        "tts_text": "tense crossbow",
+        "ssml_text": "<prosody rate='fast'>tense crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/twin crossbow.mp3",
+        "tts_text": "twin crossbow",
+        "ssml_text": "<prosody rate='fast'>twin crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/crossbows/varnished crossbow.mp3",
+        "tts_text": "varnished crossbow",
+        "ssml_text": "<prosody rate='fast'>varnished crossbow</prosody>"
+    },
+    {
+        "path": "basetypes/djinn barya 1 floor.mp3",
+        "tts_text": "djinn barya 1 floor",
+        "ssml_text": "<prosody rate='fast'>djinn barya 1 floor</prosody>"
+    },
+    {
+        "path": "basetypes/djinn barya 2 floors.mp3",
+        "tts_text": "djinn barya 2 floors",
+        "ssml_text": "<prosody rate='fast'>djinn barya 2 floors</prosody>"
+    },
+    {
+        "path": "basetypes/djinn barya 3 floors.mp3",
+        "tts_text": "djinn barya 3 floors",
+        "ssml_text": "<prosody rate='fast'>djinn barya 3 floors</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/colossal life flask.mp3",
+        "tts_text": "colossal life flask",
+        "ssml_text": "<prosody rate='fast'>colossal life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/colossal mana flask.mp3",
+        "tts_text": "colossal mana flask",
+        "ssml_text": "<prosody rate='fast'>colossal mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/gargantuan life flask.mp3",
+        "tts_text": "gargantuan life flask",
+        "ssml_text": "<prosody rate='fast'>gargantuan life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/gargantuan mana flask.mp3",
+        "tts_text": "gargantuan mana flask",
+        "ssml_text": "<prosody rate='fast'>gargantuan mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/giant life flask.mp3",
+        "tts_text": "giant life flask",
+        "ssml_text": "<prosody rate='fast'>giant life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/giant mana flask.mp3",
+        "tts_text": "giant mana flask",
+        "ssml_text": "<prosody rate='fast'>giant mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/grand life flask.mp3",
+        "tts_text": "grand life flask",
+        "ssml_text": "<prosody rate='fast'>grand life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/grand mana flask.mp3",
+        "tts_text": "grand mana flask",
+        "ssml_text": "<prosody rate='fast'>grand mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/greater life flask.mp3",
+        "tts_text": "greater life flask",
+        "ssml_text": "<prosody rate='fast'>greater life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/greater mana flask.mp3",
+        "tts_text": "greater mana flask",
+        "ssml_text": "<prosody rate='fast'>greater mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/medium life flask.mp3",
+        "tts_text": "medium life flask",
+        "ssml_text": "<prosody rate='fast'>medium life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/medium mana flask.mp3",
+        "tts_text": "medium mana flask",
+        "ssml_text": "<prosody rate='fast'>medium mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/transcendent life flask.mp3",
+        "tts_text": "transcendent life flask",
+        "ssml_text": "<prosody rate='fast'>transcendent life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/transcendent mana flask.mp3",
+        "tts_text": "transcendent mana flask",
+        "ssml_text": "<prosody rate='fast'>transcendent mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/ultimate life flask.mp3",
+        "tts_text": "ultimate life flask",
+        "ssml_text": "<prosody rate='fast'>ultimate life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/ultimate mana flask.mp3",
+        "tts_text": "ultimate mana flask",
+        "ssml_text": "<prosody rate='fast'>ultimate mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/gold key.mp3",
+        "tts_text": "gold key",
+        "ssml_text": "<prosody rate='fast'>gold key</prosody>"
+    },
+    {
+        "path": "basetypes/inscribed ultimatum 4 trials.mp3",
+        "tts_text": "inscribed ultimatum 4 trials",
+        "ssml_text": "<prosody rate='fast'>inscribed ultimatum 4 trials</prosody>"
+    },
+    {
+        "path": "basetypes/inscribed ultimatum 7 trials.mp3",
+        "tts_text": "inscribed ultimatum 7 trials",
+        "ssml_text": "<prosody rate='fast'>inscribed ultimatum 7 trials</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/barrier quarterstaff.mp3",
+        "tts_text": "barrier quarterstaff",
+        "ssml_text": "<prosody rate='fast'>barrier quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/bladed quarterstaff.mp3",
+        "tts_text": "bladed quarterstaff",
+        "ssml_text": "<prosody rate='fast'>bladed quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/crackling quarterstaff.mp3",
+        "tts_text": "crackling quarterstaff",
+        "ssml_text": "<prosody rate='fast'>crackling quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/crescent quarterstaff.mp3",
+        "tts_text": "crescent quarterstaff",
+        "ssml_text": "<prosody rate='fast'>crescent quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/gothic quarterstaff.mp3",
+        "tts_text": "gothic quarterstaff",
+        "ssml_text": "<prosody rate='fast'>gothic quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/guardian quarterstaff.mp3",
+        "tts_text": "guardian quarterstaff",
+        "ssml_text": "<prosody rate='fast'>guardian quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/hefty quarterstaff.mp3",
+        "tts_text": "hefty quarterstaff",
+        "ssml_text": "<prosody rate='fast'>hefty quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/long quarterstaff.mp3",
+        "tts_text": "long quarterstaff",
+        "ssml_text": "<prosody rate='fast'>long quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/slicing quarterstaff.mp3",
+        "tts_text": "slicing quarterstaff",
+        "ssml_text": "<prosody rate='fast'>slicing quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/smooth quarterstaff.mp3",
+        "tts_text": "smooth quarterstaff",
+        "ssml_text": "<prosody rate='fast'>smooth quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/steelpoint quarterstaff.mp3",
+        "tts_text": "steelpoint quarterstaff",
+        "ssml_text": "<prosody rate='fast'>steelpoint quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/waxing quarterstaff.mp3",
+        "tts_text": "waxing quarterstaff",
+        "ssml_text": "<prosody rate='fast'>waxing quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quarterstaves/wrapped quarterstaff.mp3",
+        "tts_text": "wrapped quarterstaff",
+        "ssml_text": "<prosody rate='fast'>wrapped quarterstaff</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/blunt quiver.mp3",
+        "tts_text": "blunt quiver",
+        "ssml_text": "<prosody rate='fast'>blunt quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/broadhead quiver.mp3",
+        "tts_text": "broadhead quiver",
+        "ssml_text": "<prosody rate='fast'>broadhead quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/fire quiver.mp3",
+        "tts_text": "fire quiver",
+        "ssml_text": "<prosody rate='fast'>fire quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/penetrating quiver.mp3",
+        "tts_text": "penetrating quiver",
+        "ssml_text": "<prosody rate='fast'>penetrating quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/primed quiver.mp3",
+        "tts_text": "primed quiver",
+        "ssml_text": "<prosody rate='fast'>primed quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/sacral quiver.mp3",
+        "tts_text": "sacral quiver",
+        "ssml_text": "<prosody rate='fast'>sacral quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/serrated quiver.mp3",
+        "tts_text": "serrated quiver",
+        "ssml_text": "<prosody rate='fast'>serrated quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/toxic quiver.mp3",
+        "tts_text": "toxic quiver",
+        "ssml_text": "<prosody rate='fast'>toxic quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/two-point quiver.mp3",
+        "tts_text": "two-point quiver",
+        "ssml_text": "<prosody rate='fast'>two-point quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/visceral quiver.mp3",
+        "tts_text": "visceral quiver",
+        "ssml_text": "<prosody rate='fast'>visceral quiver</prosody>"
+    },
+    {
+        "path": "basetypes/quivers/volant quiver.mp3",
+        "tts_text": "volant quiver",
+        "ssml_text": "<prosody rate='fast'>volant quiver</prosody>"
+    },
+    {
+        "path": "basetypes/rings/amethyst ring.mp3",
+        "tts_text": "amethyst ring",
+        "ssml_text": "<prosody rate='fast'>amethyst ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/breach ring.mp3",
+        "tts_text": "breach ring",
+        "ssml_text": "<prosody rate='fast'>breach ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/emerald ring.mp3",
+        "tts_text": "emerald ring",
+        "ssml_text": "<prosody rate='fast'>emerald ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/gold ring.mp3",
+        "tts_text": "gold ring",
+        "ssml_text": "<prosody rate='fast'>gold ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/iron ring.mp3",
+        "tts_text": "iron ring",
+        "ssml_text": "<prosody rate='fast'>iron ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/lazuli ring.mp3",
+        "tts_text": "lazuli ring",
+        "ssml_text": "<prosody rate='fast'>lazuli ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/pearl ring.mp3",
+        "tts_text": "pearl ring",
+        "ssml_text": "<prosody rate='fast'>pearl ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/prismatic ring.mp3",
+        "tts_text": "prismatic ring",
+        "ssml_text": "<prosody rate='fast'>prismatic ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/ruby ring.mp3",
+        "tts_text": "ruby ring",
+        "ssml_text": "<prosody rate='fast'>ruby ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/sapphire ring.mp3",
+        "tts_text": "sapphire ring",
+        "ssml_text": "<prosody rate='fast'>sapphire ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/topaz ring.mp3",
+        "tts_text": "topaz ring",
+        "ssml_text": "<prosody rate='fast'>topaz ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/unset ring.mp3",
+        "tts_text": "unset ring",
+        "ssml_text": "<prosody rate='fast'>unset ring</prosody>"
+    },
+    {
+        "path": "basetypes/sceptres/omen sceptre.mp3",
+        "tts_text": "omen sceptre",
+        "ssml_text": "<prosody rate='fast'>omen sceptre</prosody>"
+    },
+    {
+        "path": "basetypes/sceptres/rattling sceptre.mp3",
+        "tts_text": "rattling sceptre",
+        "ssml_text": "<prosody rate='fast'>rattling sceptre</prosody>"
+    },
+    {
+        "path": "basetypes/sceptres/shrine sceptre.mp3",
+        "tts_text": "shrine sceptre",
+        "ssml_text": "<prosody rate='fast'>shrine sceptre</prosody>"
+    },
+    {
+        "path": "basetypes/sceptres/stoic sceptre.mp3",
+        "tts_text": "stoic sceptre",
+        "ssml_text": "<prosody rate='fast'>stoic sceptre</prosody>"
+    },
+    {
+        "path": "basetypes/sceptres/wrath sceptre.mp3",
+        "tts_text": "wrath sceptre",
+        "ssml_text": "<prosody rate='fast'>wrath sceptre</prosody>"
+    },
+    {
+        "path": "basetypes/shields/ancestor tower shield.mp3",
+        "tts_text": "ancestor tower shield",
+        "ssml_text": "<prosody rate='fast'>ancestor tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/barricade tower shield.mp3",
+        "tts_text": "barricade tower shield",
+        "ssml_text": "<prosody rate='fast'>barricade tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/braced tower shield.mp3",
+        "tts_text": "braced tower shield",
+        "ssml_text": "<prosody rate='fast'>braced tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/bulwark tower shield.mp3",
+        "tts_text": "bulwark tower shield",
+        "ssml_text": "<prosody rate='fast'>bulwark tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/crucible tower shield.mp3",
+        "tts_text": "crucible tower shield",
+        "ssml_text": "<prosody rate='fast'>crucible tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/effigial tower shield.mp3",
+        "tts_text": "effigial tower shield",
+        "ssml_text": "<prosody rate='fast'>effigial tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/goldworked tower shield.mp3",
+        "tts_text": "goldworked tower shield",
+        "ssml_text": "<prosody rate='fast'>goldworked tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/heraldric tower shield.mp3",
+        "tts_text": "heraldric tower shield",
+        "ssml_text": "<prosody rate='fast'>heraldric tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/noble tower shield.mp3",
+        "tts_text": "noble tower shield",
+        "ssml_text": "<prosody rate='fast'>noble tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/painted tower shield.mp3",
+        "tts_text": "painted tower shield",
+        "ssml_text": "<prosody rate='fast'>painted tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/rampart tower shield.mp3",
+        "tts_text": "rampart tower shield",
+        "ssml_text": "<prosody rate='fast'>rampart tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/royal tower shield.mp3",
+        "tts_text": "royal tower shield",
+        "ssml_text": "<prosody rate='fast'>royal tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/splintered tower shield.mp3",
+        "tts_text": "splintered tower shield",
+        "ssml_text": "<prosody rate='fast'>splintered tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/shields/stone tower shield.mp3",
+        "tts_text": "stone tower shield",
+        "ssml_text": "<prosody rate='fast'>stone tower shield</prosody>"
+    },
+    {
+        "path": "basetypes/silver key.mp3",
+        "tts_text": "silver key",
+        "ssml_text": "<prosody rate='fast'>silver key</prosody>"
+    },
+    {
+        "path": "basetypes/spears/barbed spear.mp3",
+        "tts_text": "barbed spear",
+        "ssml_text": "<prosody rate='fast'>barbed spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/branched spear.mp3",
+        "tts_text": "branched spear",
+        "ssml_text": "<prosody rate='fast'>branched spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/broad spear.mp3",
+        "tts_text": "broad spear",
+        "ssml_text": "<prosody rate='fast'>broad spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/crossblade spear.mp3",
+        "tts_text": "crossblade spear",
+        "ssml_text": "<prosody rate='fast'>crossblade spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/forked spear.mp3",
+        "tts_text": "forked spear",
+        "ssml_text": "<prosody rate='fast'>forked spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/hardwood spear.mp3",
+        "tts_text": "hardwood spear",
+        "ssml_text": "<prosody rate='fast'>hardwood spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/helix spear.mp3",
+        "tts_text": "helix spear",
+        "ssml_text": "<prosody rate='fast'>helix spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/hunting spear.mp3",
+        "tts_text": "hunting spear",
+        "ssml_text": "<prosody rate='fast'>hunting spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/ironhead spear.mp3",
+        "tts_text": "ironhead spear",
+        "ssml_text": "<prosody rate='fast'>ironhead spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/jagged spear.mp3",
+        "tts_text": "jagged spear",
+        "ssml_text": "<prosody rate='fast'>jagged spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/massive spear.mp3",
+        "tts_text": "massive spear",
+        "ssml_text": "<prosody rate='fast'>massive spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/seaglass spear.mp3",
+        "tts_text": "seaglass spear",
+        "ssml_text": "<prosody rate='fast'>seaglass spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/war spear.mp3",
+        "tts_text": "war spear",
+        "ssml_text": "<prosody rate='fast'>war spear</prosody>"
+    },
+    {
+        "path": "basetypes/spears/winged spear.mp3",
+        "tts_text": "winged spear",
+        "ssml_text": "<prosody rate='fast'>winged spear</prosody>"
+    },
+    {
+        "path": "basetypes/staves/ashen staff.mp3",
+        "tts_text": "ashen staff",
+        "ssml_text": "<prosody rate='fast'>ashen staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/chiming staff.mp3",
+        "tts_text": "chiming staff",
+        "ssml_text": "<prosody rate='fast'>chiming staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/gelid staff.mp3",
+        "tts_text": "gelid staff",
+        "ssml_text": "<prosody rate='fast'>gelid staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/paralysing staff.mp3",
+        "tts_text": "paralysing staff",
+        "ssml_text": "<prosody rate='fast'>paralysing staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/pyrophyte staff.mp3",
+        "tts_text": "pyrophyte staff",
+        "ssml_text": "<prosody rate='fast'>pyrophyte staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/reaping staff.mp3",
+        "tts_text": "reaping staff",
+        "ssml_text": "<prosody rate='fast'>reaping staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/roaring staff.mp3",
+        "tts_text": "roaring staff",
+        "ssml_text": "<prosody rate='fast'>roaring staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/sanctified staff.mp3",
+        "tts_text": "sanctified staff",
+        "ssml_text": "<prosody rate='fast'>sanctified staff</prosody>"
+    },
+    {
+        "path": "basetypes/staves/voltaic staff.mp3",
+        "tts_text": "voltaic staff",
+        "ssml_text": "<prosody rate='fast'>voltaic staff</prosody>"
+    },
+    {
+        "path": "basetypes/wands/attuned wand.mp3",
+        "tts_text": "attuned wand",
+        "ssml_text": "<prosody rate='fast'>attuned wand</prosody>"
+    },
+    {
+        "path": "basetypes/wands/bone wand.mp3",
+        "tts_text": "bone wand",
+        "ssml_text": "<prosody rate='fast'>bone wand</prosody>"
+    },
+    {
+        "path": "basetypes/wands/dueling wand.mp3",
+        "tts_text": "dueling wand",
+        "ssml_text": "<prosody rate='fast'>dueling wand</prosody>"
+    },
+    {
+        "path": "basetypes/wands/galvanic wand.mp3",
+        "tts_text": "galvanic wand",
+        "ssml_text": "<prosody rate='fast'>galvanic wand</prosody>"
+    },
+    {
+        "path": "basetypes/wands/siphoning wand.mp3",
+        "tts_text": "siphoning wand",
+        "ssml_text": "<prosody rate='fast'>siphoning wand</prosody>"
+    },
+    {
+        "path": "basetypes/wands/volatile wand.mp3",
+        "tts_text": "volatile wand",
+        "ssml_text": "<prosody rate='fast'>volatile wand</prosody>"
+    },
+    {
+        "path": "basetypes/wands/withered wand.mp3",
+        "tts_text": "withered wand",
+        "ssml_text": "<prosody rate='fast'>withered wand</prosody>"
+    },
+    {
+        "path": "classes/1h mace magic.mp3",
+        "tts_text": "magic 1 h mace",
+        "ssml_text": "<prosody rate='fast'>magic <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "classes/1h mace rare.mp3",
+        "tts_text": "rare 1 h mace",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "classes/2h mace magic.mp3",
+        "tts_text": "magic 2 h mace",
+        "ssml_text": "<prosody rate='fast'>magic <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "classes/2h mace rare.mp3",
+        "tts_text": "rare 2 h mace",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "classes/amulet.mp3",
+        "tts_text": "amulet",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/armour es rare.mp3",
+        "tts_text": "rare armour e s",
+        "ssml_text": "<prosody rate='fast'>rare armour e s</prosody>"
+    },
+    {
+        "path": "classes/armour evasion rare.mp3",
+        "tts_text": "rare armour evasion",
+        "ssml_text": "<prosody rate='fast'>rare armour evasion</prosody>"
+    },
+    {
+        "path": "classes/armour rare.mp3",
+        "tts_text": "rare armour",
+        "ssml_text": "<prosody rate='fast'>rare armour</prosody>"
+    },
+    {
+        "path": "classes/axe magic.mp3",
+        "tts_text": "magic axe",
+        "ssml_text": "<prosody rate='fast'>magic axe</prosody>"
+    },
+    {
+        "path": "classes/axe rare.mp3",
+        "tts_text": "rare axe",
+        "ssml_text": "<prosody rate='fast'>rare axe</prosody>"
+    },
+    {
+        "path": "classes/belt.mp3",
+        "tts_text": "belt",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/boots magic.mp3",
+        "tts_text": "magic boots",
+        "ssml_text": "<prosody rate='fast'>magic boots</prosody>"
+    },
+    {
+        "path": "classes/boots rare.mp3",
+        "tts_text": "rare boots",
+        "ssml_text": "<prosody rate='fast'>rare boots</prosody>"
+    },
+    {
+        "path": "classes/bow magic.mp3",
+        "tts_text": "magic boe",
+        "ssml_text": "<prosody rate='fast'>magic bow</prosody>"
+    },
+    {
+        "path": "classes/bow rare.mp3",
+        "tts_text": "rare boe",
+        "ssml_text": "<prosody rate='fast'>rare bow</prosody>"
+    },
+    {
+        "path": "classes/buckler rare.mp3",
+        "tts_text": "rare buckler",
+        "ssml_text": "<prosody rate='fast'>rare buckler</prosody>"
+    },
+    {
+        "path": "classes/catalyst.mp3",
+        "tts_text": "catalyst",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/claw magic.mp3",
+        "tts_text": "magic claw",
+        "ssml_text": "<prosody rate='fast'>magic claw</prosody>"
+    },
+    {
+        "path": "classes/claw rare.mp3",
+        "tts_text": "rare claw",
+        "ssml_text": "<prosody rate='fast'>rare claw</prosody>"
+    },
+    {
+        "path": "classes/crossbow magic.mp3",
+        "tts_text": "magic crossbow",
+        "ssml_text": "<prosody rate='fast'>magic crossbow</prosody>"
+    },
+    {
+        "path": "classes/crossbow rare.mp3",
+        "tts_text": "rare crossbow",
+        "ssml_text": "<prosody rate='fast'>rare crossbow</prosody>"
+    },
+    {
+        "path": "classes/dagger magic.mp3",
+        "tts_text": "magic dagger",
+        "ssml_text": "<prosody rate='fast'>magic dagger</prosody>"
+    },
+    {
+        "path": "classes/dagger rare.mp3",
+        "tts_text": "rare dagger",
+        "ssml_text": "<prosody rate='fast'>rare dagger</prosody>"
+    },
+    {
+        "path": "classes/distilled emotion.mp3",
+        "tts_text": "distilled emotion",
+        "ssml_text": "<prosody rate='fast'>distilled emotion</prosody>"
+    },
+    {
+        "path": "classes/energy shield rare.mp3",
+        "tts_text": "rare e s",
+        "ssml_text": "<prosody rate='fast'>rare e s</prosody>"
+    },
+    {
+        "path": "classes/essence.mp3",
+        "tts_text": "essence",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/evasion es rare.mp3",
+        "tts_text": "rare evasion e s",
+        "ssml_text": "<prosody rate='fast'>rare evasion e s</prosody>"
+    },
+    {
+        "path": "classes/evasion rare.mp3",
+        "tts_text": "rare evasion",
+        "ssml_text": "<prosody rate='fast'>rare evasion</prosody>"
+    },
+    {
+        "path": "classes/flail magic.mp3",
+        "tts_text": "magic flail",
+        "ssml_text": "<prosody rate='fast'>magic flail</prosody>"
+    },
+    {
+        "path": "classes/flail rare.mp3",
+        "tts_text": "rare flail",
+        "ssml_text": "<prosody rate='fast'>rare flail</prosody>"
+    },
+    {
+        "path": "classes/focus rare.mp3",
+        "tts_text": "rare focus",
+        "ssml_text": "<prosody rate='fast'>rare focus</prosody>"
+    },
+    {
+        "path": "classes/greater essence.mp3",
+        "tts_text": "greater essence",
+        "ssml_text": "<prosody rate='fast'>greater essence</prosody>"
+    },
+    {
+        "path": "classes/jewel.mp3",
+        "tts_text": "jewel",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/jewellery rare.mp3",
+        "tts_text": "rare jewellery",
+        "ssml_text": "<prosody rate='fast'>rare jewellery</prosody>"
+    },
+    {
+        "path": "classes/lesser essence.mp3",
+        "tts_text": "lesser essence",
+        "ssml_text": "<prosody rate='fast'>lesser essence</prosody>"
+    },
+    {
+        "path": "classes/life flask.mp3",
+        "tts_text": "life flask",
+        "ssml_text": "<prosody rate='fast'>life flask</prosody>"
+    },
+    {
+        "path": "classes/mana flask.mp3",
+        "tts_text": "mana flask",
+        "ssml_text": "<prosody rate='fast'>mana flask</prosody>"
+    },
+    {
+        "path": "classes/omen.mp3",
+        "tts_text": "omen",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/perfect essence.mp3",
+        "tts_text": "perfect essence",
+        "ssml_text": "<prosody rate='fast'>perfect essence</prosody>"
+    },
+    {
+        "path": "classes/quarterstaff magic.mp3",
+        "tts_text": "magic quarterstaff",
+        "ssml_text": "<prosody rate='fast'>magic quarterstaff</prosody>"
+    },
+    {
+        "path": "classes/quarterstaff rare.mp3",
+        "tts_text": "rare quarterstaff",
+        "ssml_text": "<prosody rate='fast'>rare quarterstaff</prosody>"
+    },
+    {
+        "path": "classes/quiver magic.mp3",
+        "tts_text": "magic quiver",
+        "ssml_text": "<prosody rate='fast'>magic quiver</prosody>"
+    },
+    {
+        "path": "classes/quiver rare.mp3",
+        "tts_text": "rare quiver",
+        "ssml_text": "<prosody rate='fast'>rare quiver</prosody>"
+    },
+    {
+        "path": "classes/rare.mp3",
+        "tts_text": "rare",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/relic.mp3",
+        "tts_text": "relic",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/ring.mp3",
+        "tts_text": "ring",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/salvage 2 armourers.mp3",
+        "tts_text": "2 armourers salvage",
+        "ssml_text": "<prosody rate='fast'>2 armourers salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 2 etcher.mp3",
+        "tts_text": "2 etcher salvage",
+        "ssml_text": "<prosody rate='fast'>2 etcher salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 2 glassblowers.mp3",
+        "tts_text": "2 glassblowers salvage",
+        "ssml_text": "<prosody rate='fast'>2 glassblowers salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 2 whetstone.mp3",
+        "tts_text": "2 whetstone salvage",
+        "ssml_text": "<prosody rate='fast'>2 whetstone salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 3 armourers.mp3",
+        "tts_text": "3 armourers salvage",
+        "ssml_text": "<prosody rate='fast'>3 armourers salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 3 etcher.mp3",
+        "tts_text": "3 etcher salvage",
+        "ssml_text": "<prosody rate='fast'>3 etcher salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 3 glassblowers.mp3",
+        "tts_text": "3 glassblowers salvage",
+        "ssml_text": "<prosody rate='fast'>3 glassblowers salvage</prosody>"
+    },
+    {
+        "path": "classes/salvage 3 whetstone.mp3",
+        "tts_text": "3 whetstone salvage",
+        "ssml_text": "<prosody rate='fast'>3 whetstone salvage</prosody>"
+    },
+    {
+        "path": "classes/sceptre magic.mp3",
+        "tts_text": "magic sceptre",
+        "ssml_text": "<prosody rate='fast'>magic sceptre</prosody>"
+    },
+    {
+        "path": "classes/sceptre rare.mp3",
+        "tts_text": "rare sceptre",
+        "ssml_text": "<prosody rate='fast'>rare sceptre</prosody>"
+    },
+    {
+        "path": "classes/shield rare.mp3",
+        "tts_text": "rare shield",
+        "ssml_text": "<prosody rate='fast'>rare shield</prosody>"
+    },
+    {
+        "path": "classes/soul core.mp3",
+        "tts_text": "soul core",
+        "ssml_text": "<prosody rate='fast'>soul core</prosody>"
+    },
+    {
+        "path": "classes/spear magic.mp3",
+        "tts_text": "magic spear",
+        "ssml_text": "<prosody rate='fast'>magic spear</prosody>"
+    },
+    {
+        "path": "classes/spear rare.mp3",
+        "tts_text": "rare spear",
+        "ssml_text": "<prosody rate='fast'>rare spear</prosody>"
+    },
+    {
+        "path": "classes/staff magic.mp3",
+        "tts_text": "magic staff",
+        "ssml_text": "<prosody rate='fast'>magic staff</prosody>"
+    },
+    {
+        "path": "classes/staff rare.mp3",
+        "tts_text": "rare staff",
+        "ssml_text": "<prosody rate='fast'>rare staff</prosody>"
+    },
+    {
+        "path": "classes/sword magic.mp3",
+        "tts_text": "magic sword",
+        "ssml_text": "<prosody rate='fast'>magic sword</prosody>"
+    },
+    {
+        "path": "classes/sword rare.mp3",
+        "tts_text": "rare sword",
+        "ssml_text": "<prosody rate='fast'>rare sword</prosody>"
+    },
+    {
+        "path": "classes/time lost jewel.mp3",
+        "tts_text": "time lost jewel",
+        "ssml_text": "<prosody rate='fast'>time lost jewel</prosody>"
+    },
+    {
+        "path": "classes/tower shield magic.mp3",
+        "tts_text": "magic tower shield",
+        "ssml_text": "<prosody rate='fast'>magic tower shield</prosody>"
+    },
+    {
+        "path": "classes/tower shield rare.mp3",
+        "tts_text": "rare tower shield",
+        "ssml_text": "<prosody rate='fast'>rare tower shield</prosody>"
+    },
+    {
+        "path": "classes/trap magic.mp3",
+        "tts_text": "magic trap",
+        "ssml_text": "<prosody rate='fast'>magic trap</prosody>"
+    },
+    {
+        "path": "classes/trap rare.mp3",
+        "tts_text": "rare trap",
+        "ssml_text": "<prosody rate='fast'>rare trap</prosody>"
+    },
+    {
+        "path": "classes/uncut skill gem.mp3",
+        "tts_text": "uncut skill gem",
+        "ssml_text": "<prosody rate='fast'>uncut skill gem</prosody>"
+    },
+    {
+        "path": "classes/uncut spirit gem.mp3",
+        "tts_text": "uncut spirit gem",
+        "ssml_text": "<prosody rate='fast'>uncut spirit gem</prosody>"
+    },
+    {
+        "path": "classes/uncut support gem.mp3",
+        "tts_text": "uncut support gem",
+        "ssml_text": "<prosody rate='fast'>uncut support gem</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 2 magic.mp3",
+        "tts_text": "tier 2 magic",
+        "ssml_text": "<prosody rate='fast'>tier 2 magic</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 2 rare.mp3",
+        "tts_text": "tier 2 rare",
+        "ssml_text": "<prosody rate='fast'>tier 2 rare</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 3 magic.mp3",
+        "tts_text": "tier 3 magic",
+        "ssml_text": "<prosody rate='fast'>tier 3 magic</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 3 rare.mp3",
+        "tts_text": "tier 3 rare",
+        "ssml_text": "<prosody rate='fast'>tier 3 rare</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 4 magic.mp3",
+        "tts_text": "tier 4 magic",
+        "ssml_text": "<prosody rate='fast'>tier 4 magic</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 4 rare.mp3",
+        "tts_text": "tier 4 rare",
+        "ssml_text": "<prosody rate='fast'>tier 4 rare</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 5 magic.mp3",
+        "tts_text": "tier 5 magic",
+        "ssml_text": "<prosody rate='fast'>tier 5 magic</prosody>"
+    },
+    {
+        "path": "classes/unidentified tier 5 rare.mp3",
+        "tts_text": "tier 5 rare",
+        "ssml_text": "<prosody rate='fast'>tier 5 rare</prosody>"
+    },
+    {
+        "path": "classes/wand magic.mp3",
+        "tts_text": "magic wand",
+        "ssml_text": "<prosody rate='fast'>magic wand</prosody>"
+    },
+    {
+        "path": "classes/wand rare.mp3",
+        "tts_text": "rare wand",
+        "ssml_text": "<prosody rate='fast'>rare wand</prosody>"
+    },
+    {
+        "path": "classes/waystone.mp3",
+        "tts_text": "waystone",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/abyss/ancient collarbone.mp3",
+        "tts_text": "ancient collarbone",
+        "ssml_text": "<prosody rate='fast'>ancient collarbone</prosody>"
+    },
+    {
+        "path": "currency/abyss/ancient jawbone.mp3",
+        "tts_text": "ancient jawbone",
+        "ssml_text": "<prosody rate='fast'>ancient jawbone</prosody>"
+    },
+    {
+        "path": "currency/abyss/ancient rib.mp3",
+        "tts_text": "ancient rib",
+        "ssml_text": "<prosody rate='fast'>ancient rib</prosody>"
+    },
+    {
+        "path": "currency/abyss/gnawed collarbone.mp3",
+        "tts_text": "gnawed collarbone",
+        "ssml_text": "<prosody rate='fast'>gnawed collarbone</prosody>"
+    },
+    {
+        "path": "currency/abyss/gnawed jawbone.mp3",
+        "tts_text": "gnawed jawbone",
+        "ssml_text": "<prosody rate='fast'>gnawed jawbone</prosody>"
+    },
+    {
+        "path": "currency/abyss/gnawed rib.mp3",
+        "tts_text": "gnawed rib",
+        "ssml_text": "<prosody rate='fast'>gnawed rib</prosody>"
+    },
+    {
+        "path": "currency/abyss/preserved collarbone.mp3",
+        "tts_text": "preserved collarbone",
+        "ssml_text": "<prosody rate='fast'>preserved collarbone</prosody>"
+    },
+    {
+        "path": "currency/abyss/preserved cranium.mp3",
+        "tts_text": "preserved cranium",
+        "ssml_text": "<prosody rate='fast'>preserved cranium</prosody>"
+    },
+    {
+        "path": "currency/abyss/preserved jawbone.mp3",
+        "tts_text": "preserved jawbone",
+        "ssml_text": "<prosody rate='fast'>preserved jawbone</prosody>"
+    },
+    {
+        "path": "currency/abyss/preserved rib.mp3",
+        "tts_text": "preserved rib",
+        "ssml_text": "<prosody rate='fast'>preserved rib</prosody>"
+    },
+    {
+        "path": "currency/abyss/preserved vertebrae.mp3",
+        "tts_text": "preserved vertebrae",
+        "ssml_text": "<prosody rate='fast'>preserved vertebrae</prosody>"
+    },
+    {
+        "path": "currency/arcanists etcher.mp3",
+        "tts_text": "arcanists etcher",
+        "ssml_text": "<prosody rate='fast'>arcanists etcher</prosody>"
+    },
+    {
+        "path": "currency/armourers scrap.mp3",
+        "tts_text": "armourers",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/artificers orb.mp3",
+        "tts_text": "artificers",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/artificers shard.mp3",
+        "tts_text": "artificers shard",
+        "ssml_text": "<prosody rate='fast'>artificers shard</prosody>"
+    },
+    {
+        "path": "currency/blacksmiths whetstone.mp3",
+        "tts_text": "whetstone",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/chance shard.mp3",
+        "tts_text": "chance shard",
+        "ssml_text": "<prosody rate='fast'>chance shard</prosody>"
+    },
+    {
+        "path": "currency/chaos orb.mp3",
+        "tts_text": "chaos",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/divine orb.mp3",
+        "tts_text": "divine",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/exalted orb.mp3",
+        "tts_text": "exalted",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/fracturing orb.mp3",
+        "tts_text": "fracturing",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/gemcutters prism.mp3",
+        "tts_text": "gemcutters",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/glassblowers bauble.mp3",
+        "tts_text": "glassblowers",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/greater chaos orb.mp3",
+        "tts_text": "greater chaos",
+        "ssml_text": "<prosody rate='fast'>greater chaos</prosody>"
+    },
+    {
+        "path": "currency/greater exalted orb.mp3",
+        "tts_text": "greater exalted",
+        "ssml_text": "<prosody rate='fast'>greater exalted</prosody>"
+    },
+    {
+        "path": "currency/greater jewellers orb.mp3",
+        "tts_text": "greater jewellers",
+        "ssml_text": "<prosody rate='fast'>greater jewellers</prosody>"
+    },
+    {
+        "path": "currency/greater orb of augmentation.mp3",
+        "tts_text": "greater augmentation",
+        "ssml_text": "<prosody rate='fast'>greater augmentation</prosody>"
+    },
+    {
+        "path": "currency/greater orb of transmutation.mp3",
+        "tts_text": "greater transmuatation",
+        "ssml_text": "<prosody rate='fast'>greater transmutation</prosody>"
+    },
+    {
+        "path": "currency/greater regal orb.mp3",
+        "tts_text": "greater regal",
+        "ssml_text": "<prosody rate='fast'>greater regal</prosody>"
+    },
+    {
+        "path": "currency/hinekoras lock.mp3",
+        "tts_text": "hinekoras lock",
+        "ssml_text": "<prosody rate='fast'>hinekoras lock</prosody>"
+    },
+    {
+        "path": "currency/lesser jewellers orb.mp3",
+        "tts_text": "lesser jewellers",
+        "ssml_text": "<prosody rate='fast'>lesser jewellers</prosody>"
+    },
+    {
+        "path": "currency/mirror of kalandra.mp3",
+        "tts_text": "mirror of kalandra",
+        "ssml_text": "<prosody rate='fast'>mirror of kalandra</prosody>"
+    },
+    {
+        "path": "currency/orb of alchemy.mp3",
+        "tts_text": "alchemy",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/orb of annulment.mp3",
+        "tts_text": "annulment",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/orb of augmentation.mp3",
+        "tts_text": "augmentation",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/orb of chance.mp3",
+        "tts_text": "chance",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/orb of transmutation.mp3",
+        "tts_text": "transmutation",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/perfect chaos orb.mp3",
+        "tts_text": "perfect chaos",
+        "ssml_text": "<prosody rate='fast'>perfect chaos</prosody>"
+    },
+    {
+        "path": "currency/perfect exalted orb.mp3",
+        "tts_text": "perfect exalted",
+        "ssml_text": "<prosody rate='fast'>perfect exalted</prosody>"
+    },
+    {
+        "path": "currency/perfect jewellers orb.mp3",
+        "tts_text": "perfect jewellers",
+        "ssml_text": "<prosody rate='fast'>perfect jewellers</prosody>"
+    },
+    {
+        "path": "currency/perfect orb of augmentation.mp3",
+        "tts_text": "perfect augmentation",
+        "ssml_text": "<prosody rate='fast'>perfect augmentation</prosody>"
+    },
+    {
+        "path": "currency/perfect orb of transmutation.mp3",
+        "tts_text": "perfect transmuatation",
+        "ssml_text": "<prosody rate='fast'>perfect transmutation</prosody>"
+    },
+    {
+        "path": "currency/perfect regal orb.mp3",
+        "tts_text": "perfect regal",
+        "ssml_text": "<prosody rate='fast'>perfect regal</prosody>"
+    },
+    {
+        "path": "currency/regal orb.mp3",
+        "tts_text": "regal",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/regal shard.mp3",
+        "tts_text": "regal shard",
+        "ssml_text": "<prosody rate='fast'>regal shard</prosody>"
+    },
+    {
+        "path": "currency/scroll of wisdom.mp3",
+        "tts_text": "wisdom",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/vaal orb.mp3",
+        "tts_text": "vaal",
+        "ssml_text": ""
+    },
+    {
+        "path": "essences/essence of abrasion.mp3",
+        "tts_text": "abrasion essence",
+        "ssml_text": "<prosody rate='fast'>abrasion essence</prosody>"
+    },
+    {
+        "path": "essences/essence of alacrity.mp3",
+        "tts_text": "alacrity essence",
+        "ssml_text": "<prosody rate='fast'>alacrity essence</prosody>"
+    },
+    {
+        "path": "essences/essence of battle.mp3",
+        "tts_text": "battle essence",
+        "ssml_text": "<prosody rate='fast'>battle essence</prosody>"
+    },
+    {
+        "path": "essences/essence of command.mp3",
+        "tts_text": "command essence",
+        "ssml_text": "<prosody rate='fast'>command essence</prosody>"
+    },
+    {
+        "path": "essences/essence of delirium.mp3",
+        "tts_text": "delirium essence",
+        "ssml_text": "<prosody rate='fast'>delirium essence</prosody>"
+    },
+    {
+        "path": "essences/essence of electricity.mp3",
+        "tts_text": "electricity essence",
+        "ssml_text": "<prosody rate='fast'>electricity essence</prosody>"
+    },
+    {
+        "path": "essences/essence of enhancement.mp3",
+        "tts_text": "enhancement essence",
+        "ssml_text": "<prosody rate='fast'>enhancement essence</prosody>"
+    },
+    {
+        "path": "essences/essence of flames.mp3",
+        "tts_text": "flames essence",
+        "ssml_text": "<prosody rate='fast'>flames essence</prosody>"
+    },
+    {
+        "path": "essences/essence of grounding.mp3",
+        "tts_text": "grounding essence",
+        "ssml_text": "<prosody rate='fast'>grounding essence</prosody>"
+    },
+    {
+        "path": "essences/essence of haste.mp3",
+        "tts_text": "haste essence",
+        "ssml_text": "<prosody rate='fast'>haste essence</prosody>"
+    },
+    {
+        "path": "essences/essence of horror.mp3",
+        "tts_text": "horror essence",
+        "ssml_text": "<prosody rate='fast'>horror essence</prosody>"
+    },
+    {
+        "path": "essences/essence of hysteria.mp3",
+        "tts_text": "hysteria essence",
+        "ssml_text": "<prosody rate='fast'>hysteria essence</prosody>"
+    },
+    {
+        "path": "essences/essence of ice.mp3",
+        "tts_text": "ice essence",
+        "ssml_text": "<prosody rate='fast'>ice essence</prosody>"
+    },
+    {
+        "path": "essences/essence of insanity.mp3",
+        "tts_text": "insanity essence",
+        "ssml_text": "<prosody rate='fast'>insanity essence</prosody>"
+    },
+    {
+        "path": "essences/essence of insulation.mp3",
+        "tts_text": "insulation essence",
+        "ssml_text": "<prosody rate='fast'>insulation essence</prosody>"
+    },
+    {
+        "path": "essences/essence of opulence.mp3",
+        "tts_text": "opulence essence",
+        "ssml_text": "<prosody rate='fast'>opulence essence</prosody>"
+    },
+    {
+        "path": "essences/essence of ruin.mp3",
+        "tts_text": "ruin essence",
+        "ssml_text": "<prosody rate='fast'>ruin essence</prosody>"
+    },
+    {
+        "path": "essences/essence of seeking.mp3",
+        "tts_text": "seeking essence",
+        "ssml_text": "<prosody rate='fast'>seeking essence</prosody>"
+    },
+    {
+        "path": "essences/essence of sorcery.mp3",
+        "tts_text": "sorcery essence",
+        "ssml_text": "<prosody rate='fast'>sorcery essence</prosody>"
+    },
+    {
+        "path": "essences/essence of thawing.mp3",
+        "tts_text": "thawing essence",
+        "ssml_text": "<prosody rate='fast'>thawing essence</prosody>"
+    },
+    {
+        "path": "essences/essence of the abyss.mp3",
+        "tts_text": "abyss essence",
+        "ssml_text": "<prosody rate='fast'>abyss essence</prosody>"
+    },
+    {
+        "path": "essences/essence of the body.mp3",
+        "tts_text": "body essence",
+        "ssml_text": "<prosody rate='fast'>body essence</prosody>"
+    },
+    {
+        "path": "essences/essence of the infinite.mp3",
+        "tts_text": "infinite essence",
+        "ssml_text": "<prosody rate='fast'>infinite essence</prosody>"
+    },
+    {
+        "path": "essences/essence of the mind.mp3",
+        "tts_text": "mind essence",
+        "ssml_text": "<prosody rate='fast'>mind essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of abrasion.mp3",
+        "tts_text": "greater abrasion essence",
+        "ssml_text": "<prosody rate='fast'>greater abrasion essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of alacrity.mp3",
+        "tts_text": "greater alacrity essence",
+        "ssml_text": "<prosody rate='fast'>greater alacrity essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of battle.mp3",
+        "tts_text": "greater battle essence",
+        "ssml_text": "<prosody rate='fast'>greater battle essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of command.mp3",
+        "tts_text": "greater command essence",
+        "ssml_text": "<prosody rate='fast'>greater command essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of electricity.mp3",
+        "tts_text": "greater electricity essence",
+        "ssml_text": "<prosody rate='fast'>greater electricity essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of enhancement.mp3",
+        "tts_text": "greater enhancement essence",
+        "ssml_text": "<prosody rate='fast'>greater enhancement essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of flames.mp3",
+        "tts_text": "greater flames essence",
+        "ssml_text": "<prosody rate='fast'>greater flames essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of grounding.mp3",
+        "tts_text": "greater grounding essence",
+        "ssml_text": "<prosody rate='fast'>greater grounding essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of haste.mp3",
+        "tts_text": "greater haste essence",
+        "ssml_text": "<prosody rate='fast'>greater haste essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of ice.mp3",
+        "tts_text": "greater ice essence",
+        "ssml_text": "<prosody rate='fast'>greater ice essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of insulation.mp3",
+        "tts_text": "greater insulation essence",
+        "ssml_text": "<prosody rate='fast'>greater insulation essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of opulence.mp3",
+        "tts_text": "greater opulence essence",
+        "ssml_text": "<prosody rate='fast'>greater opulence essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of ruin.mp3",
+        "tts_text": "greater ruin essence",
+        "ssml_text": "<prosody rate='fast'>greater ruin essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of seeking.mp3",
+        "tts_text": "greater seeking essence",
+        "ssml_text": "<prosody rate='fast'>greater seeking essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of sorcery.mp3",
+        "tts_text": "greater sorcery essence",
+        "ssml_text": "<prosody rate='fast'>greater sorcery essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of thawing.mp3",
+        "tts_text": "greater thawing essence",
+        "ssml_text": "<prosody rate='fast'>greater thawing essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of the body.mp3",
+        "tts_text": "greater body essence",
+        "ssml_text": "<prosody rate='fast'>greater body essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of the infinite.mp3",
+        "tts_text": "greater infinite essence",
+        "ssml_text": "<prosody rate='fast'>greater infinite essence</prosody>"
+    },
+    {
+        "path": "essences/greater essence of the mind.mp3",
+        "tts_text": "greater mind essence",
+        "ssml_text": "<prosody rate='fast'>greater mind essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of abrasion.mp3",
+        "tts_text": "lesser abrasion essence",
+        "ssml_text": "<prosody rate='fast'>lesser abrasion essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of alacrity.mp3",
+        "tts_text": "lesser alacrity essence",
+        "ssml_text": "<prosody rate='fast'>lesser alacrity essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of battle.mp3",
+        "tts_text": "lesser battle essence",
+        "ssml_text": "<prosody rate='fast'>lesser battle essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of command.mp3",
+        "tts_text": "lesser command essence",
+        "ssml_text": "<prosody rate='fast'>lesser command essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of electricity.mp3",
+        "tts_text": "lesser electricity essence",
+        "ssml_text": "<prosody rate='fast'>lesser electricity essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of enhancement.mp3",
+        "tts_text": "lesser enhancement essence",
+        "ssml_text": "<prosody rate='fast'>lesser enhancement essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of flames.mp3",
+        "tts_text": "lesser flames essence",
+        "ssml_text": "<prosody rate='fast'>lesser flames essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of grounding.mp3",
+        "tts_text": "lesser grounding essence",
+        "ssml_text": "<prosody rate='fast'>lesser grounding essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of haste.mp3",
+        "tts_text": "lesser haste essence",
+        "ssml_text": "<prosody rate='fast'>lesser haste essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of ice.mp3",
+        "tts_text": "lesser ice essence",
+        "ssml_text": "<prosody rate='fast'>lesser ice essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of insulation.mp3",
+        "tts_text": "lesser insulation essence",
+        "ssml_text": "<prosody rate='fast'>lesser insulation essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of opulence.mp3",
+        "tts_text": "lesser opulence essence",
+        "ssml_text": "<prosody rate='fast'>lesser opulence essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of ruin.mp3",
+        "tts_text": "lesser ruin essence",
+        "ssml_text": "<prosody rate='fast'>lesser ruin essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of seeking.mp3",
+        "tts_text": "lesser seeking essence",
+        "ssml_text": "<prosody rate='fast'>lesser seeking essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of sorcery.mp3",
+        "tts_text": "lesser sorcery essence",
+        "ssml_text": "<prosody rate='fast'>lesser sorcery essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of thawing.mp3",
+        "tts_text": "lesser thawing essence",
+        "ssml_text": "<prosody rate='fast'>lesser thawing essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of the body.mp3",
+        "tts_text": "lesser body essence",
+        "ssml_text": "<prosody rate='fast'>lesser body essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of the infinite.mp3",
+        "tts_text": "lesser infinite essence",
+        "ssml_text": "<prosody rate='fast'>lesser infinite essence</prosody>"
+    },
+    {
+        "path": "essences/lesser essence of the mind.mp3",
+        "tts_text": "lesser mind essence",
+        "ssml_text": "<prosody rate='fast'>lesser mind essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of abrasion.mp3",
+        "tts_text": "perfect abrasion essence",
+        "ssml_text": "<prosody rate='fast'>perfect abrasion essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of alacrity.mp3",
+        "tts_text": "perfect alacrity essence",
+        "ssml_text": "<prosody rate='fast'>perfect alacrity essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of battle.mp3",
+        "tts_text": "perfect battle essence",
+        "ssml_text": "<prosody rate='fast'>perfect battle essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of command.mp3",
+        "tts_text": "perfect command essence",
+        "ssml_text": "<prosody rate='fast'>perfect command essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of electricity.mp3",
+        "tts_text": "perfect electricity essence",
+        "ssml_text": "<prosody rate='fast'>perfect electricity essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of enhancement.mp3",
+        "tts_text": "perfect enhancement essence",
+        "ssml_text": "<prosody rate='fast'>perfect enhancement essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of flames.mp3",
+        "tts_text": "perfect flames essence",
+        "ssml_text": "<prosody rate='fast'>perfect flames essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of grounding.mp3",
+        "tts_text": "perfect grounding essence",
+        "ssml_text": "<prosody rate='fast'>perfect grounding essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of haste.mp3",
+        "tts_text": "perfect haste essence",
+        "ssml_text": "<prosody rate='fast'>perfect haste essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of ice.mp3",
+        "tts_text": "perfect ice essence",
+        "ssml_text": "<prosody rate='fast'>perfect ice essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of insulation.mp3",
+        "tts_text": "perfect insulation essence",
+        "ssml_text": "<prosody rate='fast'>perfect insulation essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of opulence.mp3",
+        "tts_text": "perfect opulence essence",
+        "ssml_text": "<prosody rate='fast'>perfect opulence essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of ruin.mp3",
+        "tts_text": "perfect ruin essence",
+        "ssml_text": "<prosody rate='fast'>perfect ruin essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of seeking.mp3",
+        "tts_text": "perfect seeking essence",
+        "ssml_text": "<prosody rate='fast'>perfect seeking essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of sorcery.mp3",
+        "tts_text": "perfect sorcery essence",
+        "ssml_text": "<prosody rate='fast'>perfect sorcery essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of thawing.mp3",
+        "tts_text": "perfect thawing essence",
+        "ssml_text": "<prosody rate='fast'>perfect thawing essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of the body.mp3",
+        "tts_text": "perfect body essence",
+        "ssml_text": "<prosody rate='fast'>perfect body essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of the infinite.mp3",
+        "tts_text": "perfect infinite essence",
+        "ssml_text": "<prosody rate='fast'>perfect infinite essence</prosody>"
+    },
+    {
+        "path": "essences/perfect essence of the mind.mp3",
+        "tts_text": "perfect mind essence",
+        "ssml_text": "<prosody rate='fast'>perfect mind essence</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 1.mp3",
+        "tts_text": "skill level 1",
+        "ssml_text": "<prosody rate='fast'>skill level 1</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 10.mp3",
+        "tts_text": "skill level 10",
+        "ssml_text": "<prosody rate='fast'>skill level 10</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 11.mp3",
+        "tts_text": "skill level 11",
+        "ssml_text": "<prosody rate='fast'>skill level 11</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 12.mp3",
+        "tts_text": "skill level 12",
+        "ssml_text": "<prosody rate='fast'>skill level 12</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 13.mp3",
+        "tts_text": "skill level 13",
+        "ssml_text": "<prosody rate='fast'>skill level 13</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 14.mp3",
+        "tts_text": "skill level 14",
+        "ssml_text": "<prosody rate='fast'>skill level 14</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 15.mp3",
+        "tts_text": "skill level 15",
+        "ssml_text": "<prosody rate='fast'>skill level 15</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 16.mp3",
+        "tts_text": "skill level 16",
+        "ssml_text": "<prosody rate='fast'>skill level 16</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 17.mp3",
+        "tts_text": "skill level 17",
+        "ssml_text": "<prosody rate='fast'>skill level 17</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 18.mp3",
+        "tts_text": "skill level 18",
+        "ssml_text": "<prosody rate='fast'>skill level 18</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 19.mp3",
+        "tts_text": "skill level 19",
+        "ssml_text": "<prosody rate='fast'>skill level 19</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 2.mp3",
+        "tts_text": "skill level 2",
+        "ssml_text": "<prosody rate='fast'>skill level 2</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 20.mp3",
+        "tts_text": "skill level 20",
+        "ssml_text": "<prosody rate='fast'>skill level 20</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 3.mp3",
+        "tts_text": "skill level 3",
+        "ssml_text": "<prosody rate='fast'>skill level 3</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 4.mp3",
+        "tts_text": "skill level 4",
+        "ssml_text": "<prosody rate='fast'>skill level 4</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 5.mp3",
+        "tts_text": "skill level 5",
+        "ssml_text": "<prosody rate='fast'>skill level 5</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 6.mp3",
+        "tts_text": "skill level 6",
+        "ssml_text": "<prosody rate='fast'>skill level 6</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 7.mp3",
+        "tts_text": "skill level 7",
+        "ssml_text": "<prosody rate='fast'>skill level 7</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 8.mp3",
+        "tts_text": "skill level 8",
+        "ssml_text": "<prosody rate='fast'>skill level 8</prosody>"
+    },
+    {
+        "path": "gems/uncut skill gem level 9.mp3",
+        "tts_text": "skill level 9",
+        "ssml_text": "<prosody rate='fast'>skill level 9</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 1.mp3",
+        "tts_text": "spirit level 1",
+        "ssml_text": "<prosody rate='fast'>spirit level 1</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 10.mp3",
+        "tts_text": "spirit level 10",
+        "ssml_text": "<prosody rate='fast'>spirit level 10</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 11.mp3",
+        "tts_text": "spirit level 11",
+        "ssml_text": "<prosody rate='fast'>spirit level 11</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 12.mp3",
+        "tts_text": "spirit level 12",
+        "ssml_text": "<prosody rate='fast'>spirit level 12</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 13.mp3",
+        "tts_text": "spirit level 13",
+        "ssml_text": "<prosody rate='fast'>spirit level 13</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 14.mp3",
+        "tts_text": "spirit level 14",
+        "ssml_text": "<prosody rate='fast'>spirit level 14</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 15.mp3",
+        "tts_text": "spirit level 15",
+        "ssml_text": "<prosody rate='fast'>spirit level 15</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 16.mp3",
+        "tts_text": "spirit level 16",
+        "ssml_text": "<prosody rate='fast'>spirit level 16</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 17.mp3",
+        "tts_text": "spirit level 17",
+        "ssml_text": "<prosody rate='fast'>spirit level 17</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 18.mp3",
+        "tts_text": "spirit level 18",
+        "ssml_text": "<prosody rate='fast'>spirit level 18</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 19.mp3",
+        "tts_text": "spirit level 19",
+        "ssml_text": "<prosody rate='fast'>spirit level 19</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 2.mp3",
+        "tts_text": "spirit level 2",
+        "ssml_text": "<prosody rate='fast'>spirit level 2</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 20.mp3",
+        "tts_text": "spirit level 20",
+        "ssml_text": "<prosody rate='fast'>spirit level 20</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 3.mp3",
+        "tts_text": "spirit level 3",
+        "ssml_text": "<prosody rate='fast'>spirit level 3</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 4.mp3",
+        "tts_text": "spirit level 4",
+        "ssml_text": "<prosody rate='fast'>spirit level 4</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 5.mp3",
+        "tts_text": "spirit level 5",
+        "ssml_text": "<prosody rate='fast'>spirit level 5</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 6.mp3",
+        "tts_text": "spirit level 6",
+        "ssml_text": "<prosody rate='fast'>spirit level 6</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 7.mp3",
+        "tts_text": "spirit level 7",
+        "ssml_text": "<prosody rate='fast'>spirit level 7</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 8.mp3",
+        "tts_text": "spirit level 8",
+        "ssml_text": "<prosody rate='fast'>spirit level 8</prosody>"
+    },
+    {
+        "path": "gems/uncut spirit gem level 9.mp3",
+        "tts_text": "spirit level 9",
+        "ssml_text": "<prosody rate='fast'>spirit level 9</prosody>"
+    },
+    {
+        "path": "gems/uncut support gem level 1.mp3",
+        "tts_text": "support level 1",
+        "ssml_text": "<prosody rate='fast'>support level 1</prosody>"
+    },
+    {
+        "path": "gems/uncut support gem level 2.mp3",
+        "tts_text": "support level 2",
+        "ssml_text": "<prosody rate='fast'>support level 2</prosody>"
+    },
+    {
+        "path": "gems/uncut support gem level 3.mp3",
+        "tts_text": "support level 3",
+        "ssml_text": "<prosody rate='fast'>support level 3</prosody>"
+    },
+    {
+        "path": "gems/uncut support gem level 4.mp3",
+        "tts_text": "support level 4",
+        "ssml_text": "<prosody rate='fast'>support level 4</prosody>"
+    },
+    {
+        "path": "gems/uncut support gem level 5.mp3",
+        "tts_text": "support level 5",
+        "ssml_text": "<prosody rate='fast'>support level 5</prosody>"
+    },
+    {
+        "path": "ided/boots movespeed.mp3",
+        "tts_text": "movespeed boots",
+        "ssml_text": "<prosody rate='fast'>movespeed boots</prosody>"
+    },
+    {
+        "path": "ided/flask life instant.mp3",
+        "tts_text": "instant life flask",
+        "ssml_text": "<prosody rate='fast'>instant life flask</prosody>"
+    },
+    {
+        "path": "ided/flask mana instant.mp3",
+        "tts_text": "instant mana flask",
+        "ssml_text": "<prosody rate='fast'>instant mana flask</prosody>"
+    },
+    {
+        "path": "socketable/runes/adept rune.mp3",
+        "tts_text": "adept rune",
+        "ssml_text": "<prosody rate='fast'>adept rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/body rune.mp3",
+        "tts_text": "body rune",
+        "ssml_text": "<prosody rate='fast'>body rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/desert rune.mp3",
+        "tts_text": "desert rune",
+        "ssml_text": "<prosody rate='fast'>desert rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/glacial rune.mp3",
+        "tts_text": "glacial rune",
+        "ssml_text": "<prosody rate='fast'>glacial rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater adept rune.mp3",
+        "tts_text": "greater adept rune",
+        "ssml_text": "<prosody rate='fast'>greater adept rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater body rune.mp3",
+        "tts_text": "greater body rune",
+        "ssml_text": "<prosody rate='fast'>greater body rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater desert rune.mp3",
+        "tts_text": "greater desert rune",
+        "ssml_text": "<prosody rate='fast'>greater desert rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater glacial rune.mp3",
+        "tts_text": "greater glacial rune",
+        "ssml_text": "<prosody rate='fast'>greater glacial rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater inspiration rune.mp3",
+        "tts_text": "greater inspiration rune",
+        "ssml_text": "<prosody rate='fast'>greater inspiration rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater iron rune.mp3",
+        "tts_text": "greater iron rune",
+        "ssml_text": "<prosody rate='fast'>greater iron rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater mind rune.mp3",
+        "tts_text": "greater mind rune",
+        "ssml_text": "<prosody rate='fast'>greater mind rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater rebirth rune.mp3",
+        "tts_text": "greater rebirth rune",
+        "ssml_text": "<prosody rate='fast'>greater rebirth rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater resolve rune.mp3",
+        "tts_text": "greater resolve rune",
+        "ssml_text": "<prosody rate='fast'>greater resolve rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater robust rune.mp3",
+        "tts_text": "greater robust rune",
+        "ssml_text": "<prosody rate='fast'>greater robust rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater rune of alacrity.mp3",
+        "tts_text": "greater alacrity rune",
+        "ssml_text": "<prosody rate='fast'>greater alacrity rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater rune of leadership.mp3",
+        "tts_text": "greater leadership rune",
+        "ssml_text": "<prosody rate='fast'>greater leadership rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater rune of nobility.mp3",
+        "tts_text": "greater nobility rune",
+        "ssml_text": "<prosody rate='fast'>greater nobility rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater rune of tithing.mp3",
+        "tts_text": "greater tithing rune",
+        "ssml_text": "<prosody rate='fast'>greater tithing rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater stone rune.mp3",
+        "tts_text": "greater stone rune",
+        "ssml_text": "<prosody rate='fast'>greater stone rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater storm rune.mp3",
+        "tts_text": "greater storm rune",
+        "ssml_text": "<prosody rate='fast'>greater storm rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/greater vision rune.mp3",
+        "tts_text": "greater vision rune",
+        "ssml_text": "<prosody rate='fast'>greater vision rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/inspiration rune.mp3",
+        "tts_text": "inspiration rune",
+        "ssml_text": "<prosody rate='fast'>inspiration rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/iron rune.mp3",
+        "tts_text": "iron rune",
+        "ssml_text": "<prosody rate='fast'>iron rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser adept rune.mp3",
+        "tts_text": "lesser adept rune",
+        "ssml_text": "<prosody rate='fast'>lesser adept rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser body rune.mp3",
+        "tts_text": "lesser body rune",
+        "ssml_text": "<prosody rate='fast'>lesser body rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser desert rune.mp3",
+        "tts_text": "lesser desert rune",
+        "ssml_text": "<prosody rate='fast'>lesser desert rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser glacial rune.mp3",
+        "tts_text": "lesser glacial rune",
+        "ssml_text": "<prosody rate='fast'>lesser glacial rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser inspiration rune.mp3",
+        "tts_text": "lesser inspiration rune",
+        "ssml_text": "<prosody rate='fast'>lesser inspiration rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser iron rune.mp3",
+        "tts_text": "lesser iron rune",
+        "ssml_text": "<prosody rate='fast'>lesser iron rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser mind rune.mp3",
+        "tts_text": "lesser mind rune",
+        "ssml_text": "<prosody rate='fast'>lesser mind rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser rebirth rune.mp3",
+        "tts_text": "lesser rebirth rune",
+        "ssml_text": "<prosody rate='fast'>lesser rebirth rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser resolve rune.mp3",
+        "tts_text": "lesser resolve rune",
+        "ssml_text": "<prosody rate='fast'>lesser resolve rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser robust rune.mp3",
+        "tts_text": "lesser robust rune",
+        "ssml_text": "<prosody rate='fast'>lesser robust rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser stone rune.mp3",
+        "tts_text": "lesser stone rune",
+        "ssml_text": "<prosody rate='fast'>lesser stone rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser storm rune.mp3",
+        "tts_text": "lesser storm rune",
+        "ssml_text": "<prosody rate='fast'>lesser storm rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/lesser vision rune.mp3",
+        "tts_text": "lesser vision rune",
+        "ssml_text": "<prosody rate='fast'>lesser vision rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/mind rune.mp3",
+        "tts_text": "mind rune",
+        "ssml_text": "<prosody rate='fast'>mind rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/rebirth rune.mp3",
+        "tts_text": "rebirth rune",
+        "ssml_text": "<prosody rate='fast'>rebirth rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/resolve rune.mp3",
+        "tts_text": "resolve rune",
+        "ssml_text": "<prosody rate='fast'>resolve rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/robust rune.mp3",
+        "tts_text": "robust rune",
+        "ssml_text": "<prosody rate='fast'>robust rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/stone rune.mp3",
+        "tts_text": "stone rune",
+        "ssml_text": "<prosody rate='fast'>stone rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/storm rune.mp3",
+        "tts_text": "storm rune",
+        "ssml_text": "<prosody rate='fast'>storm rune</prosody>"
+    },
+    {
+        "path": "socketable/runes/vision rune.mp3",
+        "tts_text": "vision rune",
+        "ssml_text": "<prosody rate='fast'>vision rune</prosody>"
+    },
+    {
+        "path": "socketable/talismans/bear talisman.mp3",
+        "tts_text": "bear talisman",
+        "ssml_text": "<prosody rate='fast'>bear talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/boar talisman.mp3",
+        "tts_text": "boar talisman",
+        "ssml_text": "<prosody rate='fast'>boar talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/cat talisman.mp3",
+        "tts_text": "cat talisman",
+        "ssml_text": "<prosody rate='fast'>cat talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/fox talisman.mp3",
+        "tts_text": "fox talisman",
+        "ssml_text": "<prosody rate='fast'>fox talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/owl talisman.mp3",
+        "tts_text": "owl talisman",
+        "ssml_text": "<prosody rate='fast'>owl talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/ox talisman.mp3",
+        "tts_text": "ox talisman",
+        "ssml_text": "<prosody rate='fast'>ox talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/primate talisman.mp3",
+        "tts_text": "primate talisman",
+        "ssml_text": "<prosody rate='fast'>primate talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/rabbit talisman.mp3",
+        "tts_text": "rabbit talisman",
+        "ssml_text": "<prosody rate='fast'>rabbit talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/serpent talisman.mp3",
+        "tts_text": "serpent talisman",
+        "ssml_text": "<prosody rate='fast'>serpent talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/stag talisman.mp3",
+        "tts_text": "stag talisman",
+        "ssml_text": "<prosody rate='fast'>stag talisman</prosody>"
+    },
+    {
+        "path": "socketable/talismans/wolf talisman.mp3",
+        "tts_text": "wolf talisman",
+        "ssml_text": "<prosody rate='fast'>wolf talisman</prosody>"
+    },
+    {
+        "path": "unique.mp3",
+        "tts_text": "unique",
+        "ssml_text": ""
+    }
 ]
